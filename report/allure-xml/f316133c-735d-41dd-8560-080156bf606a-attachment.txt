@@ -1,0 +1,40 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:230 Starting new HTTP connection (1): 127.0.0.1:54279
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session HTTP/1.1" 200 720
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/window/maximize HTTP/1.1" 200 51
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/url {"url": "http://admin.etmprot.etmcn.com/#/login"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element {"using": "css selector", "value": "[name=\"phone\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element/211d282e-de21-4d03-b747-526f1108e7cd/value {"text": "15521283804", "value": ["1", "5", "5", "2", "1", "2", "8", "3", "8", "0", "4"], "id": "211d282e-de21-4d03-b747-526f1108e7cd"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element/211d282e-de21-4d03-b747-526f1108e7cd/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:29 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element {"using": "css selector", "value": "[name=\"password\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element/d79196ce-6fd3-4eb0-8f48-ed081dd410af/value {"text": "666666", "value": ["6", "6", "6", "6", "6", "6"], "id": "d79196ce-6fd3-4eb0-8f48-ed081dd410af"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element/d79196ce-6fd3-4eb0-8f48-ed081dd410af/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:29 输入内容，元素类型 name ,属性值 password ， 输入值666666
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element {"using": "css selector", "value": ".el-button"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element/2e456f42-ec13-4fc7-8ef1-090b1ee93b9f/click {"id": "2e456f42-ec13-4fc7-8ef1-090b1ee93b9f"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element/2e456f42-ec13-4fc7-8ef1-090b1ee93b9f/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:29 鼠标点击，元素类型 class_name ,属性值 el-button 
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/element {"using": "xpath", "value": "//*[@id=\"app\"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "POST /session/022894e23588db948779b9d8c111a1b6/element HTTP/1.1" 404 1093
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6/cookie {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "DELETE /session/022894e23588db948779b9d8c111a1b6/cookie HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:54279/session/022894e23588db948779b9d8c111a1b6 {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:442 http://127.0.0.1:54279 "DELETE /session/022894e23588db948779b9d8c111a1b6 HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

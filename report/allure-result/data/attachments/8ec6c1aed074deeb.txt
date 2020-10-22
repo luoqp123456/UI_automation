@@ -1,0 +1,16 @@
+2020-10-09 14:41:07,897 - root - INFO - 测试用例：添加课程
+2020-10-09 14:41:23,993 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-10-09 14:41:24,251 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-10-09 14:41:27,673 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-09 14:41:30,463 - root - INFO - 切换回主文档
+2020-10-09 14:41:30,911 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-09 14:41:31,940 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-10-09 14:41:32,308 - root - INFO - 切换回主文档
+2020-10-09 14:41:32,469 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-09 14:41:32,543 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-09 14:41:32,854 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-10-09 14:41:33,062 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-10-09 14:41:33,242 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-10-09 14:41:33,404 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-10-09 14:41:36,728 - root - INFO - 鼠标点击，元素类型 css ,属性值 [title="班级:韩语课程"] 
+2020-10-09 14:41:36,908 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnDel 

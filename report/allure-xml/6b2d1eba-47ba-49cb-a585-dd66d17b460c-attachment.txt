@@ -1,0 +1,8 @@
+2020-10-12 18:44:13,435 - root - INFO - 测试用例：物品添加
+2020-10-12 18:44:16,303 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-12 18:44:16,957 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-12 18:44:17,386 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-12 18:44:17,696 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-12 18:44:17,839 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-12 18:44:17,961 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-12 18:44:18,354 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 

@@ -1,0 +1,211 @@
+2020-10-19 09:29:45,783 - root - INFO - 测试用例：活动中心添加活动
+2020-10-19 09:29:46,221 - root - INFO - 测试用例：添加学员
+2020-10-19 09:29:47,353 - root - INFO - 测试用例：签约合同
+2020-10-19 09:29:47,523 - root - INFO - 测试用例：签约合同
+2020-10-19 09:30:04,025 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 活动中心 
+2020-10-19 09:30:04,051 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-19 09:30:04,230 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 活动添加 
+2020-10-19 09:30:04,237 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-19 09:30:04,357 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-10-19 09:30:04,583 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-10-19 09:30:04,828 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:05,299 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:05,483 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分1
+2020-10-19 09:30:05,925 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757837
+2020-10-19 09:30:06,086 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:06,142 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-19 09:30:06,283 - root - INFO - 鼠标点击，元素类型 id ,属性值 divShowupload 
+2020-10-19 09:30:06,292 - root - INFO - 输入内容，元素类型 id ,属性值 txtDoTitle ， 输入值自动化活动
+2020-10-19 09:30:06,430 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-10-19 09:30:06,709 - root - INFO - 输入内容，元素类型 id ,属性值 txtMemberCount ， 输入值10
+2020-10-19 09:30:06,917 - root - INFO - 输入内容，元素类型 id ,属性值 txtStartDate ， 输入值2030-01-01
+2020-10-19 09:30:07,146 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-10-19 09:30:07,158 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:07,160 - root - INFO - 切换回主文档
+2020-10-19 09:30:07,316 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值2030-01-02
+2020-10-19 09:30:07,750 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-19 09:30:08,087 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-10-19 09:30:08,201 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-10-19 09:30:08,685 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-10-19 09:30:08,702 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-19 09:30:09,122 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-10-19 09:30:09,127 - root - INFO - 切换回主文档
+2020-10-19 09:30:09,413 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-19 09:30:09,432 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 [删除] 
+2020-10-19 09:30:09,527 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值MkrZ
+2020-10-19 09:30:09,663 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-19 09:30:10,051 - root - INFO - 测试用例：物品添加
+2020-10-19 09:30:10,116 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-10-19 09:30:10,902 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值WIzq
+2020-10-19 09:30:11,038 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-19 09:30:11,709 - root - INFO - 切换回主文档
+2020-10-19 09:30:13,070 - root - INFO - 切换回主文档
+2020-10-19 09:30:13,405 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-19 09:30:13,653 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-19 09:30:14,750 - root - INFO - 测试用例：签约合同
+2020-10-19 09:30:14,778 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-19 09:30:15,331 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 合同管理 
+2020-10-19 09:30:15,482 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="menuNormal"]/a[3] 
+2020-10-19 09:30:15,562 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 09:30:15,862 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 09:30:15,970 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:16,356 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:16,633 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 合同管理 
+2020-10-19 09:30:16,668 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 09:30:16,827 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="menuNormal"]/a[3] 
+2020-10-19 09:30:16,836 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 09:30:16,953 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 09:30:17,300 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 09:30:17,615 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:17,654 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnCheck 
+2020-10-19 09:30:18,030 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-19 09:30:18,390 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-10-19 09:30:18,572 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:18,785 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-10-19 09:30:19,044 - root - INFO - 测试用例：添加课程
+2020-10-19 09:30:19,268 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-10-19 09:30:19,582 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnCheck 
+2020-10-19 09:30:19,817 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-10-19 09:30:21,438 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSaveNew 
+2020-10-19 09:30:21,859 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-10-19 09:30:22,475 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-10-19 09:30:23,414 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:24,369 - root - INFO - 切换回主文档
+2020-10-19 09:30:24,502 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-19 09:30:24,949 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-10-19 09:30:25,079 - root - INFO - 切换回主文档
+2020-10-19 09:30:25,158 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-19 09:30:25,180 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 09:30:25,398 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-10-19 09:30:25,489 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-10-19 09:30:25,567 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-10-19 09:30:25,663 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-10-19 10:53:13,885 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:53:14,068 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:53:16,291 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:53:16,505 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:54:05,772 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:54:05,994 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:54:13,059 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:54:13,276 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:54:55,462 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:54:55,675 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:54:57,935 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:54:58,172 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:56:13,909 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:56:14,118 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:56:15,979 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:56:16,443 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:56:37,126 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:56:37,339 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:56:40,731 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:56:40,928 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:57:29,874 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:57:30,063 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 10:57:39,552 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 10:57:39,762 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 11:00:54,257 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 11:00:55,013 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 11:00:58,842 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 11:00:59,115 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 11:01:26,223 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 11:01:26,437 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 11:01:30,198 - root - INFO - 鼠标点击，元素类型 id ,属性值 logo 
+2020-10-19 11:01:30,418 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnLogOut11 
+2020-10-19 11:43:17,817 - root - INFO - 测试用例：物品添加
+2020-10-19 11:43:22,463 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 11:43:22,609 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 11:43:22,842 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 11:43:23,049 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 11:43:23,135 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 11:43:23,218 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 11:43:23,484 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 11:44:31,067 - root - INFO - 测试用例：物品添加
+2020-10-19 11:44:36,693 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 11:44:36,875 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 11:44:37,083 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 11:44:37,236 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 11:44:37,321 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 11:44:37,394 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 11:44:37,677 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 11:47:01,371 - root - INFO - 测试用例：物品添加
+2020-10-19 11:47:08,555 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 11:47:08,725 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 11:47:08,929 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 11:47:09,089 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 11:47:09,170 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 11:47:09,253 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 11:47:09,521 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 11:50:06,254 - root - INFO - 测试用例：物品添加
+2020-10-19 11:50:11,045 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 11:50:11,166 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 11:50:11,393 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 11:50:11,570 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 11:50:11,659 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 11:50:11,734 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 11:50:12,002 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 11:51:10,104 - root - INFO - 测试用例：物品添加
+2020-10-19 11:51:15,153 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-19 11:51:15,324 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-19 11:51:15,541 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-19 11:51:15,707 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-19 11:51:15,795 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-19 11:51:15,880 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-19 11:51:16,137 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-19 12:08:42,061 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:08:42,615 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:08:42,674 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:08:42,890 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:10:02,747 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:10:02,917 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:11:16,206 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:11:16,387 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:11:16,488 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:13:06,503 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:13:06,661 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:13:06,803 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:13:59,145 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:13:59,323 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:13:59,423 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:14:02,116 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div 
+2020-10-19 12:14:02,225 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/ul/div[1]/div/li 
+2020-10-19 12:14:54,760 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:14:55,113 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:14:55,241 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:14:58,326 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div 
+2020-10-19 12:14:58,445 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/ul/div[1]/div/li 
+2020-10-19 12:15:00,129 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:15:00,408 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:15:00,517 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:15:03,586 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div 
+2020-10-19 12:15:03,673 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/div/li 
+2020-10-19 12:17:09,182 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:17:09,455 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:17:09,561 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:17:10,959 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:17:11,443 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:17:11,580 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:17:12,906 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div 
+2020-10-19 12:17:13,125 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/div/li 
+2020-10-19 12:18:12,373 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:18:12,386 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:18:12,594 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:18:12,662 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:18:12,710 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:18:12,773 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:18:16,070 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div 
+2020-10-19 12:18:16,214 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/ul/div[1]/div/li 
+2020-10-19 12:18:19,999 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div 
+2020-10-19 12:18:20,135 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/div/li 
+2020-10-19 12:19:21,118 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:19:21,384 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:19:21,506 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:19:22,657 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:19:23,036 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:19:23,209 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:19:24,617 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div 
+2020-10-19 12:19:24,780 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/ul/div[1]/div/li 
+2020-10-19 12:19:27,090 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div 
+2020-10-19 12:19:27,230 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/div/li 
+2020-10-19 12:19:30,387 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/div 
+2020-10-19 12:19:30,473 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[3]/li/ul/div[1]/div/li 

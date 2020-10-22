@@ -1,0 +1,16 @@
+2020-10-09 15:19:01,667 - root - INFO - 测试用例：签约合同
+2020-10-09 15:19:23,448 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-09 15:19:23,910 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-10-09 15:19:24,621 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-09 15:19:26,812 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-10-09 15:19:26,847 - root - INFO - 切换回主文档
+2020-10-09 15:19:27,227 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-09 15:19:28,241 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-10-09 15:19:29,112 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值d8Ok
+2020-10-09 15:19:29,287 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-09 15:19:31,329 - root - INFO - 切换回主文档
+2020-10-09 15:19:33,102 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-09 15:19:34,252 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 合同管理 
+2020-10-09 15:19:34,368 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="menuNormal"]/a[3] 
+2020-10-09 15:19:34,620 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-09 15:19:35,836 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnCheck 

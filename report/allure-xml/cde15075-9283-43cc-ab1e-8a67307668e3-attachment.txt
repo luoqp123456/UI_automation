@@ -1,0 +1,4 @@
+Exception happening :Alert Text: 此批次名称已存在！
+Message: unexpected alert open: {Alert text : 此批次名称已存在！}
+  (Session info: chrome=85.0.4183.121)
+

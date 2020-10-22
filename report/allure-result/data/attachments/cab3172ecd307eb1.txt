@@ -1,0 +1,1 @@
+Exception happening :'Goods_page' object has no attribute 'table'

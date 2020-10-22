@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"lbRealName\"]\"}\n  (Session info: chrome=86.0.4240.75)",
+      "children" : [ {
+        "name" : "test_add_success",
+        "uid" : "5ed6aa2d552acc12",
+        "parentUid" : "1cd7aecca1ff308b928cc503f15b7a65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603070986220,
+          "stop" : 1603071014233,
+          "duration" : 28013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1cd7aecca1ff308b928cc503f15b7a65"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[title=\"班级:韩语课程\"]\"}\n  (Session info: chrome=86.0.4240.75)",
+      "children" : [ {
+        "name" : "test_add_course",
+        "uid" : "92f7150422558f7f",
+        "parentUid" : "b0b2a9ca8843edb823cd5a2914b09441",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603071019045,
+          "stop" : 1603071026200,
+          "duration" : 7155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b0b2a9ca8843edb823cd5a2914b09441"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"app\"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div\"}\n  (Session info: chrome=86.0.4240.75)",
+      "children" : [ {
+        "name" : "test_pr",
+        "uid" : "42a983fab1a8cc46",
+        "parentUid" : "0f6dda84dfa1053b3da4449f3b5660bd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603081153387,
+          "stop" : 1603081167832,
+          "duration" : 14445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f6dda84dfa1053b3da4449f3b5660bd"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

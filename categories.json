@@ -1,0 +1,27 @@
+[
+  {
+    "name": "跳过",
+    "messageRegex": ".*",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "查询超时",
+    "traceRegex": ".*QueryTimeOut.*",
+    "matchedStatuses": ["broken","failed"]
+  },
+  {
+    "name": "元素查找超时",
+    "traceRegex": ".*TimeoutException.*",
+    "matchedStatuses": ["broken","failed"]
+  },
+  {
+    "name": "断言失败",
+    "traceRegex": ".*AssertionError.*",
+    "matchedStatuses": ["broken","failed"]
+  },
+  {
+    "name": "HTTP调用错误",
+    "traceRegex": ".*HTTPError.*",
+    "matchedStatuses": ["broken","failed"]
+  }
+]

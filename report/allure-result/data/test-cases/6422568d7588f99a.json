@@ -1,0 +1,196 @@
+{
+  "uid" : "6422568d7588f99a",
+  "name" : "test_add_course",
+  "fullName" : "test_case.test_teach.Test_teachstu#test_add_course",
+  "historyId" : "78f29684fb09abeb8e6fd4cb67461a2e",
+  "time" : {
+    "start" : 1602213174452,
+    "stop" : 1602213184627,
+    "duration" : 10175
+  },
+  "description" : "添加课程，后取消排课",
+  "descriptionHtml" : "<p>添加课程，后取消排课</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "teardown_func",
+    "time" : {
+      "start" : 1602213174452,
+      "stop" : 1602213174452,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "log_up",
+    "time" : {
+      "start" : 1602213155697,
+      "stop" : 1602213155697,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1602213150039,
+      "stop" : 1602213155697,
+      "duration" : 5658
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "添加课程，后取消排课",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "截图验证",
+      "time" : {
+        "start" : 1602213180974,
+        "stop" : 1602213182381,
+        "duration" : 1407
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5408a7e5b139d01d",
+        "name" : "截图",
+        "source" : "5408a7e5b139d01d.png",
+        "type" : "image/png",
+        "size" : 83830
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "截图验证",
+      "time" : {
+        "start" : 1602213183243,
+        "stop" : 1602213184626,
+        "duration" : 1383
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "38e85890299d1f97",
+        "name" : "截图",
+        "source" : "38e85890299d1f97.png",
+        "type" : "image/png",
+        "size" : 80300
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "2e6d6f209aa007a8",
+      "name" : "log",
+      "source" : "2e6d6f209aa007a8.txt",
+      "type" : "text/plain",
+      "size" : 60902
+    }, {
+      "uid" : "1bc94cfdceb17dd",
+      "name" : "stderr",
+      "source" : "1bc94cfdceb17dd.txt",
+      "type" : "text/plain",
+      "size" : 1456
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "teardown_func::0",
+    "time" : {
+      "start" : 1602213184627,
+      "stop" : 1602213184702,
+      "duration" : 75
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1602213184704,
+      "stop" : 1602213186960,
+      "duration" : 2256
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_teach"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_teachstu"
+  }, {
+    "name" : "host",
+    "value" : "TX5C3S1L7D31UYD"
+  }, {
+    "name" : "thread",
+    "value" : "19076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_teach"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6422568d7588f99a.json",
+  "parameterValues" : [ ]
+}

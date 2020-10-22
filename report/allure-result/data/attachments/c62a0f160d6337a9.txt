@@ -1,0 +1,5 @@
+2020-10-19 12:17:09,182 - root - INFO - 输入内容，元素类型 name ,属性值 phone ， 输入值15521283804
+2020-10-19 12:17:09,455 - root - INFO - 输入内容，元素类型 name ,属性值 password ， 输入值666666
+2020-10-19 12:17:09,561 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 el-button 
+2020-10-19 12:17:12,906 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div 
+2020-10-19 12:17:13,125 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/div/li 

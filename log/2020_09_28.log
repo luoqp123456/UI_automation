@@ -1,0 +1,717 @@
+2020-09-28 10:48:37,480 - root - INFO - 测试用例：签约合同
+2020-09-28 10:48:42,700 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:48:42,842 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:48:43,164 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:49:47,244 - root - INFO - 测试用例：签约合同
+2020-09-28 10:49:52,396 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:49:52,550 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:49:52,889 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:51:00,807 - root - INFO - 测试用例：签约合同
+2020-09-28 10:51:10,488 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:51:10,610 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:51:10,899 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:54:50,635 - root - INFO - 测试用例：签约合同
+2020-09-28 10:54:55,504 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:54:55,644 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:54:55,974 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:54:56,007 - root - INFO - 元素类型 id ,属性值 Test
+2020-09-28 10:55:59,378 - root - INFO - 测试用例：签约合同
+2020-09-28 10:56:09,891 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:56:10,030 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:56:10,324 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:59:03,933 - root - INFO - 测试用例：签约合同
+2020-09-28 10:59:10,903 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 10:59:11,030 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 10:59:11,325 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 10:59:11,342 - root - INFO - 元素类型 id ,属性值 Test
+2020-09-28 11:11:12,828 - root - INFO - 测试用例：签约合同
+2020-09-28 11:11:17,127 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:11:17,297 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:11:18,044 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:11:18,070 - root - INFO - 元素类型 id ,属性值 Test
+2020-09-28 11:14:14,350 - root - INFO - 测试用例：签约合同
+2020-09-28 11:14:19,580 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:14:19,715 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:14:20,060 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:14:20,510 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 11:14:22,031 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:14:22,040 - root - INFO - 切换回主文档
+2020-09-28 11:14:48,074 - root - INFO - 测试用例：签约合同
+2020-09-28 11:14:53,262 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:14:53,504 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:14:54,235 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:14:54,259 - root - INFO - 元素类型 class_name ,属性值 bDiv
+2020-09-28 11:19:26,832 - root - INFO - 测试用例：签约合同
+2020-09-28 11:19:37,190 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:19:37,371 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:19:37,715 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:19:39,578 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:19:39,584 - root - INFO - 切换回主文档
+2020-09-28 11:20:08,720 - root - INFO - 测试用例：签约合同
+2020-09-28 11:20:13,164 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:20:13,284 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:20:13,620 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:20:13,644 - root - INFO - 元素类型 class_name ,属性值 bDiv
+2020-09-28 11:21:12,607 - root - INFO - 测试用例：签约合同
+2020-09-28 11:21:17,098 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:21:17,221 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:21:17,557 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:21:17,958 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 11:21:19,469 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:21:19,479 - root - INFO - 切换回主文档
+2020-09-28 11:23:33,916 - root - INFO - 测试用例：签约合同
+2020-09-28 11:23:40,091 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:23:40,297 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:23:40,663 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:23:42,596 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:23:42,602 - root - INFO - 切换回主文档
+2020-09-28 11:25:12,190 - root - INFO - 测试用例：签约合同
+2020-09-28 11:25:17,077 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:25:17,212 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:25:17,510 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:25:19,429 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:25:19,438 - root - INFO - 切换回主文档
+2020-09-28 11:25:19,503 - root - INFO - 切换iframe，元素类型 tag_name ,属性值 iframe 
+2020-09-28 11:26:35,332 - root - INFO - 测试用例：签约合同
+2020-09-28 11:26:40,468 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:26:40,621 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:26:40,878 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:26:42,791 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:26:42,798 - root - INFO - 切换回主文档
+2020-09-28 11:27:27,192 - root - INFO - 测试用例：签约合同
+2020-09-28 11:27:35,789 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:27:35,935 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:27:36,204 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:27:38,078 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:27:38,085 - root - INFO - 切换回主文档
+2020-09-28 11:27:38,309 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:30:25,169 - root - INFO - 测试用例：签约合同
+2020-09-28 11:30:35,008 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:30:35,164 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:30:35,531 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:30:37,421 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:30:37,432 - root - INFO - 切换回主文档
+2020-09-28 11:30:37,628 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:30:38,255 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 11:32:30,108 - root - INFO - 测试用例：签约合同
+2020-09-28 11:32:36,975 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:32:37,114 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:32:37,442 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:32:39,314 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:32:39,323 - root - INFO - 切换回主文档
+2020-09-28 11:32:39,540 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:32:40,161 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 11:33:27,067 - root - INFO - 测试用例：签约合同
+2020-09-28 11:33:34,396 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:33:34,522 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:33:34,844 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:33:36,727 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:33:36,735 - root - INFO - 切换回主文档
+2020-09-28 11:33:36,988 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:33:37,590 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 11:47:32,157 - root - INFO - 测试用例：签约合同
+2020-09-28 11:47:39,988 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:47:40,131 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:47:40,437 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:47:42,319 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:47:42,326 - root - INFO - 切换回主文档
+2020-09-28 11:47:42,524 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:47:43,111 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 11:49:21,678 - root - INFO - 测试用例：签约合同
+2020-09-28 11:49:26,819 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:49:26,950 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:49:27,306 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:49:29,251 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:49:29,261 - root - INFO - 切换回主文档
+2020-09-28 11:49:29,502 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 11:49:30,143 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 11:59:23,620 - root - INFO - 测试用例：签约合同
+2020-09-28 11:59:29,162 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 11:59:29,280 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 11:59:30,610 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 11:59:32,428 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 11:59:32,441 - root - INFO - 切换回主文档
+2020-09-28 11:59:32,632 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 12:01:22,750 - root - INFO - 测试用例：签约合同
+2020-09-28 12:01:27,853 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 12:01:27,985 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 12:01:28,321 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 12:01:28,342 - root - INFO - 元素类型 id ,属性值 Test
+2020-09-28 12:02:22,118 - root - INFO - 测试用例：签约合同
+2020-09-28 12:02:26,611 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 12:02:26,711 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 12:02:27,045 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 12:02:28,902 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 12:02:28,909 - root - INFO - 切换回主文档
+2020-09-28 12:02:29,107 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 12:02:29,727 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 13:56:57,647 - root - INFO - 测试用例：签约合同
+2020-09-28 13:57:05,133 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 13:57:05,260 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 13:57:05,536 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 13:57:07,390 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 13:57:07,399 - root - INFO - 切换回主文档
+2020-09-28 13:57:07,624 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 13:57:08,230 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 13:59:31,280 - root - INFO - 测试用例：签约合同
+2020-09-28 13:59:38,125 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 13:59:38,256 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 13:59:38,583 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 13:59:40,474 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 13:59:40,487 - root - INFO - 切换回主文档
+2020-09-28 13:59:40,692 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 13:59:41,338 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:05:45,303 - root - INFO - 测试用例：签约合同
+2020-09-28 14:05:49,884 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:05:49,984 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:05:50,267 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:05:52,201 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:05:52,212 - root - INFO - 切换回主文档
+2020-09-28 14:05:52,454 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:05:53,104 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:05:53,110 - root - INFO - 切换回主文档
+2020-09-28 14:05:53,147 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:05:53,257 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 WdateDiv 
+2020-09-28 14:06:17,888 - root - INFO - 测试用例：签约合同
+2020-09-28 14:06:22,846 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:06:22,987 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:06:23,301 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:06:25,234 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:06:25,247 - root - INFO - 切换回主文档
+2020-09-28 14:06:25,482 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:06:26,142 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:06:26,147 - root - INFO - 切换回主文档
+2020-09-28 14:06:26,185 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:06:26,297 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 WdateDiv 
+2020-09-28 14:07:17,689 - root - INFO - 测试用例：签约合同
+2020-09-28 14:07:22,615 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:07:22,771 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:07:23,099 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:07:24,980 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:07:24,991 - root - INFO - 切换回主文档
+2020-09-28 14:07:25,195 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:07:25,816 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:07:25,829 - root - INFO - 切换回主文档
+2020-09-28 14:07:25,863 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:07:26,001 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 WdateDiv 
+2020-09-28 14:17:30,069 - root - INFO - 测试用例：签约合同
+2020-09-28 14:17:37,815 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:17:37,943 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:17:38,199 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:17:40,061 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:17:40,072 - root - INFO - 切换回主文档
+2020-09-28 14:17:40,290 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:17:40,889 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:17:40,895 - root - INFO - 切换回主文档
+2020-09-28 14:17:40,929 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:17:41,029 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 WdateDiv 
+2020-09-28 14:19:04,248 - root - INFO - 测试用例：签约合同
+2020-09-28 14:19:12,077 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:19:12,203 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:19:12,517 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:19:14,422 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:19:14,429 - root - INFO - 切换回主文档
+2020-09-28 14:19:14,623 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:19:15,234 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:19:15,238 - root - INFO - 切换回主文档
+2020-09-28 14:19:15,272 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:19:15,374 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 WdateDiv 
+2020-09-28 14:20:31,156 - root - INFO - 测试用例：签约合同
+2020-09-28 14:20:38,729 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:20:38,849 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:20:39,113 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:20:40,954 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:20:40,960 - root - INFO - 切换回主文档
+2020-09-28 14:20:41,178 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:20:41,806 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:20:41,810 - root - INFO - 切换回主文档
+2020-09-28 14:20:41,844 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:20:42,251 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:20:42,260 - root - INFO - 切换回主文档
+2020-09-28 14:23:44,358 - root - INFO - 测试用例：签约合同
+2020-09-28 14:23:49,204 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:23:49,382 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:23:49,699 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:23:51,637 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:23:51,646 - root - INFO - 切换回主文档
+2020-09-28 14:23:51,850 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:23:52,478 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:23:52,483 - root - INFO - 切换回主文档
+2020-09-28 14:23:52,517 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:23:52,940 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:23:52,946 - root - INFO - 切换回主文档
+2020-09-28 14:24:18,279 - root - INFO - 测试用例：签约合同
+2020-09-28 14:24:23,558 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:24:23,693 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:24:24,030 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:24:25,880 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:24:25,889 - root - INFO - 切换回主文档
+2020-09-28 14:24:26,085 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:24:26,704 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:24:26,710 - root - INFO - 切换回主文档
+2020-09-28 14:24:26,745 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:24:26,874 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:24:26,882 - root - INFO - 切换回主文档
+2020-09-28 14:28:07,736 - root - INFO - 测试用例：签约合同
+2020-09-28 14:28:12,669 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:28:12,797 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:28:13,113 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:28:14,969 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:28:14,976 - root - INFO - 切换回主文档
+2020-09-28 14:28:15,171 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:28:15,780 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:28:15,786 - root - INFO - 切换回主文档
+2020-09-28 14:28:15,822 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:28:15,928 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:28:15,935 - root - INFO - 切换回主文档
+2020-09-28 14:28:15,957 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:29:01,908 - root - INFO - 测试用例：签约合同
+2020-09-28 14:29:09,040 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:29:09,167 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:29:09,450 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:29:11,300 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:29:11,318 - root - INFO - 切换回主文档
+2020-09-28 14:29:11,527 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:29:12,186 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:29:12,191 - root - INFO - 切换回主文档
+2020-09-28 14:29:12,224 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:29:12,333 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:29:12,340 - root - INFO - 切换回主文档
+2020-09-28 14:29:12,365 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:29:13,101 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:29:13,194 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:32:12,957 - root - INFO - 测试用例：签约合同
+2020-09-28 14:32:17,902 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:32:18,035 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:32:18,346 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:32:20,255 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:32:20,261 - root - INFO - 切换回主文档
+2020-09-28 14:32:20,468 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:32:21,094 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:32:21,099 - root - INFO - 切换回主文档
+2020-09-28 14:32:21,133 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:32:21,234 - root - INFO - 鼠标点击，元素类型 id ,属性值 dpOkInput 
+2020-09-28 14:32:21,241 - root - INFO - 切换回主文档
+2020-09-28 14:36:26,337 - root - INFO - 测试用例：签约合同
+2020-09-28 14:36:34,601 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:36:34,707 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:36:34,984 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:36:36,887 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:36:36,901 - root - INFO - 切换回主文档
+2020-09-28 14:36:37,093 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:36:37,691 - root - INFO - 鼠标点击，元素类型 id ,属性值 txtEndDate 
+2020-09-28 14:36:37,698 - root - INFO - 切换回主文档
+2020-09-28 14:36:37,729 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[4]/iframe 
+2020-09-28 14:38:13,473 - root - INFO - 测试用例：签约合同
+2020-09-28 14:38:18,138 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:38:18,263 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:38:18,535 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:38:20,395 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:38:20,406 - root - INFO - 切换回主文档
+2020-09-28 14:38:20,623 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:38:21,255 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:38:21,952 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:38:22,041 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:38:41,312 - root - INFO - 测试用例：签约合同
+2020-09-28 14:38:46,482 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:38:46,623 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:38:46,938 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:38:48,807 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:38:48,814 - root - INFO - 切换回主文档
+2020-09-28 14:38:49,004 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:38:49,657 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:38:50,336 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:38:50,431 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:41:17,029 - root - INFO - 测试用例：签约合同
+2020-09-28 14:41:21,605 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:41:21,706 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:41:22,189 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:41:24,120 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:41:24,134 - root - INFO - 切换回主文档
+2020-09-28 14:41:24,358 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:41:24,988 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:41:25,693 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:41:25,809 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:41:47,523 - root - INFO - 测试用例：签约合同
+2020-09-28 14:41:52,689 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:41:52,834 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:41:53,201 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:41:55,055 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:41:55,064 - root - INFO - 切换回主文档
+2020-09-28 14:41:55,318 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:41:55,986 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:41:56,695 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:41:56,796 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:45:07,886 - root - INFO - 测试用例：签约合同
+2020-09-28 14:45:13,033 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:45:13,203 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:45:13,586 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:45:52,301 - root - INFO - 测试用例：签约合同
+2020-09-28 14:45:57,145 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:45:57,278 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:45:57,692 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:45:59,601 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:45:59,608 - root - INFO - 切换回主文档
+2020-09-28 14:45:59,853 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:46:00,536 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:46:01,299 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:46:01,423 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:46:01,930 - root - INFO - 添加成功!
+2020-09-28 14:47:43,362 - root - INFO - 测试用例：签约合同
+2020-09-28 14:47:48,324 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:47:48,480 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:47:48,824 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:47:50,742 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:47:50,754 - root - INFO - 切换回主文档
+2020-09-28 14:47:50,956 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:47:51,561 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:47:52,256 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:47:52,340 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:47:52,845 - root - INFO - 添加成功!
+2020-09-28 14:48:20,724 - root - INFO - 测试用例：签约合同
+2020-09-28 14:48:25,923 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:48:26,077 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:48:26,364 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:48:28,207 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:48:28,223 - root - INFO - 切换回主文档
+2020-09-28 14:48:28,460 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:48:29,094 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:48:29,771 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:48:29,862 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:48:30,381 - root - INFO - 添加成功!
+2020-09-28 14:48:31,313 - root - INFO - 切换回主文档
+2020-09-28 14:48:31,959 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 14:51:56,343 - root - INFO - 测试用例：签约合同
+2020-09-28 14:52:03,820 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:52:03,947 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:52:04,277 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:52:06,121 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:52:06,128 - root - INFO - 切换回主文档
+2020-09-28 14:52:06,320 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:52:06,945 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:52:07,620 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:52:07,707 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 14:52:46,787 - root - INFO - 测试用例：签约合同
+2020-09-28 14:52:51,844 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 14:52:51,995 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 14:52:52,347 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 14:52:54,210 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 14:52:54,217 - root - INFO - 切换回主文档
+2020-09-28 14:52:54,410 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 14:52:55,043 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 14:52:55,768 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 14:52:55,869 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 15:32:11,888 - root - INFO - 测试用例：签约合同
+2020-09-28 15:32:17,162 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 15:32:17,287 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 15:32:18,152 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 15:32:20,128 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 15:32:20,138 - root - INFO - 切换回主文档
+2020-09-28 15:32:20,413 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 15:32:21,249 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 15:32:22,014 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 15:32:22,149 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 15:33:12,498 - root - INFO - 测试用例：签约合同
+2020-09-28 15:33:17,750 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 15:33:17,895 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 15:33:18,229 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 15:33:20,178 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 15:33:20,188 - root - INFO - 切换回主文档
+2020-09-28 15:33:20,390 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 15:33:21,043 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 15:33:21,749 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 15:33:21,851 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 15:33:22,362 - root - INFO - 添加成功!
+2020-09-28 15:33:23,294 - root - INFO - 切换回主文档
+2020-09-28 15:33:23,976 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 15:37:32,147 - root - INFO - 测试用例：签约合同
+2020-09-28 15:37:39,570 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 15:37:39,716 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 15:37:40,037 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 15:37:41,942 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 15:37:41,952 - root - INFO - 切换回主文档
+2020-09-28 15:37:42,159 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 15:37:42,801 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 15:37:43,503 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 15:37:43,602 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 15:37:44,121 - root - INFO - 添加成功!
+2020-09-28 15:37:45,064 - root - INFO - 切换回主文档
+2020-09-28 15:37:45,704 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 15:43:31,152 - root - INFO - 测试用例：签约合同
+2020-09-28 15:43:37,841 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 15:43:38,043 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 15:43:38,372 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 15:43:40,342 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 15:43:40,351 - root - INFO - 切换回主文档
+2020-09-28 15:43:40,633 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 15:43:41,321 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 15:43:42,003 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 15:43:42,104 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 15:43:42,614 - root - INFO - 添加成功!
+2020-09-28 15:43:43,586 - root - INFO - 切换回主文档
+2020-09-28 15:43:44,542 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:16:16,505 - root - INFO - 测试用例：添加学员
+2020-09-28 16:16:21,946 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:16:22,090 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:16:22,451 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:16:22,612 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:16:22,754 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:16:23,183 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:16:23,701 - root - INFO - 学员信息已存在
+2020-09-28 16:16:24,801 - root - INFO - 测试用例：签约合同
+2020-09-28 16:16:26,318 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:16:26,451 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:16:26,758 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:16:39,605 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:16:39,739 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:16:41,074 - root - INFO - 测试用例：添加课程
+2020-09-28 16:16:42,629 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:16:42,751 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:16:43,513 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:20:46,653 - root - INFO - 测试用例：添加学员
+2020-09-28 16:20:51,292 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:20:51,403 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:20:51,765 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:20:51,915 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:20:52,031 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:20:52,367 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:20:52,880 - root - INFO - 学员信息已存在
+2020-09-28 16:20:54,041 - root - INFO - 测试用例：签约合同
+2020-09-28 16:20:55,655 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:20:55,816 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:20:56,718 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:21:05,725 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:21:05,885 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:21:07,187 - root - INFO - 测试用例：添加课程
+2020-09-28 16:21:11,098 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:21:11,223 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:21:12,314 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:21:58,349 - root - INFO - 测试用例：签约合同
+2020-09-28 16:22:07,378 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:22:07,520 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:22:07,830 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:22:09,770 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 16:22:09,782 - root - INFO - 切换回主文档
+2020-09-28 16:22:10,024 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:22:10,715 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 16:22:11,446 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 16:22:11,557 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:22:12,063 - root - INFO - 添加成功!
+2020-09-28 16:22:13,032 - root - INFO - 切换回主文档
+2020-09-28 16:22:13,992 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:23:38,762 - root - INFO - 测试用例：添加课程
+2020-09-28 16:23:43,250 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:23:43,360 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:23:44,637 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:25:04,679 - root - INFO - 测试用例：添加课程
+2020-09-28 16:25:10,909 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:25:11,061 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:25:12,335 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:30:54,895 - root - INFO - 测试用例：添加课程
+2020-09-28 16:31:01,933 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:31:02,082 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:31:03,361 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:33:30,814 - root - INFO - 测试用例：添加课程
+2020-09-28 16:33:36,245 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:33:36,391 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:33:37,696 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:33:38,875 - root - INFO - 切换回主文档
+2020-09-28 16:33:39,079 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:33:39,553 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 16:33:39,729 - root - INFO - 切换回主文档
+2020-09-28 16:33:39,838 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:33:39,890 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:33:40,048 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-09-28 16:33:40,149 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-09-28 16:33:40,239 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-09-28 16:33:40,347 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-09-28 16:33:40,862 - root - INFO - 保存成功！
+2020-09-28 16:33:42,714 - root - INFO - 鼠标点击，元素类型 css ,属性值 [title="班级:韩语课程"] 
+2020-09-28 16:33:42,830 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnDel 
+2020-09-28 16:33:42,835 - root - INFO - 将连同预约的学员一起取消，确认要执行吗？
+2020-09-28 16:33:43,653 - root - INFO - 取消排课成功
+2020-09-28 16:38:28,775 - root - INFO - 测试用例：添加学员
+2020-09-28 16:38:36,442 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:38:36,587 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:38:36,955 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:38:37,084 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:38:37,193 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:38:37,473 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:38:37,982 - root - INFO - 学员信息已存在
+2020-09-28 16:38:39,047 - root - INFO - 测试用例：签约合同
+2020-09-28 16:38:40,535 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:38:40,710 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:38:41,787 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:38:47,174 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:38:47,322 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:38:48,688 - root - INFO - 测试用例：添加课程
+2020-09-28 16:38:50,082 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:38:50,206 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:38:50,977 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:41:09,689 - root - INFO - 测试用例：添加学员
+2020-09-28 16:41:14,159 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:41:14,393 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:41:14,798 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:41:14,919 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:41:15,032 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:41:15,342 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:41:15,871 - root - INFO - 学员信息已存在
+2020-09-28 16:41:16,987 - root - INFO - 测试用例：签约合同
+2020-09-28 16:41:19,419 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:41:19,635 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:41:20,000 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:41:21,173 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 16:41:21,182 - root - INFO - 切换回主文档
+2020-09-28 16:41:21,386 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:41:22,043 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 16:41:22,730 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 16:41:22,845 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:41:23,158 - root - INFO - 添加成功!
+2020-09-28 16:41:24,219 - root - INFO - 切换回主文档
+2020-09-28 16:41:25,198 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:41:25,295 - root - INFO - 测试用例：添加课程
+2020-09-28 16:41:27,102 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:41:27,217 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:41:28,094 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:42:30,189 - root - INFO - 测试用例：添加学员
+2020-09-28 16:42:39,714 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:42:39,861 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:42:40,225 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:42:40,435 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:42:40,597 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:42:40,910 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:42:41,415 - root - INFO - 学员信息已存在
+2020-09-28 16:42:42,515 - root - INFO - 测试用例：签约合同
+2020-09-28 16:42:44,115 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:42:44,274 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:42:45,434 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:42:48,996 - root - INFO - 测试用例：添加课程
+2020-09-28 16:42:50,865 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:42:51,375 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:42:52,619 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:42:53,801 - root - INFO - 切换回主文档
+2020-09-28 16:42:53,972 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:42:54,363 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 16:42:54,571 - root - INFO - 切换回主文档
+2020-09-28 16:42:54,681 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:42:54,715 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:42:54,876 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-09-28 16:42:54,962 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-09-28 16:42:55,043 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-09-28 16:42:55,137 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-09-28 16:42:55,654 - root - INFO - 保存成功！
+2020-09-28 16:42:57,537 - root - INFO - 鼠标点击，元素类型 css ,属性值 [title="班级:韩语课程"] 
+2020-09-28 16:42:57,619 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnDel 
+2020-09-28 16:42:57,624 - root - INFO - 将连同预约的学员一起取消，确认要执行吗？
+2020-09-28 16:42:58,448 - root - INFO - 取消排课成功
+2020-09-28 16:43:50,754 - root - INFO - 测试用例：添加学员
+2020-09-28 16:43:55,730 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:43:55,883 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:43:56,269 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:43:56,420 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:43:56,554 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:43:56,865 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:43:57,377 - root - INFO - 学员信息已存在
+2020-09-28 16:43:58,470 - root - INFO - 测试用例：签约合同
+2020-09-28 16:44:03,303 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:44:03,464 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:44:03,747 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:44:04,962 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 16:44:04,982 - root - INFO - 切换回主文档
+2020-09-28 16:44:05,194 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:44:05,845 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 16:44:06,588 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 16:44:06,676 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:44:06,998 - root - INFO - 添加成功!
+2020-09-28 16:44:07,954 - root - INFO - 切换回主文档
+2020-09-28 16:44:08,914 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:44:09,001 - root - INFO - 测试用例：添加课程
+2020-09-28 16:44:10,976 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:44:11,332 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:44:12,508 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:44:13,550 - root - INFO - 切换回主文档
+2020-09-28 16:44:13,757 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:44:14,158 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 16:44:14,306 - root - INFO - 切换回主文档
+2020-09-28 16:44:14,402 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:44:14,430 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:44:14,605 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-09-28 16:44:14,711 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-09-28 16:44:14,819 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-09-28 16:44:14,931 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-09-28 16:44:15,441 - root - INFO - 保存成功！
+2020-09-28 16:44:17,386 - root - INFO - 鼠标点击，元素类型 css ,属性值 [title="班级:韩语课程"] 
+2020-09-28 16:44:17,468 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnDel 
+2020-09-28 16:44:17,473 - root - INFO - 将连同预约的学员一起取消，确认要执行吗？
+2020-09-28 16:44:18,135 - root - INFO - 取消排课成功
+2020-09-28 16:44:46,057 - root - INFO - 测试用例：添加学员
+2020-09-28 16:44:50,858 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:44:51,000 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-09-28 16:44:51,404 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:44:51,591 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分
+2020-09-28 16:44:51,730 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757829
+2020-09-28 16:44:52,083 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:44:52,594 - root - INFO - 学员信息已存在
+2020-09-28 16:44:53,703 - root - INFO - 测试用例：签约合同
+2020-09-28 16:44:56,292 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 16:44:56,501 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-09-28 16:44:56,844 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:44:58,095 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-09-28 16:44:58,116 - root - INFO - 切换回主文档
+2020-09-28 16:44:58,333 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:44:59,062 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-09-28 16:44:59,782 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值686
+2020-09-28 16:44:59,888 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-09-28 16:45:00,206 - root - INFO - 添加成功!
+2020-09-28 16:45:01,167 - root - INFO - 切换回主文档
+2020-09-28 16:45:02,116 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:45:02,214 - root - INFO - 测试用例：添加课程
+2020-09-28 16:45:09,229 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-09-28 16:45:09,352 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-09-28 16:45:10,498 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:45:11,610 - root - INFO - 切换回主文档
+2020-09-28 16:45:11,779 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-09-28 16:45:12,167 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-09-28 16:45:12,324 - root - INFO - 切换回主文档
+2020-09-28 16:45:12,416 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-09-28 16:45:12,463 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 16:45:12,640 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-09-28 16:45:12,721 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-09-28 16:45:12,806 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-09-28 16:45:12,896 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
+2020-09-28 16:45:13,404 - root - INFO - 保存成功！
+2020-09-28 16:45:15,282 - root - INFO - 鼠标点击，元素类型 css ,属性值 [title="班级:韩语课程"] 
+2020-09-28 16:45:15,365 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnDel 
+2020-09-28 16:45:15,369 - root - INFO - 将连同预约的学员一起取消，确认要执行吗？
+2020-09-28 16:45:16,064 - root - INFO - 取消排课成功
+2020-09-28 17:05:21,674 - root - INFO - 测试用例：签约合同
+2020-09-28 17:05:50,621 - root - INFO - 测试用例：签约合同
+2020-09-28 17:06:34,035 - root - INFO - 测试用例：签约合同
+2020-09-28 17:07:09,513 - root - INFO - 测试用例：签约合同
+2020-09-28 17:07:14,894 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 17:07:15,052 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-09-28 17:07:15,183 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 17:07:15,331 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-09-28 17:07:15,434 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-09-28 17:16:38,034 - root - INFO - 测试用例：签约合同
+2020-09-28 17:16:42,982 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 17:16:43,147 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-09-28 17:16:43,278 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 17:16:43,394 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-09-28 17:16:43,540 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-09-28 17:16:43,650 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-09-28 17:17:54,832 - root - INFO - 测试用例：签约合同
+2020-09-28 17:18:02,813 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 17:18:03,015 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-09-28 17:18:03,169 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 17:18:03,291 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-09-28 17:18:03,427 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-09-28 17:18:04,498 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-09-28 17:20:33,339 - root - INFO - 测试用例：签约合同
+2020-09-28 17:20:41,322 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-09-28 17:20:41,504 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-09-28 17:20:41,652 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-09-28 17:20:41,784 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-09-28 17:20:41,916 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-09-28 17:20:42,033 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-09-28 17:20:42,992 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSaveNew 

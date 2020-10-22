@@ -1,0 +1,8 @@
+2020-10-09 16:01:02,065 - root - INFO - 测试用例：签约合同
+2020-10-09 16:01:18,295 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-09 16:01:18,778 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-10-09 16:01:19,272 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-09 16:01:19,723 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-10-09 16:01:20,000 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-10-09 16:01:21,101 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-10-09 16:01:22,552 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSaveNew 

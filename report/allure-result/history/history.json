@@ -1,0 +1,176 @@
+{
+  "28a682bc6f3d494b8e15b85312b7818d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b102a664addeb14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603081152677,
+        "stop" : 1603081170475,
+        "duration" : 17798
+      }
+    } ]
+  },
+  "8366a35440168112fad599aa6e855b79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a696f1387065a9a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603071010051,
+        "stop" : 1603071017882,
+        "duration" : 7831
+      }
+    } ]
+  },
+  "78f29684fb09abeb8e6fd4cb67461a2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92f7150422558f7f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[title=\"班级:韩语课程\"]\"}\n  (Session info: chrome=86.0.4240.75)",
+      "time" : {
+        "start" : 1603071019045,
+        "stop" : 1603071026200,
+        "duration" : 7155
+      }
+    } ]
+  },
+  "521c3afcdc465fdda1ad510de3c0175e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60bd4ba1b4d8f5cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603070985783,
+        "stop" : 1603071009961,
+        "duration" : 24178
+      }
+    } ]
+  },
+  "9dbe9610200e93e86c91a6016f514fa0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "384e29bace7a084f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603070987524,
+        "stop" : 1603071020105,
+        "duration" : 32581
+      }
+    } ]
+  },
+  "53e169b8e75e94d36bf9e45ef7608e4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14acca18e856633e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603070987352,
+        "stop" : 1603071018245,
+        "duration" : 30893
+      }
+    } ]
+  },
+  "f3cb73350d1736548b2f1071827b11b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42a983fab1a8cc46",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"app\"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div\"}\n  (Session info: chrome=86.0.4240.75)",
+      "time" : {
+        "start" : 1603081153387,
+        "stop" : 1603081167832,
+        "duration" : 14445
+      }
+    } ]
+  },
+  "b42a0ee6ae1d321b775ac9fad4224700" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e8ded3674584dda5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603071014750,
+        "stop" : 1603071021439,
+        "duration" : 6689
+      }
+    } ]
+  },
+  "702c2dc738ce1aa16faec0e2ea26bb79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ed6aa2d552acc12",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"lbRealName\"]\"}\n  (Session info: chrome=86.0.4240.75)",
+      "time" : {
+        "start" : 1603070986220,
+        "stop" : 1603071014233,
+        "duration" : 28013
+      }
+    } ]
+  }
+}

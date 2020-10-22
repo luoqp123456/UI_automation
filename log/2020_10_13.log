@@ -1,0 +1,2180 @@
+2020-10-13 10:06:16,863 - root - INFO - 测试用例：物品添加
+2020-10-13 10:06:21,282 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:06:21,390 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:06:21,758 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:06:21,962 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:06:22,054 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:06:22,133 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:06:22,449 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:06:23,299 - root - INFO - 42
+2020-10-13 10:06:23,315 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d6c15f1e-97a0-49ba-8f9a-9b1ecc3eee14")>
+2020-10-13 10:06:23,316 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="148e01c6-5b28-4633-945c-966c5b008975")>
+2020-10-13 10:06:23,317 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fe662f41-9f87-4330-b1ff-2b4f3a6adfac")>
+2020-10-13 10:06:23,318 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="68a6f0f4-2300-49d7-887c-a9bc1794ec1f")>
+2020-10-13 10:06:23,319 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c3d72222-3ff8-4e85-80fe-687a53332134")>
+2020-10-13 10:06:23,319 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ba77be73-e7dd-4916-b1fb-bb8470176f9f")>
+2020-10-13 10:06:23,320 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="10bb484e-4d29-4d88-a5e0-d425ca269293")>
+2020-10-13 10:06:23,321 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f0c1a959-5b5f-428a-bfbb-f3dc3d7b3663")>
+2020-10-13 10:06:23,333 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c7e3606a-621b-400f-b4bc-34c264b7cc86")>
+2020-10-13 10:06:23,334 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="42f6b6b7-5aa5-40db-90d6-77ca3bf565da")>
+2020-10-13 10:06:23,349 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="79f65e15-83de-46f0-900a-9e1269aafd1b")>
+2020-10-13 10:06:23,349 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3135a0be-e00f-479f-96ec-d8d79a08d476")>
+2020-10-13 10:06:23,364 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="405b7fab-8c93-4b26-accf-76269fcdd700")>
+2020-10-13 10:06:23,365 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bccaa169-06d8-420f-a3e2-5d5fa8e9c2e7")>
+2020-10-13 10:06:23,378 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="264d8c24-7f44-41fe-90d7-878ffa670b0f")>
+2020-10-13 10:06:23,379 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d49e701c-5f98-4d92-b6eb-08fe205514ca")>
+2020-10-13 10:06:23,392 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f4aae22f-6cbe-414e-9771-20822a42cd39")>
+2020-10-13 10:06:23,392 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e8a64643-5857-470a-85f2-7902fa2f16e7")>
+2020-10-13 10:06:23,403 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ad83408d-2ed0-4e99-b95c-061373f9dd85")>
+2020-10-13 10:06:23,404 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="dd171613-7738-4ddd-9af0-1f0ccdc358a2")>
+2020-10-13 10:06:23,420 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e74ca7eb-6d06-40e1-b2e6-975abba6c99f")>
+2020-10-13 10:06:23,421 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b0121692-decd-4c27-8f98-13fd47a805b3")>
+2020-10-13 10:06:23,437 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e2c0e461-1147-4b45-949c-63f77c93b69b")>
+2020-10-13 10:06:23,438 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6afa8475-011a-4a4a-9fda-eb2eb7976132")>
+2020-10-13 10:06:23,451 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="13f93f11-f114-4338-ae0d-b53791fd4661")>
+2020-10-13 10:06:23,452 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ea370e23-a186-471f-a6f0-e8a853cd3aea")>
+2020-10-13 10:06:23,464 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e4cd359f-bda6-479e-a8d1-c39ba21ea0ee")>
+2020-10-13 10:06:23,465 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f6c292dd-7508-49a9-b2e4-40f6e35876ce")>
+2020-10-13 10:06:23,493 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5a18db69-fa53-4328-8b0c-fc833a1f2243")>
+2020-10-13 10:06:23,493 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="26b304ee-0149-450e-ab17-db333fc13713")>
+2020-10-13 10:06:23,494 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bf2ed9ce-37fc-4bcb-906c-293d578b32c8")>
+2020-10-13 10:06:23,495 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b40e7056-af4b-4fea-b665-831aab9c6a92")>
+2020-10-13 10:06:23,496 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3179ffd0-f898-4e62-b060-854210f50ed2")>
+2020-10-13 10:06:23,497 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="af8dc8a7-52a6-4a54-a375-843be2f4996d")>
+2020-10-13 10:06:23,498 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="36b8e93d-0964-443d-af74-f517d424edb3")>
+2020-10-13 10:06:23,499 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ddb507ce-81bc-46c5-a325-821f4c1edbb3")>
+2020-10-13 10:06:23,499 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="be0df483-0093-4075-9a84-de937ac96118")>
+2020-10-13 10:06:23,500 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="424d9a34-2831-444f-b417-45d39a11291a")>
+2020-10-13 10:06:23,513 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a344f394-7435-46ea-b5c8-2125042de6b7")>
+2020-10-13 10:06:23,513 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1d14fbf4-1741-4a49-a042-7a044a2b926d")>
+2020-10-13 10:06:23,514 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e5b5cbfa-07ab-4c02-a928-32bc7ce79423")>
+2020-10-13 10:06:23,515 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0f936e53-58bb-4573-9298-9a6f5270feb7")>
+2020-10-13 10:06:23,515 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="383c7ad5-a231-498c-bb27-bc322932839e")>
+2020-10-13 10:06:23,518 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="340f2968-5b35-498a-b04c-538baa3098d7")>
+2020-10-13 10:06:23,519 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e77aeaa1-526f-4f46-a7ad-e052422ed9ca")>
+2020-10-13 10:06:23,520 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a3aa9a2a-07e3-4b34-831c-74092bf534b2")>
+2020-10-13 10:06:23,520 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4f12a5a8-f239-4cf9-8df7-c223e46b7267")>
+2020-10-13 10:06:23,521 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6f4a327f-d5d6-43be-88d7-208b4f56c8fe")>
+2020-10-13 10:06:23,537 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cb432b81-4a54-484e-aaf4-b23919181620")>
+2020-10-13 10:06:23,537 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ce98fa42-1124-4212-a067-b1298c96cc8b")>
+2020-10-13 10:06:23,538 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ae4242e0-5849-44cb-843d-b5babb327d4a")>
+2020-10-13 10:06:23,539 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b89ed605-c8ee-4df6-9795-cc085a20e7bd")>
+2020-10-13 10:06:23,540 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="645dfe8b-4b49-4f64-9d3c-e3d8ab486f89")>
+2020-10-13 10:06:23,541 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c0a26860-d581-467f-9891-9629a3a4e188")>
+2020-10-13 10:06:23,541 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a97184c9-1a9a-46f6-b9d1-eccabec5bcf7")>
+2020-10-13 10:06:23,542 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cb763c17-f9b3-48f5-b06b-abbfe3c67906")>
+2020-10-13 10:06:23,543 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5e9dc589-9d77-4f33-a3c8-d112c83248d5")>
+2020-10-13 10:06:23,544 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a5b57bba-5532-4c0c-9b66-f214b0883d2c")>
+2020-10-13 10:06:23,558 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="24fd4e9c-15a3-4952-a9df-9ddafdc15dcd")>
+2020-10-13 10:06:23,559 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="962c196e-412d-43c1-ab94-65c0c91e58b5")>
+2020-10-13 10:06:23,560 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="470fd463-478d-4d06-81a3-1a7da82de4ff")>
+2020-10-13 10:06:23,560 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="12922aec-a3c3-4324-8cd7-a7c5755516aa")>
+2020-10-13 10:06:23,561 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="501f53fd-f273-4cfd-86b7-36609923d49a")>
+2020-10-13 10:06:23,562 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7a88d72d-895b-4bbf-a08b-df000e7e9345")>
+2020-10-13 10:06:23,563 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="11cda621-d389-4550-b4d8-1957f224b898")>
+2020-10-13 10:06:23,563 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="15c3eb0a-1cd7-4bfb-9910-8d504add3c7f")>
+2020-10-13 10:06:23,564 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e762fa48-eb71-4d4e-b745-5703b371d50f")>
+2020-10-13 10:06:23,565 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="2d273bb5-a092-4b02-93fd-7cef3cfecf77")>
+2020-10-13 10:06:23,581 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1941e91e-afdf-4310-8898-218a8bc76431")>
+2020-10-13 10:06:23,582 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6bd7efca-f3e8-4e39-830a-a43baba860fc")>
+2020-10-13 10:06:23,583 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d69f0bbd-719f-4e70-b9ff-ea15bc2738b3")>
+2020-10-13 10:06:23,584 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c466e23c-de2e-48a7-9d4a-0c4bcceecabd")>
+2020-10-13 10:06:23,585 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="be0a4c8b-3a6c-46c9-8efc-11b35b1a15ff")>
+2020-10-13 10:06:23,586 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4cffe4de-0e3e-4afd-a295-8be534f872e6")>
+2020-10-13 10:06:23,587 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7eab37a0-d3a8-465c-b791-d538dca91636")>
+2020-10-13 10:06:23,587 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9dccd896-4c0a-4574-929d-85964ca258b6")>
+2020-10-13 10:06:23,588 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="de92833c-07be-4b35-bded-1a1c9a883519")>
+2020-10-13 10:06:23,589 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a9c41355-fe70-472f-8006-ccfa420dc7a6")>
+2020-10-13 10:06:23,603 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0c0e3982-0aee-44ee-b84d-146182d41056")>
+2020-10-13 10:06:23,604 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="15659f1d-d038-4043-a6de-df50b26fe9f5")>
+2020-10-13 10:06:23,605 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="79f3dd42-0fcc-4cd1-87ae-e0b4998999d7")>
+2020-10-13 10:06:23,606 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1fc6c3c0-f65f-40eb-b11a-d32337889356")>
+2020-10-13 10:06:23,607 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cde3427f-c7da-4ed3-96e3-c766c69ed4c1")>
+2020-10-13 10:06:23,608 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1bf1237a-f4a4-4d00-b9fe-8ede5d71d440")>
+2020-10-13 10:06:23,610 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="61e4d9eb-137d-4881-93c5-6ae3c260c8c8")>
+2020-10-13 10:06:23,611 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b56f5487-13df-4f76-8e75-00c6e6a89832")>
+2020-10-13 10:06:23,611 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="2b578de1-178b-4167-921f-4bb5bda4fb3e")>
+2020-10-13 10:06:23,612 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f9d78dcc-47ac-455a-ac1a-75ddd2e2850c")>
+2020-10-13 10:06:23,625 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5cfada22-eb1e-4f7c-ab88-d7e8c3540707")>
+2020-10-13 10:06:23,626 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="533ebc4b-1d19-4756-9043-b56edd11f1f1")>
+2020-10-13 10:06:23,626 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ec27429b-b903-4edc-ac61-5abd088356d7")>
+2020-10-13 10:06:23,627 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="836c9c10-a523-4fa5-8c8a-b32fb8107327")>
+2020-10-13 10:06:23,627 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c7543ec7-fb29-4c3f-b5c0-64eb40d19d98")>
+2020-10-13 10:06:23,628 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="641c3c96-0298-4b9a-8f33-143757ab9395")>
+2020-10-13 10:06:23,628 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9c952c6a-7512-4c8a-8882-fe9d2394ff99")>
+2020-10-13 10:06:23,629 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0e147e9e-fb74-45f8-99eb-43092bf8e386")>
+2020-10-13 10:06:23,630 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="04186ef2-1cfb-46fd-8e23-8d72ba98eb79")>
+2020-10-13 10:06:23,630 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9bbdc75e-4484-4682-b398-406b88f603b8")>
+2020-10-13 10:06:23,645 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9c6ec4c9-1329-4d49-bd07-6b17ae2ca2f5")>
+2020-10-13 10:06:23,647 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0a2f4a42-d83d-4f6d-9ea3-7304525b957c")>
+2020-10-13 10:06:23,647 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e6c563f3-200d-4a04-b84c-d5060ff26da0")>
+2020-10-13 10:06:23,648 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5ba6709b-9db0-46e4-8559-ff96ac1dbefd")>
+2020-10-13 10:06:23,649 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="272987b1-e4a4-42f8-abca-01e3f7a4b7f5")>
+2020-10-13 10:06:23,649 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e56823ac-a98c-474d-b80e-42a0b4217fe2")>
+2020-10-13 10:06:23,650 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="21e2c52d-4e59-4bcc-bcdf-a91c5063c864")>
+2020-10-13 10:06:23,650 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7e2bd30d-5f36-4019-90b5-a9a3acfb43c1")>
+2020-10-13 10:06:23,651 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5a96e78f-0a1d-4840-85c6-fb197b804257")>
+2020-10-13 10:06:23,652 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="10c90ba3-2d3b-4fa8-a728-9adb74359d7b")>
+2020-10-13 10:06:23,669 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9469be78-7c33-4172-9fc7-d703b60e13e0")>
+2020-10-13 10:06:23,670 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6f5608d0-93df-4008-9d78-d13992f51c80")>
+2020-10-13 10:06:23,671 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e1fa751b-4f61-4c5d-8e61-928622759824")>
+2020-10-13 10:06:23,672 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="11b576fe-202d-4c7b-b56d-a2cf4850d5de")>
+2020-10-13 10:06:23,672 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5825c11c-dcf5-4ae6-9d36-ca78503251d5")>
+2020-10-13 10:06:23,673 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7358448e-40f9-4038-9e11-97c5423ea52c")>
+2020-10-13 10:06:23,674 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0399d11b-dac7-44d1-abc2-445e6ea73b5d")>
+2020-10-13 10:06:23,674 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="30267ea5-3fc1-40b2-92b2-4a24b9a257ef")>
+2020-10-13 10:06:23,675 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0049e757-601e-4b2d-9916-4891c09bf766")>
+2020-10-13 10:06:23,676 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0321a509-5160-4ca1-be98-80f88670ada3")>
+2020-10-13 10:06:23,692 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6947273d-5699-42d1-bab3-99f80c20f797")>
+2020-10-13 10:06:23,693 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="02829514-8828-483e-a16d-091e19191ad1")>
+2020-10-13 10:06:23,693 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ba661ee8-2ac9-47ca-9e56-b1d7ffe016cb")>
+2020-10-13 10:06:23,694 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="567a4683-e8c5-4760-a6eb-4531ea5a2c1d")>
+2020-10-13 10:06:23,695 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="08f576bd-f2f3-40b2-84bc-b9142be750c2")>
+2020-10-13 10:06:23,696 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3ba283f3-46ee-433e-8451-2eeb317d7cc1")>
+2020-10-13 10:06:23,696 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0f815685-ed4e-490d-8066-c8fd67b03307")>
+2020-10-13 10:06:23,697 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d123ddb1-0e44-4972-ae27-259f34af2f83")>
+2020-10-13 10:06:23,698 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5b9c1061-bdf7-4a96-9020-d37cd44c1bd6")>
+2020-10-13 10:06:23,699 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="2651a1f0-715a-478f-946c-aec34aca06b9")>
+2020-10-13 10:06:23,713 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e0ab1475-cd3e-4286-b206-e0dfab5277e0")>
+2020-10-13 10:06:23,714 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="41de5352-a40f-4e14-8127-bf1770b29d47")>
+2020-10-13 10:06:23,715 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="69e60209-b8d3-47f0-9700-bfdf7472932b")>
+2020-10-13 10:06:23,716 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7a33b5a4-4156-41d4-b143-bf0f52753a04")>
+2020-10-13 10:06:23,716 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8234e7f3-ffe2-4ebd-830a-b5287a9c89af")>
+2020-10-13 10:06:23,717 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a37f75d1-c4d4-41be-990c-5b2c259369dc")>
+2020-10-13 10:06:23,717 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ec209840-b143-4d19-be14-170c1e46bdf1")>
+2020-10-13 10:06:23,718 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="13d291a2-86c0-4fdb-bd15-1fb32747b1d9")>
+2020-10-13 10:06:23,719 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="715f0176-a506-41c4-90cb-164969ad6c45")>
+2020-10-13 10:06:23,719 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="332d5e79-aa6e-4afa-b6c5-dd30cd4bf935")>
+2020-10-13 10:06:23,733 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8f644be0-e7cc-499e-9165-6ff84562ec8e")>
+2020-10-13 10:06:23,733 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e2bb0791-4113-4a9d-9faa-25cf0ad2e5ca")>
+2020-10-13 10:06:23,734 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fd00ff02-eee8-4e93-baa9-df2d1cbdb965")>
+2020-10-13 10:06:23,735 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="66c9c5a7-8d77-48ea-b9f9-ddaf78890435")>
+2020-10-13 10:06:23,737 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8a09a3f3-d4c5-41fa-a450-96e06e79462a")>
+2020-10-13 10:06:23,738 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cb11b060-2bc3-4899-8c10-2644a0d9736a")>
+2020-10-13 10:06:23,739 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="26b65348-95d7-4209-834d-49d05a1fe5ab")>
+2020-10-13 10:06:23,739 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="699f958b-94c7-4932-bf98-10c98b7bcbd9")>
+2020-10-13 10:06:23,740 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5b4b74a5-356e-4387-9c7f-63ea9448c8e1")>
+2020-10-13 10:06:23,741 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="693ed0db-edac-4b39-bfe1-d98a2578f3f0")>
+2020-10-13 10:06:23,753 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8f7e841d-e076-4ab6-b4ae-7a9f0440ea47")>
+2020-10-13 10:06:23,754 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="250ea0c7-a5e5-4dac-a660-200f7d930d28")>
+2020-10-13 10:06:23,755 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a9725f86-594c-4caa-9456-ffb16a1cb3c7")>
+2020-10-13 10:06:23,755 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3d6ff35c-fcc8-47fa-8d89-0d278483afaa")>
+2020-10-13 10:06:23,756 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="81ae0707-75c5-45be-bd95-d47ac7d05830")>
+2020-10-13 10:06:23,757 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e7f1b390-25f4-42f5-a7f8-ae16c01a4765")>
+2020-10-13 10:06:23,758 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3a007cd2-6f49-46a7-a1e3-79ba492ecbf9")>
+2020-10-13 10:06:23,758 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cfd73fd2-54f4-4ebb-8c60-2347ebe666df")>
+2020-10-13 10:06:23,759 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="09861336-93d9-421c-b21b-fb469aeb51bb")>
+2020-10-13 10:06:23,759 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b1ca65d7-1a83-4fd9-bea7-f0ced680bea8")>
+2020-10-13 10:06:23,772 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e9765bbf-63d5-4637-9a0d-a9f841fd95d0")>
+2020-10-13 10:06:23,773 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1ce3394e-1794-428f-8c82-b3b9d3aa37c4")>
+2020-10-13 10:06:23,774 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0ef30f41-bf65-4ecc-9bbd-0d685d8682a8")>
+2020-10-13 10:06:23,774 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c30475a2-3ec9-4295-b6ac-4bfaed2d7236")>
+2020-10-13 10:06:23,775 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bac7987a-a187-4e2b-afbd-e419a7dc2709")>
+2020-10-13 10:06:23,776 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="add5b3b2-5fcf-4890-9c78-779790fa71a6")>
+2020-10-13 10:06:23,776 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bd39d64c-b308-4a23-a246-71f5d24dc704")>
+2020-10-13 10:06:23,777 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b357ad44-0989-455f-bb34-2f42fb8e3a7e")>
+2020-10-13 10:06:23,778 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="57a73945-b79d-44eb-8e52-f617b2228273")>
+2020-10-13 10:06:23,779 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c34ea162-16ff-4783-b5e7-c96ec47447b3")>
+2020-10-13 10:06:23,796 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="62043e17-d426-4eb1-98db-d992c0cfa36f")>
+2020-10-13 10:06:23,797 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="096dc247-2428-4d88-9bf6-57100fe170da")>
+2020-10-13 10:06:23,798 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="35f4189a-33e7-4911-8a5c-d3ad9bf5d487")>
+2020-10-13 10:06:23,798 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9f732f4d-6929-4714-8ad4-860ac45b4aab")>
+2020-10-13 10:06:23,799 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="df1227a0-a142-4f9b-9298-d825117feed1")>
+2020-10-13 10:06:23,800 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5d9d5f0c-e95c-407e-a17c-3e17d040a672")>
+2020-10-13 10:06:23,800 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c9acae23-d5b2-441d-a55b-987f618f5916")>
+2020-10-13 10:06:23,801 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a7600449-ce9a-49a9-b5c2-2688b53d065e")>
+2020-10-13 10:06:23,802 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f8af4683-168c-4783-b68b-2bec67d1634f")>
+2020-10-13 10:06:23,802 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a7c37040-1bce-4a4b-a26d-e44e6d9a6995")>
+2020-10-13 10:06:23,816 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fcd70c6c-457b-4c2e-b254-9db5f099cbcd")>
+2020-10-13 10:06:23,816 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7536dabd-a402-42a6-b700-2a348e0cfc54")>
+2020-10-13 10:06:23,817 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="13315fde-bd49-4bfc-b6b5-37841e42d273")>
+2020-10-13 10:06:23,818 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="684c2234-d2d7-4f92-ae1d-6a65b2aaa0f5")>
+2020-10-13 10:06:23,818 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a0804865-5a73-45d5-8dec-029aa4717b12")>
+2020-10-13 10:06:23,819 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="23b08b12-f692-4c5b-aac5-741a656981da")>
+2020-10-13 10:06:23,819 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="55dace74-673c-4ac3-941e-78aa247b0232")>
+2020-10-13 10:06:23,820 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cb0cdce5-d365-48cc-8dd1-fb6510272e5f")>
+2020-10-13 10:06:23,820 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5147c486-7273-4379-a3ec-01fe5228f284")>
+2020-10-13 10:06:23,821 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="550fe25f-f0a0-4cff-9ae7-d5537b2b89df")>
+2020-10-13 10:06:23,833 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a4aeeea3-3481-463b-a277-a2dac02d335f")>
+2020-10-13 10:06:23,834 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e4b0583a-3f7c-484c-ba5d-15feee333d75")>
+2020-10-13 10:06:23,834 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="34365048-1dee-4627-8425-b79b16d2e52e")>
+2020-10-13 10:06:23,835 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5d8d8a13-fb52-4177-a7a6-10bf606c0e74")>
+2020-10-13 10:06:23,836 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e23a12e2-b8a1-46fe-9729-e9a25398735b")>
+2020-10-13 10:06:23,836 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="dfa2965e-a2f9-4500-a261-1ed74f9d978a")>
+2020-10-13 10:06:23,837 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5f8b5012-2593-4917-8bd9-ea4421f590a7")>
+2020-10-13 10:06:23,838 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bfacc890-5b12-4210-bd9c-e77abb5e3926")>
+2020-10-13 10:06:23,838 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="724eb4bb-73bd-4223-b90e-68dac1ff4a0b")>
+2020-10-13 10:06:23,839 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fcf3c752-093c-4c74-a79e-31c23727df42")>
+2020-10-13 10:06:23,852 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cdf6e5d9-6ea4-4c06-82ac-4bc28bba9818")>
+2020-10-13 10:06:23,853 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8a933191-9331-42c4-a763-6e20ddc92c2e")>
+2020-10-13 10:06:23,853 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3cd5af8d-6970-4af9-bc79-bc51b43a88a9")>
+2020-10-13 10:06:23,854 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d4b2b6a1-f048-439e-8550-f0a24a10497d")>
+2020-10-13 10:06:23,854 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="523c89d3-707e-49e8-85c4-82e34952011a")>
+2020-10-13 10:06:23,855 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bc999b0f-0a57-44ea-a45c-52112b6bb55b")>
+2020-10-13 10:06:23,856 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0de8d717-e81c-4340-a784-88ced1d1cde9")>
+2020-10-13 10:06:23,857 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fc57eb57-f35b-4bb1-bbd0-c4ba184bc14a")>
+2020-10-13 10:06:23,858 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c036f526-ca69-458a-a0db-c7bf4dbc0004")>
+2020-10-13 10:06:23,859 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bc846ede-678b-4832-91b6-aa52726d918c")>
+2020-10-13 10:06:23,873 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e9ad2508-68de-40ed-9a52-86e18f0d17a3")>
+2020-10-13 10:06:23,874 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8ac83810-f6e7-4a04-83be-96b82bc910e0")>
+2020-10-13 10:06:23,875 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="2276b396-bdd2-4d0e-a071-79422180a4c5")>
+2020-10-13 10:06:23,875 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f7cb9d1b-7a94-469b-bc46-265b82f7c71e")>
+2020-10-13 10:06:23,876 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7c663ebc-4c52-463b-a69a-f14e212162ae")>
+2020-10-13 10:06:23,877 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e0a852ae-c32a-4d37-8562-7c1c5914d944")>
+2020-10-13 10:06:23,877 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="469c6c0e-4a8a-4a19-b499-935db0d03368")>
+2020-10-13 10:06:23,878 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="64a1aa8b-2528-4cad-87cf-afc93ff87435")>
+2020-10-13 10:06:23,879 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1c9a6198-7345-4e7f-a554-a9963b698491")>
+2020-10-13 10:06:23,879 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e0a9de52-fffa-430e-8799-ecc8de65e7da")>
+2020-10-13 10:06:23,892 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e7aad1ef-d21f-45f1-9d85-b2b4a1faecc5")>
+2020-10-13 10:06:23,893 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1579be41-65c6-411b-ac54-07c53095cdf2")>
+2020-10-13 10:06:23,893 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b4c09872-b43a-459a-a1a2-5a293c425cd3")>
+2020-10-13 10:06:23,894 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="781d0697-637e-4db2-ae57-5c1b367a92fc")>
+2020-10-13 10:06:23,895 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c8e38115-5e56-48b0-a78a-6d321552a07e")>
+2020-10-13 10:06:23,896 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ffe163af-4b8a-4c3a-b178-58e51eb859f9")>
+2020-10-13 10:06:23,896 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3e37d996-8ee6-42ab-943b-31c353698ffa")>
+2020-10-13 10:06:23,897 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="42940c2b-4a1a-46d5-b8a2-4c759e79b540")>
+2020-10-13 10:06:23,898 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cfe9fd22-e1c2-461a-8f13-2e9634a8e025")>
+2020-10-13 10:06:23,899 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3c5b59a6-1bb5-478c-9309-7f9234bbad81")>
+2020-10-13 10:06:23,912 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d55d1aae-b388-4326-aa1a-f6d0479a7a95")>
+2020-10-13 10:06:23,913 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="dea36ba2-0a7d-45a4-bf61-964ea2ff9a05")>
+2020-10-13 10:06:23,914 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1afacbcf-992d-4dbc-ab41-3ccbd4d5b193")>
+2020-10-13 10:06:23,915 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="226663eb-7b8e-43cc-a4e2-a81f163b1ec6")>
+2020-10-13 10:06:23,915 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="7517ebbf-b4e8-42e9-8976-8a7c61e45a56")>
+2020-10-13 10:06:23,916 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1d3cda6c-642a-4f34-b3dd-ffb3171e4d31")>
+2020-10-13 10:06:23,917 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="63eba05e-8725-4d06-871b-bec42dca0624")>
+2020-10-13 10:06:23,918 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6d97ab03-0f10-4b1d-b09f-b5c997316f59")>
+2020-10-13 10:06:23,919 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d692ab43-be0b-4e58-ac91-503306ccf3da")>
+2020-10-13 10:06:23,919 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ff3c2388-3208-417e-bb76-7c204aedf30d")>
+2020-10-13 10:06:23,934 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="052355fb-fe42-4f0e-907c-7817ac12128c")>
+2020-10-13 10:06:23,935 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d24255c3-ac08-40e8-99e3-33ecb93257f5")>
+2020-10-13 10:06:23,935 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ab04af12-1ef1-4368-836a-617e538e9f29")>
+2020-10-13 10:06:23,936 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4ec38512-371c-4580-99eb-6761d12f015b")>
+2020-10-13 10:06:23,937 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c08ea941-c4a5-4195-a919-44a90fc1ebc5")>
+2020-10-13 10:06:23,938 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="007cfbad-2c6d-4c25-868e-c81073ac32fe")>
+2020-10-13 10:06:23,938 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c75fdaeb-c8a6-48bf-9945-a62a06b3639c")>
+2020-10-13 10:06:23,939 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="44c403cf-58ee-47bd-a938-317f538290c0")>
+2020-10-13 10:06:23,939 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c993563d-e410-4aa2-9253-9057f3f97b0d")>
+2020-10-13 10:06:23,940 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4890e195-ca62-4601-ba75-8d053f930ec8")>
+2020-10-13 10:06:23,955 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="42a2f0ba-e235-4b91-a06d-00e9b2cf31bd")>
+2020-10-13 10:06:23,956 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="87006b73-e016-4cff-b07a-fad6dbbd4a1f")>
+2020-10-13 10:06:23,957 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b5ec5627-3b3d-4c56-a6a9-13cdc41e5b2c")>
+2020-10-13 10:06:23,958 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="75add6b3-42ad-4915-979a-cebf72183e51")>
+2020-10-13 10:06:23,959 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5cbc2977-08a4-45e4-9677-7c216d6daafa")>
+2020-10-13 10:06:23,960 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3a8af93a-ded5-4c85-8116-ba26b981db71")>
+2020-10-13 10:06:23,960 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8a0c6ef1-7b4b-444b-8c49-b7494edd7517")>
+2020-10-13 10:06:23,961 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="9ddd4672-157b-4989-b16a-17c659822f90")>
+2020-10-13 10:06:23,962 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8db28fa8-2570-4792-88ac-64e4f500555c")>
+2020-10-13 10:06:23,962 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d2d2e3cc-c9fb-4963-9625-f773b820ad87")>
+2020-10-13 10:06:23,980 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="26fd066d-ef61-4ae1-9928-b562e75eea79")>
+2020-10-13 10:06:23,981 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="d80fa4db-685b-46f4-aca7-fbfa59a0c31a")>
+2020-10-13 10:06:23,982 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="df082c50-77ff-4660-a428-a7cd64bf7638")>
+2020-10-13 10:06:23,983 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c99bad17-44be-499e-abfc-488742e74bab")>
+2020-10-13 10:06:23,984 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="01de7b60-978a-4e8a-a510-b8ecdf01e71e")>
+2020-10-13 10:06:23,985 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ef966c72-eed4-4693-a950-2507b7687a53")>
+2020-10-13 10:06:23,986 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="875a7e41-883a-45fa-8073-32e11670f2d7")>
+2020-10-13 10:06:23,987 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b91c6431-1472-4704-85fe-69001d97d5b8")>
+2020-10-13 10:06:23,988 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="32e6b22f-bba3-46e7-b3ae-d28b139ba872")>
+2020-10-13 10:06:23,989 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b132dcf0-49cd-42e3-8755-07a52f7414a6")>
+2020-10-13 10:06:24,009 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6175b095-9728-495c-9e85-6a7a0481a87a")>
+2020-10-13 10:06:24,009 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3ba64d56-3878-43e8-8f57-13826b235245")>
+2020-10-13 10:06:24,010 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="135a0292-b8c9-4751-b388-8943e08ef80d")>
+2020-10-13 10:06:24,010 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6efcf49d-f11f-4bb0-a86c-23cf1fa2de41")>
+2020-10-13 10:06:24,011 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0d0edc94-732e-458a-964d-8667673e56cf")>
+2020-10-13 10:06:24,012 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b1548a14-1dbd-4b31-a585-5952a0ee97ba")>
+2020-10-13 10:06:24,013 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="fef36834-efa7-498a-b2e1-9e746eba5025")>
+2020-10-13 10:06:24,014 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0b3986ae-202a-4625-8897-276b8d3b95c4")>
+2020-10-13 10:06:24,014 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="23940eea-f9e4-4436-a6a3-a36ae59efb66")>
+2020-10-13 10:06:24,015 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c91d855a-f398-41fb-ba84-da3c20c6bbba")>
+2020-10-13 10:06:24,030 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="29608ffe-8d0e-48ed-9402-0a4ca726c6bf")>
+2020-10-13 10:06:24,031 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="30c1b9aa-3a80-49f2-bd68-85105f80c497")>
+2020-10-13 10:06:24,032 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="be3028b9-1f6c-42ae-8e4a-eb2e678e592c")>
+2020-10-13 10:06:24,032 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="73249d3a-1fb0-4fb0-b067-fe7f6704a8a4")>
+2020-10-13 10:06:24,033 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5e4ad53d-bcb9-4439-aee5-19b5c25142a4")>
+2020-10-13 10:06:24,034 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8a26407e-f337-444d-b5bf-f12b773ee6b8")>
+2020-10-13 10:06:24,035 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="6d963f08-8e2a-4e0a-9bde-8a937e818776")>
+2020-10-13 10:06:24,036 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="2c1c1c4a-4037-40af-9693-d3ec3f599284")>
+2020-10-13 10:06:24,037 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4268d8ab-570a-47b4-a1e3-2ee4ec2a292e")>
+2020-10-13 10:06:24,037 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bd8aad5f-7dcc-4305-81b8-cd5f3264cfbc")>
+2020-10-13 10:06:24,053 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="dfc086c8-cc1f-4841-99b0-bef87b0b2524")>
+2020-10-13 10:06:24,054 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="cb9d9301-92a4-4ed8-904e-aa317f867d3f")>
+2020-10-13 10:06:24,055 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="acddb500-150c-412b-96bb-df57878d9d1c")>
+2020-10-13 10:06:24,056 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="f00636ce-210f-4945-8b26-1dacf0d6ab7c")>
+2020-10-13 10:06:24,057 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3d17ae10-8009-49a2-bbbd-0eb147a2b1d3")>
+2020-10-13 10:06:24,057 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="24c62ab9-f0ac-4b30-be88-e871cdc3c8aa")>
+2020-10-13 10:06:24,058 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="344397de-48f6-4a93-82a8-ae0eb1e0730d")>
+2020-10-13 10:06:24,059 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4e26c653-bf05-40dd-9667-37d9696ea5ca")>
+2020-10-13 10:06:24,059 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="319e6f4a-672e-421e-bf69-a3aa61315c53")>
+2020-10-13 10:06:24,060 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e1d67a79-5340-481a-b8a6-f8a6e11f6143")>
+2020-10-13 10:06:24,075 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="29812beb-73ed-427e-aeef-ff911a3e6dde")>
+2020-10-13 10:06:24,076 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="1388be57-07e8-4e2a-8c32-722052c73a87")>
+2020-10-13 10:06:24,077 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="77e657ad-6a4b-44d3-9d1e-adccc6244760")>
+2020-10-13 10:06:24,078 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="4197344e-dd65-4a15-9dda-0da3d12ffbbf")>
+2020-10-13 10:06:24,078 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8da63fac-ae23-4139-949e-d55a6c17f8bc")>
+2020-10-13 10:06:24,079 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bffb1efb-4635-4913-9cdb-3f816dddc3dd")>
+2020-10-13 10:06:24,080 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e7520030-04f4-4813-9498-4e363fa3f7fb")>
+2020-10-13 10:06:24,081 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="88cdc2fd-c2fc-4388-b6bc-c254654dd325")>
+2020-10-13 10:06:24,082 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="145d47d4-70a3-4767-b1fe-2829a60b647e")>
+2020-10-13 10:06:24,083 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="878e87e6-baa1-4c35-b749-9b7382bf3d10")>
+2020-10-13 10:06:24,102 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="0c1303b2-b3e7-471e-ae7a-89e1fca6a4d9")>
+2020-10-13 10:06:24,103 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5e1125e8-436c-421d-8939-db6bd413674e")>
+2020-10-13 10:06:24,104 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b662ded5-7227-4460-8441-8a102fb5ccdd")>
+2020-10-13 10:06:24,105 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="b8d1b453-b1be-405e-ba9e-96ecd3f19d39")>
+2020-10-13 10:06:24,106 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="82534a0f-d7f5-4da1-8c7a-2081294e9081")>
+2020-10-13 10:06:24,106 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="5040b736-c958-499a-9b5b-4a85968ee609")>
+2020-10-13 10:06:24,107 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c8aac6b2-5822-4fe7-8753-b1015c207949")>
+2020-10-13 10:06:24,108 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="77e012ee-6689-4d11-a7f5-2e0c52d1c4c8")>
+2020-10-13 10:06:24,109 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="3a6ca149-6577-4c60-bcfd-7f289dc78f62")>
+2020-10-13 10:06:24,109 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="17abcb6b-bb19-4c52-ac73-9cfc6210b43e")>
+2020-10-13 10:06:24,129 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="14fc145c-efc3-4bf1-a136-756b74594c35")>
+2020-10-13 10:06:24,130 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="bab41942-2ab9-45dc-878d-279797c17edc")>
+2020-10-13 10:06:24,131 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="8973f30d-661d-4084-8863-d0f469ccec8e")>
+2020-10-13 10:06:24,132 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="07f23877-ccfd-418c-aa74-f4d994832ab7")>
+2020-10-13 10:06:24,133 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="c2769695-ce9a-480e-b686-43835f3426e4")>
+2020-10-13 10:06:24,134 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ac3643b0-6a9f-40d6-9bd8-a819634fffe7")>
+2020-10-13 10:06:24,134 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="a05b3f67-83cf-4da9-a4c1-3e8e66d0edb7")>
+2020-10-13 10:06:24,135 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="e43c5d1d-a66e-43cf-a265-1fa41ec25daa")>
+2020-10-13 10:06:24,136 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="56ba1ced-c954-4ada-9f4d-dab5823df5d4")>
+2020-10-13 10:06:24,137 - root - INFO - <selenium.webdriver.remote.webelement.WebElement (session="99b0452365bb9820ae8feba791374480", element="ef257864-87c1-4670-9fe4-0dcdbe773c8a")>
+2020-10-13 10:06:24,138 - root - INFO - 
+
+2020-10-13 10:07:02,029 - root - INFO - 测试用例：物品添加
+2020-10-13 10:07:55,889 - root - INFO - 测试用例：物品添加
+2020-10-13 10:08:09,823 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:08:09,928 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:08:10,115 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:08:10,245 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:08:10,318 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:08:10,383 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:08:10,621 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:08:11,408 - root - INFO - 42
+2020-10-13 10:08:11,437 - root - INFO - 物品编码：
+2020-10-13 10:08:11,451 - root - INFO - 
+2020-10-13 10:08:11,464 - root - INFO - 物品名称：
+2020-10-13 10:08:11,479 - root - INFO - 
+2020-10-13 10:08:11,492 - root - INFO - 物品分类：
+2020-10-13 10:08:11,512 - root - INFO -  请选择
+ |—art
+ |—礼品
+ |—|—小夜灯
+ |—|—充电宝
+ |—|—台灯
+ |—器材
+ |—教材
+ |—|—WLS2
+ |—|—WLS4
+ |—|—HG
+ |—|—GG
+ |—|—BG
+ |—|—CP
+ |—篮球
+ |—文具
+ |—玩具类
+ |—|—礼品
+ |—|—熊类
+ |—|—无人机
+ |—大家电
+2020-10-13 10:08:11,527 - root - INFO - 是否商品：
+2020-10-13 10:08:11,541 - root - INFO -  请选择
+ 是
+ 否
+ 
+2020-10-13 10:08:11,565 - root - INFO - 
+2020-10-13 10:08:11,578 - root - INFO - 
+2020-10-13 10:08:11,601 - root - INFO - 
+2020-10-13 10:08:11,612 - root - INFO - 
+2020-10-13 10:08:11,634 - root - INFO - 
+2020-10-13 10:08:11,646 - root - INFO - 
+2020-10-13 10:08:11,670 - root - INFO - 
+2020-10-13 10:08:11,684 - root - INFO - 
+2020-10-13 10:08:11,716 - root - INFO - 
+2020-10-13 10:08:11,729 - root - INFO - 
+2020-10-13 10:08:11,752 - root - INFO - 
+2020-10-13 10:08:11,766 - root - INFO - 
+2020-10-13 10:08:11,791 - root - INFO - 
+2020-10-13 10:08:11,803 - root - INFO - 
+2020-10-13 10:08:11,826 - root - INFO - 
+2020-10-13 10:08:11,840 - root - INFO - 
+2020-10-13 10:08:11,866 - root - INFO - 
+2020-10-13 10:08:11,880 - root - INFO - 
+2020-10-13 10:08:11,908 - root - INFO - 
+2020-10-13 10:08:11,924 - root - INFO - 
+2020-10-13 10:08:11,963 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:11,976 - root - INFO - 0119111
+2020-10-13 10:08:11,991 - root - INFO - 中秋礼盒
+2020-10-13 10:08:12,005 - root - INFO - 礼品
+2020-10-13 10:08:12,019 - root - INFO - 是
+2020-10-13 10:08:12,032 - root - INFO - 500.00
+2020-10-13 10:08:12,044 - root - INFO - 100.00
+2020-10-13 10:08:12,057 - root - INFO - 否
+2020-10-13 10:08:12,071 - root - INFO - -
+2020-10-13 10:08:12,084 - root - INFO - 2020-09-24
+2020-10-13 10:08:12,113 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,127 - root - INFO - 0211837
+2020-10-13 10:08:12,140 - root - INFO - 柚子机车
+2020-10-13 10:08:12,153 - root - INFO - art
+2020-10-13 10:08:12,166 - root - INFO - 是
+2020-10-13 10:08:12,180 - root - INFO - 12.00
+2020-10-13 10:08:12,191 - root - INFO - 12.00
+2020-10-13 10:08:12,206 - root - INFO - 否
+2020-10-13 10:08:12,220 - root - INFO - -
+2020-10-13 10:08:12,233 - root - INFO - 2020-06-13
+2020-10-13 10:08:12,258 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,271 - root - INFO - 0225430
+2020-10-13 10:08:12,283 - root - INFO - 无人机
+2020-10-13 10:08:12,296 - root - INFO - 玩具类
+2020-10-13 10:08:12,310 - root - INFO - 是
+2020-10-13 10:08:12,322 - root - INFO - 50.00
+2020-10-13 10:08:12,335 - root - INFO - 100.00
+2020-10-13 10:08:12,348 - root - INFO - 是
+2020-10-13 10:08:12,364 - root - INFO - 2000
+2020-10-13 10:08:12,387 - root - INFO - 2020-07-14
+2020-10-13 10:08:12,413 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,427 - root - INFO - 0226809
+2020-10-13 10:08:12,440 - root - INFO - 写字板
+2020-10-13 10:08:12,453 - root - INFO - 文具
+2020-10-13 10:08:12,466 - root - INFO - 是
+2020-10-13 10:08:12,480 - root - INFO - 15.00
+2020-10-13 10:08:12,493 - root - INFO - 0.00
+2020-10-13 10:08:12,507 - root - INFO - 否
+2020-10-13 10:08:12,520 - root - INFO - -
+2020-10-13 10:08:12,533 - root - INFO - 2019-08-04
+2020-10-13 10:08:12,558 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,571 - root - INFO - 0228805
+2020-10-13 10:08:12,584 - root - INFO - ceshi
+2020-10-13 10:08:12,599 - root - INFO - 器材
+2020-10-13 10:08:12,613 - root - INFO - 是
+2020-10-13 10:08:12,626 - root - INFO - 500.00
+2020-10-13 10:08:12,640 - root - INFO - 1000.00
+2020-10-13 10:08:12,653 - root - INFO - 否
+2020-10-13 10:08:12,667 - root - INFO - -
+2020-10-13 10:08:12,682 - root - INFO - 2019-08-08
+2020-10-13 10:08:12,709 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,723 - root - INFO - 0231680
+2020-10-13 10:08:12,737 - root - INFO - 抱抱熊
+2020-10-13 10:08:12,750 - root - INFO - 玩具类
+2020-10-13 10:08:12,763 - root - INFO - 是
+2020-10-13 10:08:12,781 - root - INFO - 12.00
+2020-10-13 10:08:12,796 - root - INFO - 24.00
+2020-10-13 10:08:12,810 - root - INFO - 是
+2020-10-13 10:08:12,823 - root - INFO - 10
+2020-10-13 10:08:12,840 - root - INFO - 2019-07-11
+2020-10-13 10:08:12,865 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:12,880 - root - INFO - 0237819
+2020-10-13 10:08:12,893 - root - INFO - 体验一次
+2020-10-13 10:08:12,908 - root - INFO - 玩具类
+2020-10-13 10:08:12,922 - root - INFO - 是
+2020-10-13 10:08:12,935 - root - INFO - 0.00
+2020-10-13 10:08:12,953 - root - INFO - 69.00
+2020-10-13 10:08:12,970 - root - INFO - 是
+2020-10-13 10:08:12,988 - root - INFO - 0
+2020-10-13 10:08:13,003 - root - INFO - 2019-07-24
+2020-10-13 10:08:13,038 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,055 - root - INFO - 0245158
+2020-10-13 10:08:13,070 - root - INFO - 语言课程
+2020-10-13 10:08:13,083 - root - INFO - 器材
+2020-10-13 10:08:13,099 - root - INFO - 是
+2020-10-13 10:08:13,113 - root - INFO - 100.00
+2020-10-13 10:08:13,128 - root - INFO - 300.00
+2020-10-13 10:08:13,144 - root - INFO - 否
+2020-10-13 10:08:13,159 - root - INFO - -
+2020-10-13 10:08:13,173 - root - INFO - 2019-08-17
+2020-10-13 10:08:13,201 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,215 - root - INFO - 0258715
+2020-10-13 10:08:13,229 - root - INFO - 体验一次
+2020-10-13 10:08:13,242 - root - INFO - 器材
+2020-10-13 10:08:13,256 - root - INFO - 是
+2020-10-13 10:08:13,270 - root - INFO - 200.00
+2020-10-13 10:08:13,283 - root - INFO - 0.00
+2020-10-13 10:08:13,297 - root - INFO - 是
+2020-10-13 10:08:13,311 - root - INFO - 200
+2020-10-13 10:08:13,324 - root - INFO - 2019-07-31
+2020-10-13 10:08:13,350 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,364 - root - INFO - 0301520
+2020-10-13 10:08:13,380 - root - INFO - 测试数据
+2020-10-13 10:08:13,401 - root - INFO - 玩具类
+2020-10-13 10:08:13,424 - root - INFO - 否
+2020-10-13 10:08:13,440 - root - INFO - 5.00
+2020-10-13 10:08:13,456 - root - INFO - -
+2020-10-13 10:08:13,470 - root - INFO - -
+2020-10-13 10:08:13,483 - root - INFO - -
+2020-10-13 10:08:13,497 - root - INFO - 2019-08-20
+2020-10-13 10:08:13,521 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,534 - root - INFO - 0301704
+2020-10-13 10:08:13,548 - root - INFO - 马克笔
+2020-10-13 10:08:13,562 - root - INFO - 教材
+2020-10-13 10:08:13,575 - root - INFO - 否
+2020-10-13 10:08:13,590 - root - INFO - 100.00
+2020-10-13 10:08:13,603 - root - INFO - -
+2020-10-13 10:08:13,617 - root - INFO - -
+2020-10-13 10:08:13,631 - root - INFO - -
+2020-10-13 10:08:13,644 - root - INFO - 2019-10-23
+2020-10-13 10:08:13,670 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,683 - root - INFO - 0302711-1
+2020-10-13 10:08:13,697 - root - INFO - 台灯
+2020-10-13 10:08:13,711 - root - INFO - 台灯
+2020-10-13 10:08:13,725 - root - INFO - 是
+2020-10-13 10:08:13,740 - root - INFO - 12.00
+2020-10-13 10:08:13,753 - root - INFO - 28.00
+2020-10-13 10:08:13,768 - root - INFO - 是
+2020-10-13 10:08:13,783 - root - INFO - 200
+2020-10-13 10:08:13,798 - root - INFO - 2020-06-23
+2020-10-13 10:08:13,825 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,841 - root - INFO - 0310556
+2020-10-13 10:08:13,856 - root - INFO - 笔记本
+2020-10-13 10:08:13,871 - root - INFO - art
+2020-10-13 10:08:13,885 - root - INFO - 是
+2020-10-13 10:08:13,900 - root - INFO - 5.00
+2020-10-13 10:08:13,913 - root - INFO - 10.00
+2020-10-13 10:08:13,928 - root - INFO - 否
+2020-10-13 10:08:13,943 - root - INFO - -
+2020-10-13 10:08:13,957 - root - INFO - 2020-10-12
+2020-10-13 10:08:13,984 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:13,999 - root - INFO - 0319943
+2020-10-13 10:08:14,014 - root - INFO - 泳帽
+2020-10-13 10:08:14,032 - root - INFO - WLS4
+2020-10-13 10:08:14,046 - root - INFO - 否
+2020-10-13 10:08:14,061 - root - INFO - 30.00
+2020-10-13 10:08:14,081 - root - INFO - -
+2020-10-13 10:08:14,101 - root - INFO - -
+2020-10-13 10:08:14,119 - root - INFO - -
+2020-10-13 10:08:14,135 - root - INFO - 2020-04-09
+2020-10-13 10:08:14,171 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:14,186 - root - INFO - 0327162
+2020-10-13 10:08:14,202 - root - INFO - 哈哈
+2020-10-13 10:08:14,218 - root - INFO - 器材
+2020-10-13 10:08:14,234 - root - INFO - 是
+2020-10-13 10:08:14,250 - root - INFO - 23.00
+2020-10-13 10:08:14,266 - root - INFO - 26.00
+2020-10-13 10:08:14,280 - root - INFO - 否
+2020-10-13 10:08:14,294 - root - INFO - -
+2020-10-13 10:08:14,310 - root - INFO - 2019-08-25
+2020-10-13 10:08:14,336 - root - INFO - [修改]  [删除]
+2020-10-13 10:08:14,352 - root - INFO - 0336844
+2020-10-13 10:08:14,366 - root - INFO - 车架
+2020-10-13 10:08:14,380 - root - INFO - 器材
+2020-10-13 10:08:14,399 - root - INFO - 是
+2020-10-13 10:08:14,414 - root - INFO - 100.00
+2020-10-13 10:08:14,429 - root - INFO - 200.00
+2020-10-13 10:08:14,443 - root - INFO - 否
+2020-10-13 10:08:14,457 - root - INFO - -
+2020-10-13 10:08:14,471 - root - INFO - 2019-08-24
+2020-10-13 10:08:14,498 - root - INFO - 
+2020-10-13 10:08:14,513 - root - INFO - 
+2020-10-13 10:08:14,530 - root - INFO - 
+2020-10-13 10:08:14,542 - root - INFO - 
+2020-10-13 10:08:14,558 - root - INFO - 
+2020-10-13 10:08:14,573 - root - INFO - 
+2020-10-13 10:08:14,588 - root - INFO - 
+2020-10-13 10:08:14,602 - root - INFO - 
+2020-10-13 10:08:14,617 - root - INFO - 
+2020-10-13 10:08:14,631 - root - INFO - 
+2020-10-13 10:08:14,660 - root - INFO - 
+2020-10-13 10:08:14,674 - root - INFO - 
+2020-10-13 10:08:14,689 - root - INFO - 
+2020-10-13 10:08:14,703 - root - INFO - 
+2020-10-13 10:08:14,720 - root - INFO - 
+2020-10-13 10:08:14,734 - root - INFO - 
+2020-10-13 10:08:14,749 - root - INFO - 
+2020-10-13 10:08:14,764 - root - INFO - 
+2020-10-13 10:08:14,781 - root - INFO - 
+2020-10-13 10:08:14,796 - root - INFO - 
+2020-10-13 10:08:14,825 - root - INFO - 
+2020-10-13 10:08:14,842 - root - INFO - 
+2020-10-13 10:08:14,858 - root - INFO - 
+2020-10-13 10:08:14,873 - root - INFO - 
+2020-10-13 10:08:14,890 - root - INFO - 
+2020-10-13 10:08:14,904 - root - INFO - 
+2020-10-13 10:08:14,918 - root - INFO - 
+2020-10-13 10:08:14,935 - root - INFO - 
+2020-10-13 10:08:14,950 - root - INFO - 
+2020-10-13 10:08:14,963 - root - INFO - 
+2020-10-13 10:08:14,994 - root - INFO - 
+2020-10-13 10:08:15,008 - root - INFO - 
+2020-10-13 10:08:15,023 - root - INFO - 
+2020-10-13 10:08:15,039 - root - INFO - 
+2020-10-13 10:08:15,054 - root - INFO - 
+2020-10-13 10:08:15,070 - root - INFO - 
+2020-10-13 10:08:15,085 - root - INFO - 
+2020-10-13 10:08:15,101 - root - INFO - 
+2020-10-13 10:08:15,116 - root - INFO - 
+2020-10-13 10:08:15,131 - root - INFO - 
+2020-10-13 10:08:15,161 - root - INFO - 
+2020-10-13 10:08:15,177 - root - INFO - 
+2020-10-13 10:08:15,193 - root - INFO - 
+2020-10-13 10:08:15,209 - root - INFO - 
+2020-10-13 10:08:15,234 - root - INFO - 
+2020-10-13 10:08:15,252 - root - INFO - 
+2020-10-13 10:08:15,270 - root - INFO - 
+2020-10-13 10:08:15,289 - root - INFO - 
+2020-10-13 10:08:15,307 - root - INFO - 
+2020-10-13 10:08:15,324 - root - INFO - 
+2020-10-13 10:08:15,352 - root - INFO - 
+2020-10-13 10:08:15,367 - root - INFO - 
+2020-10-13 10:08:15,382 - root - INFO - 
+2020-10-13 10:08:15,399 - root - INFO - 
+2020-10-13 10:08:15,413 - root - INFO - 
+2020-10-13 10:08:15,427 - root - INFO - 
+2020-10-13 10:08:15,442 - root - INFO - 
+2020-10-13 10:08:15,455 - root - INFO - 
+2020-10-13 10:08:15,470 - root - INFO - 
+2020-10-13 10:08:15,485 - root - INFO - 
+2020-10-13 10:08:15,511 - root - INFO - 
+2020-10-13 10:08:15,524 - root - INFO - 
+2020-10-13 10:08:15,539 - root - INFO - 
+2020-10-13 10:08:15,553 - root - INFO - 
+2020-10-13 10:08:15,569 - root - INFO - 
+2020-10-13 10:08:15,583 - root - INFO - 
+2020-10-13 10:08:15,597 - root - INFO - 
+2020-10-13 10:08:15,611 - root - INFO - 
+2020-10-13 10:08:15,624 - root - INFO - 
+2020-10-13 10:08:15,639 - root - INFO - 
+2020-10-13 10:08:15,667 - root - INFO - 
+2020-10-13 10:08:15,681 - root - INFO - 
+2020-10-13 10:08:15,694 - root - INFO - 
+2020-10-13 10:08:15,709 - root - INFO - 
+2020-10-13 10:08:15,723 - root - INFO - 
+2020-10-13 10:08:15,739 - root - INFO - 
+2020-10-13 10:08:15,753 - root - INFO - 
+2020-10-13 10:08:15,768 - root - INFO - 
+2020-10-13 10:08:15,784 - root - INFO - 
+2020-10-13 10:08:15,800 - root - INFO - 
+2020-10-13 10:08:15,826 - root - INFO - 
+2020-10-13 10:08:15,844 - root - INFO - 
+2020-10-13 10:08:15,860 - root - INFO - 
+2020-10-13 10:08:15,873 - root - INFO - 
+2020-10-13 10:08:15,887 - root - INFO - 
+2020-10-13 10:08:15,902 - root - INFO - 
+2020-10-13 10:08:15,916 - root - INFO - 
+2020-10-13 10:08:15,931 - root - INFO - 
+2020-10-13 10:08:15,945 - root - INFO - 
+2020-10-13 10:08:15,959 - root - INFO - 
+2020-10-13 10:08:15,986 - root - INFO - 
+2020-10-13 10:08:16,001 - root - INFO - 
+2020-10-13 10:08:16,015 - root - INFO - 
+2020-10-13 10:08:16,030 - root - INFO - 
+2020-10-13 10:08:16,045 - root - INFO - 
+2020-10-13 10:08:16,060 - root - INFO - 
+2020-10-13 10:08:16,074 - root - INFO - 
+2020-10-13 10:08:16,090 - root - INFO - 
+2020-10-13 10:08:16,104 - root - INFO - 
+2020-10-13 10:08:16,119 - root - INFO - 
+2020-10-13 10:08:16,146 - root - INFO - 
+2020-10-13 10:08:16,162 - root - INFO - 
+2020-10-13 10:08:16,176 - root - INFO - 
+2020-10-13 10:08:16,193 - root - INFO - 
+2020-10-13 10:08:16,210 - root - INFO - 
+2020-10-13 10:08:16,224 - root - INFO - 
+2020-10-13 10:08:16,239 - root - INFO - 
+2020-10-13 10:08:16,253 - root - INFO - 
+2020-10-13 10:08:16,270 - root - INFO - 
+2020-10-13 10:08:16,285 - root - INFO - 
+2020-10-13 10:08:16,318 - root - INFO - 
+2020-10-13 10:08:16,338 - root - INFO - 
+2020-10-13 10:08:16,354 - root - INFO - 
+2020-10-13 10:08:16,372 - root - INFO - 
+2020-10-13 10:08:16,391 - root - INFO - 
+2020-10-13 10:08:16,412 - root - INFO - 
+2020-10-13 10:08:16,427 - root - INFO - 
+2020-10-13 10:08:16,442 - root - INFO - 
+2020-10-13 10:08:16,459 - root - INFO - 
+2020-10-13 10:08:16,474 - root - INFO - 
+2020-10-13 10:08:16,504 - root - INFO - 
+2020-10-13 10:08:16,523 - root - INFO - 
+2020-10-13 10:08:16,542 - root - INFO - 
+2020-10-13 10:08:16,557 - root - INFO - 
+2020-10-13 10:08:16,572 - root - INFO - 
+2020-10-13 10:08:16,589 - root - INFO - 
+2020-10-13 10:08:16,603 - root - INFO - 
+2020-10-13 10:08:16,618 - root - INFO - 
+2020-10-13 10:08:16,632 - root - INFO - 
+2020-10-13 10:08:16,648 - root - INFO - 
+2020-10-13 10:08:16,676 - root - INFO - 
+2020-10-13 10:08:16,690 - root - INFO - 
+2020-10-13 10:08:16,704 - root - INFO - 
+2020-10-13 10:08:16,720 - root - INFO - 
+2020-10-13 10:08:16,735 - root - INFO - 
+2020-10-13 10:08:16,751 - root - INFO - 
+2020-10-13 10:08:16,769 - root - INFO - 
+2020-10-13 10:08:16,786 - root - INFO - 
+2020-10-13 10:08:16,801 - root - INFO - 
+2020-10-13 10:08:16,815 - root - INFO - 
+2020-10-13 10:08:16,816 - root - INFO - 
+
+2020-10-13 10:09:09,696 - root - INFO - 测试用例：物品添加
+2020-10-13 10:09:13,886 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:09:14,005 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:09:14,262 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:09:14,417 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:09:14,513 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:09:14,590 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:09:14,860 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:09:15,643 - root - INFO - 42
+2020-10-13 10:09:15,670 - root - INFO - 物品编码：
+2020-10-13 10:09:15,671 - root - INFO - 
+
+2020-10-13 10:09:15,684 - root - INFO - 
+2020-10-13 10:09:15,684 - root - INFO - 
+
+2020-10-13 10:09:15,698 - root - INFO - 物品名称：
+2020-10-13 10:09:15,699 - root - INFO - 
+
+2020-10-13 10:09:15,712 - root - INFO - 
+2020-10-13 10:09:15,713 - root - INFO - 
+
+2020-10-13 10:09:15,726 - root - INFO - 物品分类：
+2020-10-13 10:09:15,727 - root - INFO - 
+
+2020-10-13 10:09:15,757 - root - INFO -  请选择
+ |—art
+ |—礼品
+ |—|—小夜灯
+ |—|—充电宝
+ |—|—台灯
+ |—器材
+ |—教材
+ |—|—WLS2
+ |—|—WLS4
+ |—|—HG
+ |—|—GG
+ |—|—BG
+ |—|—CP
+ |—篮球
+ |—文具
+ |—玩具类
+ |—|—礼品
+ |—|—熊类
+ |—|—无人机
+ |—大家电
+2020-10-13 10:09:15,757 - root - INFO - 
+
+2020-10-13 10:09:15,772 - root - INFO - 是否商品：
+2020-10-13 10:09:15,773 - root - INFO - 
+
+2020-10-13 10:09:15,792 - root - INFO -  请选择
+ 是
+ 否
+ 
+2020-10-13 10:09:15,793 - root - INFO - 
+
+2020-10-13 10:09:15,824 - root - INFO - 
+2020-10-13 10:09:15,824 - root - INFO - 
+
+2020-10-13 10:09:15,841 - root - INFO - 
+2020-10-13 10:09:15,842 - root - INFO - 
+
+2020-10-13 10:09:15,865 - root - INFO - 
+2020-10-13 10:09:15,866 - root - INFO - 
+
+2020-10-13 10:09:15,878 - root - INFO - 
+2020-10-13 10:09:15,878 - root - INFO - 
+
+2020-10-13 10:09:15,902 - root - INFO - 
+2020-10-13 10:09:15,902 - root - INFO - 
+
+2020-10-13 10:09:15,915 - root - INFO - 
+2020-10-13 10:09:15,916 - root - INFO - 
+
+2020-10-13 10:09:15,941 - root - INFO - 
+2020-10-13 10:09:15,941 - root - INFO - 
+
+2020-10-13 10:09:15,953 - root - INFO - 
+2020-10-13 10:09:15,954 - root - INFO - 
+
+2020-10-13 10:09:15,977 - root - INFO - 
+2020-10-13 10:09:15,978 - root - INFO - 
+
+2020-10-13 10:09:15,990 - root - INFO - 
+2020-10-13 10:09:15,991 - root - INFO - 
+
+2020-10-13 10:09:16,013 - root - INFO - 
+2020-10-13 10:09:16,013 - root - INFO - 
+
+2020-10-13 10:09:16,026 - root - INFO - 
+2020-10-13 10:09:16,026 - root - INFO - 
+
+2020-10-13 10:09:16,051 - root - INFO - 
+2020-10-13 10:09:16,051 - root - INFO - 
+
+2020-10-13 10:09:16,063 - root - INFO - 
+2020-10-13 10:09:16,063 - root - INFO - 
+
+2020-10-13 10:09:16,091 - root - INFO - 
+2020-10-13 10:09:16,091 - root - INFO - 
+
+2020-10-13 10:09:16,106 - root - INFO - 
+2020-10-13 10:09:16,107 - root - INFO - 
+
+2020-10-13 10:09:16,131 - root - INFO - 
+2020-10-13 10:09:16,132 - root - INFO - 
+
+2020-10-13 10:09:16,144 - root - INFO - 
+2020-10-13 10:09:16,145 - root - INFO - 
+
+2020-10-13 10:09:16,169 - root - INFO - 
+2020-10-13 10:09:16,170 - root - INFO - 
+
+2020-10-13 10:09:16,182 - root - INFO - 
+2020-10-13 10:09:16,182 - root - INFO - 
+
+2020-10-13 10:09:16,220 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:16,221 - root - INFO - 
+
+2020-10-13 10:09:16,234 - root - INFO - 0119111
+2020-10-13 10:09:16,235 - root - INFO - 
+
+2020-10-13 10:09:16,252 - root - INFO - 中秋礼盒
+2020-10-13 10:09:16,252 - root - INFO - 
+
+2020-10-13 10:09:16,266 - root - INFO - 礼品
+2020-10-13 10:09:16,267 - root - INFO - 
+
+2020-10-13 10:09:16,281 - root - INFO - 是
+2020-10-13 10:09:16,282 - root - INFO - 
+
+2020-10-13 10:09:16,296 - root - INFO - 500.00
+2020-10-13 10:09:16,296 - root - INFO - 
+
+2020-10-13 10:09:16,313 - root - INFO - 100.00
+2020-10-13 10:09:16,313 - root - INFO - 
+
+2020-10-13 10:09:16,330 - root - INFO - 否
+2020-10-13 10:09:16,330 - root - INFO - 
+
+2020-10-13 10:09:16,344 - root - INFO - -
+2020-10-13 10:09:16,344 - root - INFO - 
+
+2020-10-13 10:09:16,359 - root - INFO - 2020-09-24
+2020-10-13 10:09:16,359 - root - INFO - 
+
+2020-10-13 10:09:16,385 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:16,386 - root - INFO - 
+
+2020-10-13 10:09:16,401 - root - INFO - 0211837
+2020-10-13 10:09:16,402 - root - INFO - 
+
+2020-10-13 10:09:16,416 - root - INFO - 柚子机车
+2020-10-13 10:09:16,417 - root - INFO - 
+
+2020-10-13 10:09:16,431 - root - INFO - art
+2020-10-13 10:09:16,432 - root - INFO - 
+
+2020-10-13 10:09:16,446 - root - INFO - 是
+2020-10-13 10:09:16,446 - root - INFO - 
+
+2020-10-13 10:09:16,461 - root - INFO - 12.00
+2020-10-13 10:09:16,462 - root - INFO - 
+
+2020-10-13 10:09:16,479 - root - INFO - 12.00
+2020-10-13 10:09:16,480 - root - INFO - 
+
+2020-10-13 10:09:16,494 - root - INFO - 否
+2020-10-13 10:09:16,495 - root - INFO - 
+
+2020-10-13 10:09:16,509 - root - INFO - -
+2020-10-13 10:09:16,510 - root - INFO - 
+
+2020-10-13 10:09:16,523 - root - INFO - 2020-06-13
+2020-10-13 10:09:16,524 - root - INFO - 
+
+2020-10-13 10:09:16,551 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:16,552 - root - INFO - 
+
+2020-10-13 10:09:16,567 - root - INFO - 0225430
+2020-10-13 10:09:16,567 - root - INFO - 
+
+2020-10-13 10:09:16,582 - root - INFO - 无人机
+2020-10-13 10:09:16,583 - root - INFO - 
+
+2020-10-13 10:09:16,597 - root - INFO - 玩具类
+2020-10-13 10:09:16,598 - root - INFO - 
+
+2020-10-13 10:09:16,615 - root - INFO - 是
+2020-10-13 10:09:16,615 - root - INFO - 
+
+2020-10-13 10:09:16,630 - root - INFO - 50.00
+2020-10-13 10:09:16,630 - root - INFO - 
+
+2020-10-13 10:09:16,644 - root - INFO - 100.00
+2020-10-13 10:09:16,645 - root - INFO - 
+
+2020-10-13 10:09:16,660 - root - INFO - 是
+2020-10-13 10:09:16,660 - root - INFO - 
+
+2020-10-13 10:09:16,674 - root - INFO - 2000
+2020-10-13 10:09:16,674 - root - INFO - 
+
+2020-10-13 10:09:16,689 - root - INFO - 2020-07-14
+2020-10-13 10:09:16,690 - root - INFO - 
+
+2020-10-13 10:09:16,716 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:16,717 - root - INFO - 
+
+2020-10-13 10:09:16,731 - root - INFO - 0226809
+2020-10-13 10:09:16,731 - root - INFO - 
+
+2020-10-13 10:09:16,745 - root - INFO - 写字板
+2020-10-13 10:09:16,745 - root - INFO - 
+
+2020-10-13 10:09:16,761 - root - INFO - 文具
+2020-10-13 10:09:16,761 - root - INFO - 
+
+2020-10-13 10:09:16,775 - root - INFO - 是
+2020-10-13 10:09:16,777 - root - INFO - 
+
+2020-10-13 10:09:16,791 - root - INFO - 15.00
+2020-10-13 10:09:16,792 - root - INFO - 
+
+2020-10-13 10:09:16,808 - root - INFO - 0.00
+2020-10-13 10:09:16,809 - root - INFO - 
+
+2020-10-13 10:09:16,823 - root - INFO - 否
+2020-10-13 10:09:16,824 - root - INFO - 
+
+2020-10-13 10:09:16,839 - root - INFO - -
+2020-10-13 10:09:16,839 - root - INFO - 
+
+2020-10-13 10:09:16,854 - root - INFO - 2019-08-04
+2020-10-13 10:09:16,855 - root - INFO - 
+
+2020-10-13 10:09:16,890 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:16,890 - root - INFO - 
+
+2020-10-13 10:09:16,906 - root - INFO - 0228805
+2020-10-13 10:09:16,906 - root - INFO - 
+
+2020-10-13 10:09:16,923 - root - INFO - ceshi
+2020-10-13 10:09:16,924 - root - INFO - 
+
+2020-10-13 10:09:16,964 - root - INFO - 器材
+2020-10-13 10:09:16,965 - root - INFO - 
+
+2020-10-13 10:09:16,986 - root - INFO - 是
+2020-10-13 10:09:16,987 - root - INFO - 
+
+2020-10-13 10:09:17,001 - root - INFO - 500.00
+2020-10-13 10:09:17,001 - root - INFO - 
+
+2020-10-13 10:09:17,014 - root - INFO - 1000.00
+2020-10-13 10:09:17,015 - root - INFO - 
+
+2020-10-13 10:09:17,027 - root - INFO - 否
+2020-10-13 10:09:17,028 - root - INFO - 
+
+2020-10-13 10:09:17,041 - root - INFO - -
+2020-10-13 10:09:17,042 - root - INFO - 
+
+2020-10-13 10:09:17,056 - root - INFO - 2019-08-08
+2020-10-13 10:09:17,056 - root - INFO - 
+
+2020-10-13 10:09:17,084 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,084 - root - INFO - 
+
+2020-10-13 10:09:17,099 - root - INFO - 0231680
+2020-10-13 10:09:17,100 - root - INFO - 
+
+2020-10-13 10:09:17,114 - root - INFO - 抱抱熊
+2020-10-13 10:09:17,115 - root - INFO - 
+
+2020-10-13 10:09:17,130 - root - INFO - 玩具类
+2020-10-13 10:09:17,130 - root - INFO - 
+
+2020-10-13 10:09:17,144 - root - INFO - 是
+2020-10-13 10:09:17,145 - root - INFO - 
+
+2020-10-13 10:09:17,160 - root - INFO - 12.00
+2020-10-13 10:09:17,160 - root - INFO - 
+
+2020-10-13 10:09:17,174 - root - INFO - 24.00
+2020-10-13 10:09:17,175 - root - INFO - 
+
+2020-10-13 10:09:17,190 - root - INFO - 是
+2020-10-13 10:09:17,191 - root - INFO - 
+
+2020-10-13 10:09:17,205 - root - INFO - 10
+2020-10-13 10:09:17,206 - root - INFO - 
+
+2020-10-13 10:09:17,221 - root - INFO - 2019-07-11
+2020-10-13 10:09:17,222 - root - INFO - 
+
+2020-10-13 10:09:17,249 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,250 - root - INFO - 
+
+2020-10-13 10:09:17,265 - root - INFO - 0237819
+2020-10-13 10:09:17,265 - root - INFO - 
+
+2020-10-13 10:09:17,284 - root - INFO - 体验一次
+2020-10-13 10:09:17,284 - root - INFO - 
+
+2020-10-13 10:09:17,302 - root - INFO - 玩具类
+2020-10-13 10:09:17,302 - root - INFO - 
+
+2020-10-13 10:09:17,323 - root - INFO - 是
+2020-10-13 10:09:17,323 - root - INFO - 
+
+2020-10-13 10:09:17,340 - root - INFO - 0.00
+2020-10-13 10:09:17,341 - root - INFO - 
+
+2020-10-13 10:09:17,355 - root - INFO - 69.00
+2020-10-13 10:09:17,356 - root - INFO - 
+
+2020-10-13 10:09:17,376 - root - INFO - 是
+2020-10-13 10:09:17,376 - root - INFO - 
+
+2020-10-13 10:09:17,391 - root - INFO - 0
+2020-10-13 10:09:17,392 - root - INFO - 
+
+2020-10-13 10:09:17,406 - root - INFO - 2019-07-24
+2020-10-13 10:09:17,406 - root - INFO - 
+
+2020-10-13 10:09:17,434 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,434 - root - INFO - 
+
+2020-10-13 10:09:17,449 - root - INFO - 0245158
+2020-10-13 10:09:17,450 - root - INFO - 
+
+2020-10-13 10:09:17,464 - root - INFO - 语言课程
+2020-10-13 10:09:17,465 - root - INFO - 
+
+2020-10-13 10:09:17,479 - root - INFO - 器材
+2020-10-13 10:09:17,479 - root - INFO - 
+
+2020-10-13 10:09:17,494 - root - INFO - 是
+2020-10-13 10:09:17,495 - root - INFO - 
+
+2020-10-13 10:09:17,511 - root - INFO - 100.00
+2020-10-13 10:09:17,511 - root - INFO - 
+
+2020-10-13 10:09:17,525 - root - INFO - 300.00
+2020-10-13 10:09:17,526 - root - INFO - 
+
+2020-10-13 10:09:17,540 - root - INFO - 否
+2020-10-13 10:09:17,541 - root - INFO - 
+
+2020-10-13 10:09:17,555 - root - INFO - -
+2020-10-13 10:09:17,556 - root - INFO - 
+
+2020-10-13 10:09:17,572 - root - INFO - 2019-08-17
+2020-10-13 10:09:17,572 - root - INFO - 
+
+2020-10-13 10:09:17,600 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,600 - root - INFO - 
+
+2020-10-13 10:09:17,614 - root - INFO - 0258715
+2020-10-13 10:09:17,615 - root - INFO - 
+
+2020-10-13 10:09:17,630 - root - INFO - 体验一次
+2020-10-13 10:09:17,630 - root - INFO - 
+
+2020-10-13 10:09:17,645 - root - INFO - 器材
+2020-10-13 10:09:17,646 - root - INFO - 
+
+2020-10-13 10:09:17,662 - root - INFO - 是
+2020-10-13 10:09:17,663 - root - INFO - 
+
+2020-10-13 10:09:17,677 - root - INFO - 200.00
+2020-10-13 10:09:17,678 - root - INFO - 
+
+2020-10-13 10:09:17,692 - root - INFO - 0.00
+2020-10-13 10:09:17,693 - root - INFO - 
+
+2020-10-13 10:09:17,709 - root - INFO - 是
+2020-10-13 10:09:17,709 - root - INFO - 
+
+2020-10-13 10:09:17,725 - root - INFO - 200
+2020-10-13 10:09:17,726 - root - INFO - 
+
+2020-10-13 10:09:17,740 - root - INFO - 2019-07-31
+2020-10-13 10:09:17,741 - root - INFO - 
+
+2020-10-13 10:09:17,767 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,768 - root - INFO - 
+
+2020-10-13 10:09:17,782 - root - INFO - 0301520
+2020-10-13 10:09:17,783 - root - INFO - 
+
+2020-10-13 10:09:17,797 - root - INFO - 测试数据
+2020-10-13 10:09:17,798 - root - INFO - 
+
+2020-10-13 10:09:17,812 - root - INFO - 玩具类
+2020-10-13 10:09:17,812 - root - INFO - 
+
+2020-10-13 10:09:17,828 - root - INFO - 否
+2020-10-13 10:09:17,828 - root - INFO - 
+
+2020-10-13 10:09:17,842 - root - INFO - 5.00
+2020-10-13 10:09:17,843 - root - INFO - 
+
+2020-10-13 10:09:17,858 - root - INFO - -
+2020-10-13 10:09:17,859 - root - INFO - 
+
+2020-10-13 10:09:17,873 - root - INFO - -
+2020-10-13 10:09:17,874 - root - INFO - 
+
+2020-10-13 10:09:17,889 - root - INFO - -
+2020-10-13 10:09:17,890 - root - INFO - 
+
+2020-10-13 10:09:17,904 - root - INFO - 2019-08-20
+2020-10-13 10:09:17,905 - root - INFO - 
+
+2020-10-13 10:09:17,936 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:17,937 - root - INFO - 
+
+2020-10-13 10:09:17,952 - root - INFO - 0301704
+2020-10-13 10:09:17,952 - root - INFO - 
+
+2020-10-13 10:09:17,967 - root - INFO - 马克笔
+2020-10-13 10:09:17,968 - root - INFO - 
+
+2020-10-13 10:09:17,982 - root - INFO - 教材
+2020-10-13 10:09:17,983 - root - INFO - 
+
+2020-10-13 10:09:18,008 - root - INFO - 否
+2020-10-13 10:09:18,009 - root - INFO - 
+
+2020-10-13 10:09:18,031 - root - INFO - 100.00
+2020-10-13 10:09:18,031 - root - INFO - 
+
+2020-10-13 10:09:18,047 - root - INFO - -
+2020-10-13 10:09:18,048 - root - INFO - 
+
+2020-10-13 10:09:18,063 - root - INFO - -
+2020-10-13 10:09:18,064 - root - INFO - 
+
+2020-10-13 10:09:18,087 - root - INFO - -
+2020-10-13 10:09:18,087 - root - INFO - 
+
+2020-10-13 10:09:18,103 - root - INFO - 2019-10-23
+2020-10-13 10:09:18,104 - root - INFO - 
+
+2020-10-13 10:09:18,130 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:18,130 - root - INFO - 
+
+2020-10-13 10:09:18,144 - root - INFO - 0302711-1
+2020-10-13 10:09:18,145 - root - INFO - 
+
+2020-10-13 10:09:18,160 - root - INFO - 台灯
+2020-10-13 10:09:18,160 - root - INFO - 
+
+2020-10-13 10:09:18,174 - root - INFO - 台灯
+2020-10-13 10:09:18,174 - root - INFO - 
+
+2020-10-13 10:09:18,190 - root - INFO - 是
+2020-10-13 10:09:18,191 - root - INFO - 
+
+2020-10-13 10:09:18,205 - root - INFO - 12.00
+2020-10-13 10:09:18,206 - root - INFO - 
+
+2020-10-13 10:09:18,220 - root - INFO - 28.00
+2020-10-13 10:09:18,221 - root - INFO - 
+
+2020-10-13 10:09:18,235 - root - INFO - 是
+2020-10-13 10:09:18,236 - root - INFO - 
+
+2020-10-13 10:09:18,251 - root - INFO - 200
+2020-10-13 10:09:18,251 - root - INFO - 
+
+2020-10-13 10:09:18,266 - root - INFO - 2020-06-23
+2020-10-13 10:09:18,267 - root - INFO - 
+
+2020-10-13 10:09:18,293 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:18,294 - root - INFO - 
+
+2020-10-13 10:09:18,310 - root - INFO - 0310556
+2020-10-13 10:09:18,310 - root - INFO - 
+
+2020-10-13 10:09:18,325 - root - INFO - 笔记本
+2020-10-13 10:09:18,326 - root - INFO - 
+
+2020-10-13 10:09:18,341 - root - INFO - art
+2020-10-13 10:09:18,341 - root - INFO - 
+
+2020-10-13 10:09:18,358 - root - INFO - 是
+2020-10-13 10:09:18,359 - root - INFO - 
+
+2020-10-13 10:09:18,372 - root - INFO - 5.00
+2020-10-13 10:09:18,373 - root - INFO - 
+
+2020-10-13 10:09:18,387 - root - INFO - 10.00
+2020-10-13 10:09:18,388 - root - INFO - 
+
+2020-10-13 10:09:18,403 - root - INFO - 否
+2020-10-13 10:09:18,403 - root - INFO - 
+
+2020-10-13 10:09:18,419 - root - INFO - -
+2020-10-13 10:09:18,420 - root - INFO - 
+
+2020-10-13 10:09:18,434 - root - INFO - 2020-10-12
+2020-10-13 10:09:18,434 - root - INFO - 
+
+2020-10-13 10:09:18,463 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:18,464 - root - INFO - 
+
+2020-10-13 10:09:18,479 - root - INFO - 0319943
+2020-10-13 10:09:18,480 - root - INFO - 
+
+2020-10-13 10:09:18,494 - root - INFO - 泳帽
+2020-10-13 10:09:18,495 - root - INFO - 
+
+2020-10-13 10:09:18,511 - root - INFO - WLS4
+2020-10-13 10:09:18,511 - root - INFO - 
+
+2020-10-13 10:09:18,525 - root - INFO - 否
+2020-10-13 10:09:18,526 - root - INFO - 
+
+2020-10-13 10:09:18,540 - root - INFO - 30.00
+2020-10-13 10:09:18,541 - root - INFO - 
+
+2020-10-13 10:09:18,555 - root - INFO - -
+2020-10-13 10:09:18,556 - root - INFO - 
+
+2020-10-13 10:09:18,573 - root - INFO - -
+2020-10-13 10:09:18,574 - root - INFO - 
+
+2020-10-13 10:09:18,593 - root - INFO - -
+2020-10-13 10:09:18,594 - root - INFO - 
+
+2020-10-13 10:09:18,610 - root - INFO - 2020-04-09
+2020-10-13 10:09:18,611 - root - INFO - 
+
+2020-10-13 10:09:18,654 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:18,654 - root - INFO - 
+
+2020-10-13 10:09:18,671 - root - INFO - 0327162
+2020-10-13 10:09:18,671 - root - INFO - 
+
+2020-10-13 10:09:18,686 - root - INFO - 哈哈
+2020-10-13 10:09:18,687 - root - INFO - 
+
+2020-10-13 10:09:18,702 - root - INFO - 器材
+2020-10-13 10:09:18,703 - root - INFO - 
+
+2020-10-13 10:09:18,717 - root - INFO - 是
+2020-10-13 10:09:18,718 - root - INFO - 
+
+2020-10-13 10:09:18,733 - root - INFO - 23.00
+2020-10-13 10:09:18,734 - root - INFO - 
+
+2020-10-13 10:09:18,749 - root - INFO - 26.00
+2020-10-13 10:09:18,750 - root - INFO - 
+
+2020-10-13 10:09:18,770 - root - INFO - 否
+2020-10-13 10:09:18,771 - root - INFO - 
+
+2020-10-13 10:09:18,789 - root - INFO - -
+2020-10-13 10:09:18,790 - root - INFO - 
+
+2020-10-13 10:09:18,805 - root - INFO - 2019-08-25
+2020-10-13 10:09:18,806 - root - INFO - 
+
+2020-10-13 10:09:18,834 - root - INFO - [修改]  [删除]
+2020-10-13 10:09:18,835 - root - INFO - 
+
+2020-10-13 10:09:18,850 - root - INFO - 0336844
+2020-10-13 10:09:18,851 - root - INFO - 
+
+2020-10-13 10:09:18,866 - root - INFO - 车架
+2020-10-13 10:09:18,866 - root - INFO - 
+
+2020-10-13 10:09:18,881 - root - INFO - 器材
+2020-10-13 10:09:18,882 - root - INFO - 
+
+2020-10-13 10:09:18,897 - root - INFO - 是
+2020-10-13 10:09:18,898 - root - INFO - 
+
+2020-10-13 10:09:18,912 - root - INFO - 100.00
+2020-10-13 10:09:18,913 - root - INFO - 
+
+2020-10-13 10:09:18,927 - root - INFO - 200.00
+2020-10-13 10:09:18,928 - root - INFO - 
+
+2020-10-13 10:09:18,942 - root - INFO - 否
+2020-10-13 10:09:18,943 - root - INFO - 
+
+2020-10-13 10:09:18,959 - root - INFO - -
+2020-10-13 10:09:18,960 - root - INFO - 
+
+2020-10-13 10:09:18,974 - root - INFO - 2019-08-24
+2020-10-13 10:09:18,975 - root - INFO - 
+
+2020-10-13 10:09:19,002 - root - INFO - 
+2020-10-13 10:09:19,002 - root - INFO - 
+
+2020-10-13 10:09:19,018 - root - INFO - 
+2020-10-13 10:09:19,019 - root - INFO - 
+
+2020-10-13 10:09:19,033 - root - INFO - 
+2020-10-13 10:09:19,034 - root - INFO - 
+
+2020-10-13 10:09:19,049 - root - INFO - 
+2020-10-13 10:09:19,049 - root - INFO - 
+
+2020-10-13 10:09:19,064 - root - INFO - 
+2020-10-13 10:09:19,065 - root - INFO - 
+
+2020-10-13 10:09:19,080 - root - INFO - 
+2020-10-13 10:09:19,080 - root - INFO - 
+
+2020-10-13 10:09:19,095 - root - INFO - 
+2020-10-13 10:09:19,095 - root - INFO - 
+
+2020-10-13 10:09:19,116 - root - INFO - 
+2020-10-13 10:09:19,117 - root - INFO - 
+
+2020-10-13 10:09:19,132 - root - INFO - 
+2020-10-13 10:09:19,133 - root - INFO - 
+
+2020-10-13 10:09:19,148 - root - INFO - 
+2020-10-13 10:09:19,149 - root - INFO - 
+
+2020-10-13 10:09:19,182 - root - INFO - 
+2020-10-13 10:09:19,183 - root - INFO - 
+
+2020-10-13 10:09:19,202 - root - INFO - 
+2020-10-13 10:09:19,202 - root - INFO - 
+
+2020-10-13 10:09:19,224 - root - INFO - 
+2020-10-13 10:09:19,224 - root - INFO - 
+
+2020-10-13 10:09:19,238 - root - INFO - 
+2020-10-13 10:09:19,239 - root - INFO - 
+
+2020-10-13 10:09:19,254 - root - INFO - 
+2020-10-13 10:09:19,255 - root - INFO - 
+
+2020-10-13 10:09:19,270 - root - INFO - 
+2020-10-13 10:09:19,271 - root - INFO - 
+
+2020-10-13 10:09:19,285 - root - INFO - 
+2020-10-13 10:09:19,287 - root - INFO - 
+
+2020-10-13 10:09:19,301 - root - INFO - 
+2020-10-13 10:09:19,302 - root - INFO - 
+
+2020-10-13 10:09:19,316 - root - INFO - 
+2020-10-13 10:09:19,316 - root - INFO - 
+
+2020-10-13 10:09:19,330 - root - INFO - 
+2020-10-13 10:09:19,331 - root - INFO - 
+
+2020-10-13 10:09:19,359 - root - INFO - 
+2020-10-13 10:09:19,359 - root - INFO - 
+
+2020-10-13 10:09:19,374 - root - INFO - 
+2020-10-13 10:09:19,375 - root - INFO - 
+
+2020-10-13 10:09:19,390 - root - INFO - 
+2020-10-13 10:09:19,391 - root - INFO - 
+
+2020-10-13 10:09:19,405 - root - INFO - 
+2020-10-13 10:09:19,406 - root - INFO - 
+
+2020-10-13 10:09:19,421 - root - INFO - 
+2020-10-13 10:09:19,422 - root - INFO - 
+
+2020-10-13 10:09:19,437 - root - INFO - 
+2020-10-13 10:09:19,438 - root - INFO - 
+
+2020-10-13 10:09:19,454 - root - INFO - 
+2020-10-13 10:09:19,455 - root - INFO - 
+
+2020-10-13 10:09:19,470 - root - INFO - 
+2020-10-13 10:09:19,471 - root - INFO - 
+
+2020-10-13 10:09:19,486 - root - INFO - 
+2020-10-13 10:09:19,487 - root - INFO - 
+
+2020-10-13 10:09:19,502 - root - INFO - 
+2020-10-13 10:09:19,503 - root - INFO - 
+
+2020-10-13 10:09:19,532 - root - INFO - 
+2020-10-13 10:09:19,533 - root - INFO - 
+
+2020-10-13 10:09:19,549 - root - INFO - 
+2020-10-13 10:09:19,549 - root - INFO - 
+
+2020-10-13 10:09:19,565 - root - INFO - 
+2020-10-13 10:09:19,565 - root - INFO - 
+
+2020-10-13 10:09:19,581 - root - INFO - 
+2020-10-13 10:09:19,582 - root - INFO - 
+
+2020-10-13 10:09:19,597 - root - INFO - 
+2020-10-13 10:09:19,598 - root - INFO - 
+
+2020-10-13 10:09:19,613 - root - INFO - 
+2020-10-13 10:09:19,614 - root - INFO - 
+
+2020-10-13 10:09:19,630 - root - INFO - 
+2020-10-13 10:09:19,630 - root - INFO - 
+
+2020-10-13 10:09:19,645 - root - INFO - 
+2020-10-13 10:09:19,645 - root - INFO - 
+
+2020-10-13 10:09:19,660 - root - INFO - 
+2020-10-13 10:09:19,661 - root - INFO - 
+
+2020-10-13 10:09:19,675 - root - INFO - 
+2020-10-13 10:09:19,676 - root - INFO - 
+
+2020-10-13 10:09:19,704 - root - INFO - 
+2020-10-13 10:09:19,705 - root - INFO - 
+
+2020-10-13 10:09:19,720 - root - INFO - 
+2020-10-13 10:09:19,720 - root - INFO - 
+
+2020-10-13 10:09:19,739 - root - INFO - 
+2020-10-13 10:09:19,739 - root - INFO - 
+
+2020-10-13 10:09:19,754 - root - INFO - 
+2020-10-13 10:09:19,754 - root - INFO - 
+
+2020-10-13 10:09:19,778 - root - INFO - 
+2020-10-13 10:09:19,779 - root - INFO - 
+
+2020-10-13 10:09:19,793 - root - INFO - 
+2020-10-13 10:09:19,794 - root - INFO - 
+
+2020-10-13 10:09:19,809 - root - INFO - 
+2020-10-13 10:09:19,810 - root - INFO - 
+
+2020-10-13 10:09:19,825 - root - INFO - 
+2020-10-13 10:09:19,826 - root - INFO - 
+
+2020-10-13 10:09:19,841 - root - INFO - 
+2020-10-13 10:09:19,842 - root - INFO - 
+
+2020-10-13 10:09:19,856 - root - INFO - 
+2020-10-13 10:09:19,857 - root - INFO - 
+
+2020-10-13 10:09:19,884 - root - INFO - 
+2020-10-13 10:09:19,885 - root - INFO - 
+
+2020-10-13 10:09:19,901 - root - INFO - 
+2020-10-13 10:09:19,901 - root - INFO - 
+
+2020-10-13 10:09:19,915 - root - INFO - 
+2020-10-13 10:09:19,916 - root - INFO - 
+
+2020-10-13 10:09:19,930 - root - INFO - 
+2020-10-13 10:09:19,931 - root - INFO - 
+
+2020-10-13 10:09:19,947 - root - INFO - 
+2020-10-13 10:09:19,947 - root - INFO - 
+
+2020-10-13 10:09:19,962 - root - INFO - 
+2020-10-13 10:09:19,962 - root - INFO - 
+
+2020-10-13 10:09:19,976 - root - INFO - 
+2020-10-13 10:09:19,977 - root - INFO - 
+
+2020-10-13 10:09:19,992 - root - INFO - 
+2020-10-13 10:09:19,993 - root - INFO - 
+
+2020-10-13 10:09:20,010 - root - INFO - 
+2020-10-13 10:09:20,010 - root - INFO - 
+
+2020-10-13 10:09:20,024 - root - INFO - 
+2020-10-13 10:09:20,025 - root - INFO - 
+
+2020-10-13 10:09:20,053 - root - INFO - 
+2020-10-13 10:09:20,054 - root - INFO - 
+
+2020-10-13 10:09:20,070 - root - INFO - 
+2020-10-13 10:09:20,070 - root - INFO - 
+
+2020-10-13 10:09:20,084 - root - INFO - 
+2020-10-13 10:09:20,085 - root - INFO - 
+
+2020-10-13 10:09:20,100 - root - INFO - 
+2020-10-13 10:09:20,101 - root - INFO - 
+
+2020-10-13 10:09:20,116 - root - INFO - 
+2020-10-13 10:09:20,117 - root - INFO - 
+
+2020-10-13 10:09:20,131 - root - INFO - 
+2020-10-13 10:09:20,132 - root - INFO - 
+
+2020-10-13 10:09:20,147 - root - INFO - 
+2020-10-13 10:09:20,147 - root - INFO - 
+
+2020-10-13 10:09:20,162 - root - INFO - 
+2020-10-13 10:09:20,162 - root - INFO - 
+
+2020-10-13 10:09:20,179 - root - INFO - 
+2020-10-13 10:09:20,179 - root - INFO - 
+
+2020-10-13 10:09:20,194 - root - INFO - 
+2020-10-13 10:09:20,195 - root - INFO - 
+
+2020-10-13 10:09:20,228 - root - INFO - 
+2020-10-13 10:09:20,229 - root - INFO - 
+
+2020-10-13 10:09:20,244 - root - INFO - 
+2020-10-13 10:09:20,245 - root - INFO - 
+
+2020-10-13 10:09:20,262 - root - INFO - 
+2020-10-13 10:09:20,262 - root - INFO - 
+
+2020-10-13 10:09:20,279 - root - INFO - 
+2020-10-13 10:09:20,279 - root - INFO - 
+
+2020-10-13 10:09:20,296 - root - INFO - 
+2020-10-13 10:09:20,297 - root - INFO - 
+
+2020-10-13 10:09:20,324 - root - INFO - 
+2020-10-13 10:09:20,325 - root - INFO - 
+
+2020-10-13 10:09:20,342 - root - INFO - 
+2020-10-13 10:09:20,343 - root - INFO - 
+
+2020-10-13 10:09:20,357 - root - INFO - 
+2020-10-13 10:09:20,358 - root - INFO - 
+
+2020-10-13 10:09:20,373 - root - INFO - 
+2020-10-13 10:09:20,373 - root - INFO - 
+
+2020-10-13 10:09:20,389 - root - INFO - 
+2020-10-13 10:09:20,390 - root - INFO - 
+
+2020-10-13 10:09:20,418 - root - INFO - 
+2020-10-13 10:09:20,418 - root - INFO - 
+
+2020-10-13 10:09:20,433 - root - INFO - 
+2020-10-13 10:09:20,434 - root - INFO - 
+
+2020-10-13 10:09:20,450 - root - INFO - 
+2020-10-13 10:09:20,451 - root - INFO - 
+
+2020-10-13 10:09:20,465 - root - INFO - 
+2020-10-13 10:09:20,466 - root - INFO - 
+
+2020-10-13 10:09:20,481 - root - INFO - 
+2020-10-13 10:09:20,482 - root - INFO - 
+
+2020-10-13 10:09:20,496 - root - INFO - 
+2020-10-13 10:09:20,497 - root - INFO - 
+
+2020-10-13 10:09:20,512 - root - INFO - 
+2020-10-13 10:09:20,513 - root - INFO - 
+
+2020-10-13 10:09:20,527 - root - INFO - 
+2020-10-13 10:09:20,528 - root - INFO - 
+
+2020-10-13 10:09:20,542 - root - INFO - 
+2020-10-13 10:09:20,543 - root - INFO - 
+
+2020-10-13 10:09:20,559 - root - INFO - 
+2020-10-13 10:09:20,560 - root - INFO - 
+
+2020-10-13 10:09:20,587 - root - INFO - 
+2020-10-13 10:09:20,587 - root - INFO - 
+
+2020-10-13 10:09:20,602 - root - INFO - 
+2020-10-13 10:09:20,602 - root - INFO - 
+
+2020-10-13 10:09:20,619 - root - INFO - 
+2020-10-13 10:09:20,619 - root - INFO - 
+
+2020-10-13 10:09:20,634 - root - INFO - 
+2020-10-13 10:09:20,635 - root - INFO - 
+
+2020-10-13 10:09:20,651 - root - INFO - 
+2020-10-13 10:09:20,652 - root - INFO - 
+
+2020-10-13 10:09:20,666 - root - INFO - 
+2020-10-13 10:09:20,667 - root - INFO - 
+
+2020-10-13 10:09:20,682 - root - INFO - 
+2020-10-13 10:09:20,682 - root - INFO - 
+
+2020-10-13 10:09:20,701 - root - INFO - 
+2020-10-13 10:09:20,702 - root - INFO - 
+
+2020-10-13 10:09:20,718 - root - INFO - 
+2020-10-13 10:09:20,719 - root - INFO - 
+
+2020-10-13 10:09:20,733 - root - INFO - 
+2020-10-13 10:09:20,734 - root - INFO - 
+
+2020-10-13 10:09:20,762 - root - INFO - 
+2020-10-13 10:09:20,762 - root - INFO - 
+
+2020-10-13 10:09:20,778 - root - INFO - 
+2020-10-13 10:09:20,779 - root - INFO - 
+
+2020-10-13 10:09:20,794 - root - INFO - 
+2020-10-13 10:09:20,795 - root - INFO - 
+
+2020-10-13 10:09:20,811 - root - INFO - 
+2020-10-13 10:09:20,811 - root - INFO - 
+
+2020-10-13 10:09:20,826 - root - INFO - 
+2020-10-13 10:09:20,827 - root - INFO - 
+
+2020-10-13 10:09:20,842 - root - INFO - 
+2020-10-13 10:09:20,843 - root - INFO - 
+
+2020-10-13 10:09:20,860 - root - INFO - 
+2020-10-13 10:09:20,860 - root - INFO - 
+
+2020-10-13 10:09:20,876 - root - INFO - 
+2020-10-13 10:09:20,877 - root - INFO - 
+
+2020-10-13 10:09:20,891 - root - INFO - 
+2020-10-13 10:09:20,892 - root - INFO - 
+
+2020-10-13 10:09:20,907 - root - INFO - 
+2020-10-13 10:09:20,908 - root - INFO - 
+
+2020-10-13 10:09:20,941 - root - INFO - 
+2020-10-13 10:09:20,942 - root - INFO - 
+
+2020-10-13 10:09:20,957 - root - INFO - 
+2020-10-13 10:09:20,957 - root - INFO - 
+
+2020-10-13 10:09:20,972 - root - INFO - 
+2020-10-13 10:09:20,972 - root - INFO - 
+
+2020-10-13 10:09:20,986 - root - INFO - 
+2020-10-13 10:09:20,987 - root - INFO - 
+
+2020-10-13 10:09:21,002 - root - INFO - 
+2020-10-13 10:09:21,003 - root - INFO - 
+
+2020-10-13 10:09:21,017 - root - INFO - 
+2020-10-13 10:09:21,018 - root - INFO - 
+
+2020-10-13 10:09:21,033 - root - INFO - 
+2020-10-13 10:09:21,034 - root - INFO - 
+
+2020-10-13 10:09:21,050 - root - INFO - 
+2020-10-13 10:09:21,051 - root - INFO - 
+
+2020-10-13 10:09:21,065 - root - INFO - 
+2020-10-13 10:09:21,066 - root - INFO - 
+
+2020-10-13 10:09:21,081 - root - INFO - 
+2020-10-13 10:09:21,081 - root - INFO - 
+
+2020-10-13 10:09:21,111 - root - INFO - 
+2020-10-13 10:09:21,111 - root - INFO - 
+
+2020-10-13 10:09:21,128 - root - INFO - 
+2020-10-13 10:09:21,129 - root - INFO - 
+
+2020-10-13 10:09:21,143 - root - INFO - 
+2020-10-13 10:09:21,144 - root - INFO - 
+
+2020-10-13 10:09:21,159 - root - INFO - 
+2020-10-13 10:09:21,160 - root - INFO - 
+
+2020-10-13 10:09:21,175 - root - INFO - 
+2020-10-13 10:09:21,176 - root - INFO - 
+
+2020-10-13 10:09:21,191 - root - INFO - 
+2020-10-13 10:09:21,191 - root - INFO - 
+
+2020-10-13 10:09:21,206 - root - INFO - 
+2020-10-13 10:09:21,207 - root - INFO - 
+
+2020-10-13 10:09:21,221 - root - INFO - 
+2020-10-13 10:09:21,222 - root - INFO - 
+
+2020-10-13 10:09:21,237 - root - INFO - 
+2020-10-13 10:09:21,237 - root - INFO - 
+
+2020-10-13 10:09:21,252 - root - INFO - 
+2020-10-13 10:09:21,252 - root - INFO - 
+
+2020-10-13 10:09:21,284 - root - INFO - 
+2020-10-13 10:09:21,284 - root - INFO - 
+
+2020-10-13 10:09:21,300 - root - INFO - 
+2020-10-13 10:09:21,300 - root - INFO - 
+
+2020-10-13 10:09:21,317 - root - INFO - 
+2020-10-13 10:09:21,317 - root - INFO - 
+
+2020-10-13 10:09:21,332 - root - INFO - 
+2020-10-13 10:09:21,332 - root - INFO - 
+
+2020-10-13 10:09:21,349 - root - INFO - 
+2020-10-13 10:09:21,350 - root - INFO - 
+
+2020-10-13 10:09:21,368 - root - INFO - 
+2020-10-13 10:09:21,369 - root - INFO - 
+
+2020-10-13 10:09:21,385 - root - INFO - 
+2020-10-13 10:09:21,386 - root - INFO - 
+
+2020-10-13 10:09:21,404 - root - INFO - 
+2020-10-13 10:09:21,404 - root - INFO - 
+
+2020-10-13 10:09:21,424 - root - INFO - 
+2020-10-13 10:09:21,426 - root - INFO - 
+
+2020-10-13 10:09:21,449 - root - INFO - 
+2020-10-13 10:09:21,449 - root - INFO - 
+
+2020-10-13 10:13:35,657 - root - INFO - 测试用例：物品添加
+2020-10-13 10:13:42,602 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:13:42,727 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:13:42,959 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:13:43,115 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:13:43,212 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:13:43,289 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:13:43,544 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:13:44,363 - root - INFO - 42
+2020-10-13 10:13:44,391 - root - INFO - 物品编码：	
+2020-10-13 10:13:44,406 - root - INFO - 	
+2020-10-13 10:13:44,418 - root - INFO - 物品名称：	
+2020-10-13 10:13:44,434 - root - INFO - 	
+2020-10-13 10:13:44,450 - root - INFO - 物品分类：	
+2020-10-13 10:13:44,474 - root - INFO -  请选择
+ |—art
+ |—礼品
+ |—|—小夜灯
+ |—|—充电宝
+ |—|—台灯
+ |—器材
+ |—教材
+ |—|—WLS2
+ |—|—WLS4
+ |—|—HG
+ |—|—GG
+ |—|—BG
+ |—|—CP
+ |—篮球
+ |—文具
+ |—玩具类
+ |—|—礼品
+ |—|—熊类
+ |—|—无人机
+ |—大家电	
+2020-10-13 10:13:44,492 - root - INFO - 是否商品：	
+2020-10-13 10:13:44,510 - root - INFO -  请选择
+ 是
+ 否
+ 	
+2020-10-13 10:13:44,534 - root - INFO - 	
+2020-10-13 10:13:44,549 - root - INFO - 	
+2020-10-13 10:13:44,579 - root - INFO - 	
+2020-10-13 10:13:44,590 - root - INFO - 	
+2020-10-13 10:13:44,616 - root - INFO - 	
+2020-10-13 10:13:44,632 - root - INFO - 	
+2020-10-13 10:13:44,663 - root - INFO - 	
+2020-10-13 10:13:44,677 - root - INFO - 	
+2020-10-13 10:13:44,710 - root - INFO - 	
+2020-10-13 10:13:44,725 - root - INFO - 	
+2020-10-13 10:13:44,751 - root - INFO - 	
+2020-10-13 10:13:44,767 - root - INFO - 	
+2020-10-13 10:13:44,795 - root - INFO - 	
+2020-10-13 10:13:44,811 - root - INFO - 	
+2020-10-13 10:13:44,835 - root - INFO - 	
+2020-10-13 10:13:44,849 - root - INFO - 	
+2020-10-13 10:13:44,875 - root - INFO - 	
+2020-10-13 10:13:44,892 - root - INFO - 	
+2020-10-13 10:13:44,918 - root - INFO - 	
+2020-10-13 10:13:44,933 - root - INFO - 	
+2020-10-13 10:13:44,975 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:44,995 - root - INFO - 0119111	
+2020-10-13 10:13:45,015 - root - INFO - 中秋礼盒	
+2020-10-13 10:13:45,034 - root - INFO - 礼品	
+2020-10-13 10:13:45,055 - root - INFO - 是	
+2020-10-13 10:13:45,073 - root - INFO - 500.00	
+2020-10-13 10:13:45,093 - root - INFO - 100.00	
+2020-10-13 10:13:45,115 - root - INFO - 否	
+2020-10-13 10:13:45,135 - root - INFO - -	
+2020-10-13 10:13:45,158 - root - INFO - 2020-09-24	
+2020-10-13 10:13:45,193 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:45,213 - root - INFO - 0211837	
+2020-10-13 10:13:45,237 - root - INFO - 柚子机车	
+2020-10-13 10:13:45,261 - root - INFO - art	
+2020-10-13 10:13:45,284 - root - INFO - 是	
+2020-10-13 10:13:45,304 - root - INFO - 12.00	
+2020-10-13 10:13:45,329 - root - INFO - 12.00	
+2020-10-13 10:13:45,350 - root - INFO - 否	
+2020-10-13 10:13:45,372 - root - INFO - -	
+2020-10-13 10:13:45,392 - root - INFO - 2020-06-13	
+2020-10-13 10:13:45,434 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:45,453 - root - INFO - 0225430	
+2020-10-13 10:13:45,471 - root - INFO - 无人机	
+2020-10-13 10:13:45,489 - root - INFO - 玩具类	
+2020-10-13 10:13:45,511 - root - INFO - 是	
+2020-10-13 10:13:45,529 - root - INFO - 50.00	
+2020-10-13 10:13:45,549 - root - INFO - 100.00	
+2020-10-13 10:13:45,568 - root - INFO - 是	
+2020-10-13 10:13:45,584 - root - INFO - 2000	
+2020-10-13 10:13:45,605 - root - INFO - 2020-07-14	
+2020-10-13 10:13:45,662 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:45,684 - root - INFO - 0226809	
+2020-10-13 10:13:45,703 - root - INFO - 写字板	
+2020-10-13 10:13:45,720 - root - INFO - 文具	
+2020-10-13 10:13:45,739 - root - INFO - 是	
+2020-10-13 10:13:45,755 - root - INFO - 15.00	
+2020-10-13 10:13:45,775 - root - INFO - 0.00	
+2020-10-13 10:13:45,793 - root - INFO - 否	
+2020-10-13 10:13:45,813 - root - INFO - -	
+2020-10-13 10:13:45,833 - root - INFO - 2019-08-04	
+2020-10-13 10:13:45,863 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:45,881 - root - INFO - 0228805	
+2020-10-13 10:13:45,897 - root - INFO - ceshi	
+2020-10-13 10:13:45,917 - root - INFO - 器材	
+2020-10-13 10:13:45,935 - root - INFO - 是	
+2020-10-13 10:13:45,957 - root - INFO - 500.00	
+2020-10-13 10:13:45,979 - root - INFO - 1000.00	
+2020-10-13 10:13:45,999 - root - INFO - 否	
+2020-10-13 10:13:46,024 - root - INFO - -	
+2020-10-13 10:13:46,046 - root - INFO - 2019-08-08	
+2020-10-13 10:13:46,080 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:46,100 - root - INFO - 0231680	
+2020-10-13 10:13:46,119 - root - INFO - 抱抱熊	
+2020-10-13 10:13:46,138 - root - INFO - 玩具类	
+2020-10-13 10:13:46,156 - root - INFO - 是	
+2020-10-13 10:13:46,176 - root - INFO - 12.00	
+2020-10-13 10:13:46,201 - root - INFO - 24.00	
+2020-10-13 10:13:46,229 - root - INFO - 是	
+2020-10-13 10:13:46,253 - root - INFO - 10	
+2020-10-13 10:13:46,280 - root - INFO - 2019-07-11	
+2020-10-13 10:13:46,325 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:46,347 - root - INFO - 0237819	
+2020-10-13 10:13:46,367 - root - INFO - 体验一次	
+2020-10-13 10:13:46,385 - root - INFO - 玩具类	
+2020-10-13 10:13:46,403 - root - INFO - 是	
+2020-10-13 10:13:46,422 - root - INFO - 0.00	
+2020-10-13 10:13:46,443 - root - INFO - 69.00	
+2020-10-13 10:13:46,463 - root - INFO - 是	
+2020-10-13 10:13:46,487 - root - INFO - 0	
+2020-10-13 10:13:46,511 - root - INFO - 2019-07-24	
+2020-10-13 10:13:46,559 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:46,580 - root - INFO - 0245158	
+2020-10-13 10:13:46,600 - root - INFO - 语言课程	
+2020-10-13 10:13:46,620 - root - INFO - 器材	
+2020-10-13 10:13:46,709 - root - INFO - 是	
+2020-10-13 10:13:46,738 - root - INFO - 100.00	
+2020-10-13 10:13:46,763 - root - INFO - 300.00	
+2020-10-13 10:13:46,782 - root - INFO - 否	
+2020-10-13 10:13:46,801 - root - INFO - -	
+2020-10-13 10:13:46,820 - root - INFO - 2019-08-17	
+2020-10-13 10:13:46,852 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:46,869 - root - INFO - 0258715	
+2020-10-13 10:13:46,885 - root - INFO - 体验一次	
+2020-10-13 10:13:46,902 - root - INFO - 器材	
+2020-10-13 10:13:46,921 - root - INFO - 是	
+2020-10-13 10:13:46,941 - root - INFO - 200.00	
+2020-10-13 10:13:46,959 - root - INFO - 0.00	
+2020-10-13 10:13:46,978 - root - INFO - 是	
+2020-10-13 10:13:46,995 - root - INFO - 200	
+2020-10-13 10:13:47,014 - root - INFO - 2019-07-31	
+2020-10-13 10:13:47,059 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:47,087 - root - INFO - 0301520	
+2020-10-13 10:13:47,103 - root - INFO - 测试数据	
+2020-10-13 10:13:47,121 - root - INFO - 玩具类	
+2020-10-13 10:13:47,141 - root - INFO - 否	
+2020-10-13 10:13:47,156 - root - INFO - 5.00	
+2020-10-13 10:13:47,174 - root - INFO - -	
+2020-10-13 10:13:47,191 - root - INFO - -	
+2020-10-13 10:13:47,209 - root - INFO - -	
+2020-10-13 10:13:47,226 - root - INFO - 2019-08-20	
+2020-10-13 10:13:47,258 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:47,275 - root - INFO - 0301704	
+2020-10-13 10:13:47,290 - root - INFO - 马克笔	
+2020-10-13 10:13:47,307 - root - INFO - 教材	
+2020-10-13 10:13:47,327 - root - INFO - 否	
+2020-10-13 10:13:47,351 - root - INFO - 100.00	
+2020-10-13 10:13:47,377 - root - INFO - -	
+2020-10-13 10:13:47,398 - root - INFO - -	
+2020-10-13 10:13:47,425 - root - INFO - -	
+2020-10-13 10:13:47,447 - root - INFO - 2019-10-23	
+2020-10-13 10:13:47,489 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:47,512 - root - INFO - 0302711-1	
+2020-10-13 10:13:47,532 - root - INFO - 台灯	
+2020-10-13 10:13:47,549 - root - INFO - 台灯	
+2020-10-13 10:13:47,570 - root - INFO - 是	
+2020-10-13 10:13:47,586 - root - INFO - 12.00	
+2020-10-13 10:13:47,602 - root - INFO - 28.00	
+2020-10-13 10:13:47,620 - root - INFO - 是	
+2020-10-13 10:13:47,643 - root - INFO - 200	
+2020-10-13 10:13:47,660 - root - INFO - 2020-06-23	
+2020-10-13 10:13:47,689 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:47,704 - root - INFO - 0310556	
+2020-10-13 10:13:47,721 - root - INFO - 笔记本	
+2020-10-13 10:13:47,740 - root - INFO - art	
+2020-10-13 10:13:47,758 - root - INFO - 是	
+2020-10-13 10:13:47,774 - root - INFO - 5.00	
+2020-10-13 10:13:47,791 - root - INFO - 10.00	
+2020-10-13 10:13:47,807 - root - INFO - 否	
+2020-10-13 10:13:47,823 - root - INFO - -	
+2020-10-13 10:13:47,839 - root - INFO - 2020-10-12	
+2020-10-13 10:13:47,873 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:47,892 - root - INFO - 0319943	
+2020-10-13 10:13:47,911 - root - INFO - 泳帽	
+2020-10-13 10:13:47,926 - root - INFO - WLS4	
+2020-10-13 10:13:47,943 - root - INFO - 否	
+2020-10-13 10:13:47,961 - root - INFO - 30.00	
+2020-10-13 10:13:47,979 - root - INFO - -	
+2020-10-13 10:13:47,993 - root - INFO - -	
+2020-10-13 10:13:48,011 - root - INFO - -	
+2020-10-13 10:13:48,031 - root - INFO - 2020-04-09	
+2020-10-13 10:13:48,063 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:48,083 - root - INFO - 0327162	
+2020-10-13 10:13:48,100 - root - INFO - 哈哈	
+2020-10-13 10:13:48,115 - root - INFO - 器材	
+2020-10-13 10:13:48,132 - root - INFO - 是	
+2020-10-13 10:13:48,147 - root - INFO - 23.00	
+2020-10-13 10:13:48,164 - root - INFO - 26.00	
+2020-10-13 10:13:48,179 - root - INFO - 否	
+2020-10-13 10:13:48,195 - root - INFO - -	
+2020-10-13 10:13:48,210 - root - INFO - 2019-08-25	
+2020-10-13 10:13:48,243 - root - INFO - [修改]  [删除]	
+2020-10-13 10:13:48,259 - root - INFO - 0336844	
+2020-10-13 10:13:48,273 - root - INFO - 车架	
+2020-10-13 10:13:48,291 - root - INFO - 器材	
+2020-10-13 10:13:48,311 - root - INFO - 是	
+2020-10-13 10:13:48,331 - root - INFO - 100.00	
+2020-10-13 10:13:48,347 - root - INFO - 200.00	
+2020-10-13 10:13:48,364 - root - INFO - 否	
+2020-10-13 10:13:48,382 - root - INFO - -	
+2020-10-13 10:13:48,401 - root - INFO - 2019-08-24	
+2020-10-13 10:13:48,437 - root - INFO - 	
+2020-10-13 10:13:48,454 - root - INFO - 	
+2020-10-13 10:13:48,471 - root - INFO - 	
+2020-10-13 10:13:48,490 - root - INFO - 	
+2020-10-13 10:13:48,510 - root - INFO - 	
+2020-10-13 10:13:48,527 - root - INFO - 	
+2020-10-13 10:13:48,545 - root - INFO - 	
+2020-10-13 10:13:48,563 - root - INFO - 	
+2020-10-13 10:13:48,586 - root - INFO - 	
+2020-10-13 10:13:48,605 - root - INFO - 	
+2020-10-13 10:13:48,649 - root - INFO - 	
+2020-10-13 10:13:48,666 - root - INFO - 	
+2020-10-13 10:13:48,687 - root - INFO - 	
+2020-10-13 10:13:48,705 - root - INFO - 	
+2020-10-13 10:13:48,722 - root - INFO - 	
+2020-10-13 10:13:48,739 - root - INFO - 	
+2020-10-13 10:13:48,755 - root - INFO - 	
+2020-10-13 10:13:48,772 - root - INFO - 	
+2020-10-13 10:13:48,794 - root - INFO - 	
+2020-10-13 10:13:48,813 - root - INFO - 	
+2020-10-13 10:13:48,850 - root - INFO - 	
+2020-10-13 10:13:48,866 - root - INFO - 	
+2020-10-13 10:13:48,882 - root - INFO - 	
+2020-10-13 10:13:48,898 - root - INFO - 	
+2020-10-13 10:13:48,912 - root - INFO - 	
+2020-10-13 10:13:48,926 - root - INFO - 	
+2020-10-13 10:13:48,940 - root - INFO - 	
+2020-10-13 10:13:48,954 - root - INFO - 	
+2020-10-13 10:13:48,970 - root - INFO - 	
+2020-10-13 10:13:48,987 - root - INFO - 	
+2020-10-13 10:13:49,016 - root - INFO - 	
+2020-10-13 10:13:49,030 - root - INFO - 	
+2020-10-13 10:13:49,044 - root - INFO - 	
+2020-10-13 10:13:49,060 - root - INFO - 	
+2020-10-13 10:13:49,074 - root - INFO - 	
+2020-10-13 10:13:49,090 - root - INFO - 	
+2020-10-13 10:13:49,105 - root - INFO - 	
+2020-10-13 10:13:49,120 - root - INFO - 	
+2020-10-13 10:13:49,135 - root - INFO - 	
+2020-10-13 10:13:49,150 - root - INFO - 	
+2020-10-13 10:13:49,180 - root - INFO - 	
+2020-10-13 10:13:49,198 - root - INFO - 	
+2020-10-13 10:13:49,215 - root - INFO - 	
+2020-10-13 10:13:49,234 - root - INFO - 	
+2020-10-13 10:13:49,253 - root - INFO - 	
+2020-10-13 10:13:49,270 - root - INFO - 	
+2020-10-13 10:13:49,286 - root - INFO - 	
+2020-10-13 10:13:49,308 - root - INFO - 	
+2020-10-13 10:13:49,350 - root - INFO - 	
+2020-10-13 10:13:49,377 - root - INFO - 	
+2020-10-13 10:13:49,427 - root - INFO - 	
+2020-10-13 10:13:49,448 - root - INFO - 	
+2020-10-13 10:13:49,463 - root - INFO - 	
+2020-10-13 10:13:49,479 - root - INFO - 	
+2020-10-13 10:13:49,497 - root - INFO - 	
+2020-10-13 10:13:49,514 - root - INFO - 	
+2020-10-13 10:13:49,531 - root - INFO - 	
+2020-10-13 10:13:49,548 - root - INFO - 	
+2020-10-13 10:13:49,566 - root - INFO - 	
+2020-10-13 10:13:49,584 - root - INFO - 	
+2020-10-13 10:13:49,617 - root - INFO - 	
+2020-10-13 10:13:49,633 - root - INFO - 	
+2020-10-13 10:13:49,650 - root - INFO - 	
+2020-10-13 10:13:49,670 - root - INFO - 	
+2020-10-13 10:13:49,693 - root - INFO - 	
+2020-10-13 10:13:49,713 - root - INFO - 	
+2020-10-13 10:13:49,733 - root - INFO - 	
+2020-10-13 10:13:49,761 - root - INFO - 	
+2020-10-13 10:13:49,794 - root - INFO - 	
+2020-10-13 10:13:49,812 - root - INFO - 	
+2020-10-13 10:13:49,845 - root - INFO - 	
+2020-10-13 10:13:49,863 - root - INFO - 	
+2020-10-13 10:13:49,882 - root - INFO - 	
+2020-10-13 10:13:49,901 - root - INFO - 	
+2020-10-13 10:13:49,920 - root - INFO - 	
+2020-10-13 10:13:49,939 - root - INFO - 	
+2020-10-13 10:13:49,959 - root - INFO - 	
+2020-10-13 10:13:49,975 - root - INFO - 	
+2020-10-13 10:13:49,993 - root - INFO - 	
+2020-10-13 10:13:50,012 - root - INFO - 	
+2020-10-13 10:13:50,046 - root - INFO - 	
+2020-10-13 10:13:50,065 - root - INFO - 	
+2020-10-13 10:13:50,086 - root - INFO - 	
+2020-10-13 10:13:50,105 - root - INFO - 	
+2020-10-13 10:13:50,121 - root - INFO - 	
+2020-10-13 10:13:50,136 - root - INFO - 	
+2020-10-13 10:13:50,150 - root - INFO - 	
+2020-10-13 10:13:50,167 - root - INFO - 	
+2020-10-13 10:13:50,182 - root - INFO - 	
+2020-10-13 10:13:50,198 - root - INFO - 	
+2020-10-13 10:13:50,227 - root - INFO - 	
+2020-10-13 10:13:50,243 - root - INFO - 	
+2020-10-13 10:13:50,262 - root - INFO - 	
+2020-10-13 10:13:50,280 - root - INFO - 	
+2020-10-13 10:13:50,297 - root - INFO - 	
+2020-10-13 10:13:50,316 - root - INFO - 	
+2020-10-13 10:13:50,340 - root - INFO - 	
+2020-10-13 10:13:50,363 - root - INFO - 	
+2020-10-13 10:13:50,378 - root - INFO - 	
+2020-10-13 10:13:50,392 - root - INFO - 	
+2020-10-13 10:13:50,425 - root - INFO - 	
+2020-10-13 10:13:50,447 - root - INFO - 	
+2020-10-13 10:13:50,468 - root - INFO - 	
+2020-10-13 10:13:50,487 - root - INFO - 	
+2020-10-13 10:13:50,502 - root - INFO - 	
+2020-10-13 10:13:50,517 - root - INFO - 	
+2020-10-13 10:13:50,532 - root - INFO - 	
+2020-10-13 10:13:50,546 - root - INFO - 	
+2020-10-13 10:13:50,562 - root - INFO - 	
+2020-10-13 10:13:50,577 - root - INFO - 	
+2020-10-13 10:13:50,607 - root - INFO - 	
+2020-10-13 10:13:50,622 - root - INFO - 	
+2020-10-13 10:13:50,639 - root - INFO - 	
+2020-10-13 10:13:50,653 - root - INFO - 	
+2020-10-13 10:13:50,670 - root - INFO - 	
+2020-10-13 10:13:50,685 - root - INFO - 	
+2020-10-13 10:13:50,700 - root - INFO - 	
+2020-10-13 10:13:50,716 - root - INFO - 	
+2020-10-13 10:13:50,731 - root - INFO - 	
+2020-10-13 10:13:50,746 - root - INFO - 	
+2020-10-13 10:13:50,776 - root - INFO - 	
+2020-10-13 10:13:50,794 - root - INFO - 	
+2020-10-13 10:13:50,816 - root - INFO - 	
+2020-10-13 10:13:50,835 - root - INFO - 	
+2020-10-13 10:13:50,855 - root - INFO - 	
+2020-10-13 10:13:50,875 - root - INFO - 	
+2020-10-13 10:13:50,900 - root - INFO - 	
+2020-10-13 10:13:50,917 - root - INFO - 	
+2020-10-13 10:13:50,932 - root - INFO - 	
+2020-10-13 10:13:50,948 - root - INFO - 	
+2020-10-13 10:13:50,976 - root - INFO - 	
+2020-10-13 10:13:50,991 - root - INFO - 	
+2020-10-13 10:13:51,006 - root - INFO - 	
+2020-10-13 10:13:51,020 - root - INFO - 	
+2020-10-13 10:13:51,038 - root - INFO - 	
+2020-10-13 10:13:51,054 - root - INFO - 	
+2020-10-13 10:13:51,069 - root - INFO - 	
+2020-10-13 10:13:51,084 - root - INFO - 	
+2020-10-13 10:13:51,099 - root - INFO - 	
+2020-10-13 10:13:51,114 - root - INFO - 	
+2020-10-13 10:13:51,114 - root - INFO - 
+
+2020-10-13 10:14:33,973 - root - INFO - 测试用例：物品添加
+2020-10-13 10:14:42,431 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:14:42,542 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:14:42,721 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:14:42,857 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:14:42,933 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:14:43,015 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:14:43,248 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:14:44,022 - root - INFO - 42
+2020-10-13 10:17:24,694 - root - INFO - 测试用例：物品添加
+2020-10-13 10:17:29,735 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 10:17:29,838 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 10:17:30,036 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 10:17:30,211 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 10:17:30,291 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 10:17:30,360 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 10:17:30,604 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 10:17:31,410 - root - INFO - 42
+2020-10-13 11:30:33,635 - root - INFO - 测试用例：活动中心添加活动
+2020-10-13 11:30:34,132 - root - INFO - 测试用例：签约合同
+2020-10-13 11:30:35,221 - root - INFO - 测试用例：签约合同
+2020-10-13 11:30:35,342 - root - INFO - 测试用例：添加学员
+2020-10-13 11:30:50,237 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 活动中心 
+2020-10-13 11:30:50,492 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 活动添加 
+2020-10-13 11:30:51,229 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-13 11:30:51,485 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-10-13 11:30:52,241 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-13 11:30:52,487 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:30:52,568 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 我的学员 
+2020-10-13 11:30:52,641 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-13 11:30:52,921 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:30:53,105 - root - INFO - 输入内容，元素类型 id ,属性值 txtDoTitle ， 输入值自动化活动
+2020-10-13 11:30:53,107 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 添加学员 
+2020-10-13 11:30:53,494 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:30:53,550 - root - INFO - 输入内容，元素类型 id ,属性值 txtMemberCount ， 输入值10
+2020-10-13 11:30:53,616 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:30:53,751 - root - INFO - 输入内容，元素类型 id ,属性值 txtStartDate ， 输入值2030-01-01
+2020-10-13 11:30:53,856 - root - INFO - 输入内容，元素类型 id ,属性值 txtRealName ， 输入值分分1
+2020-10-13 11:30:53,985 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值2030-01-02
+2020-10-13 11:30:54,063 - root - INFO - 输入内容，元素类型 id ,属性值 txtMobile ， 输入值15548757837
+2020-10-13 11:30:54,283 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-10-13 11:30:54,290 - root - INFO - 鼠标点击，元素类型 id ,属性值 divShowupload 
+2020-10-13 11:30:54,294 - root - INFO - 切换回主文档
+2020-10-13 11:30:54,708 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-13 11:30:54,883 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-10-13 11:30:55,008 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-10-13 11:30:55,781 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 签约 
+2020-10-13 11:30:55,901 - root - INFO - 切换回主文档
+2020-10-13 11:30:55,919 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-13 11:30:56,319 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-13 11:30:56,565 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-10-13 11:30:56,714 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 [删除] 
+2020-10-13 11:30:57,074 - root - INFO - 输入内容，元素类型 id ,属性值 txtEndDate ， 输入值3000-1-1
+2020-10-13 11:30:57,289 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值3uC4
+2020-10-13 11:30:57,367 - root - INFO - 测试用例：物品添加
+2020-10-13 11:30:57,447 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-13 11:30:57,876 - root - INFO - 输入内容，元素类型 id ,属性值 txtCardNo ， 输入值N3oc
+2020-10-13 11:30:58,007 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-13 11:30:59,498 - root - INFO - 切换回主文档
+2020-10-13 11:31:00,034 - root - INFO - 切换回主文档
+2020-10-13 11:31:01,169 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-13 11:31:01,762 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-13 11:31:01,986 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSave 
+2020-10-13 11:31:02,375 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 合同管理 
+2020-10-13 11:31:02,552 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="menuNormal"]/a[3] 
+2020-10-13 11:31:02,956 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:03,256 - root - INFO - 测试用例：签约合同
+2020-10-13 11:31:03,377 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 合同管理 
+2020-10-13 11:31:03,584 - root - INFO - 鼠标点击，元素类型 xpath ,属性值 //*[@id="menuNormal"]/a[3] 
+2020-10-13 11:31:04,037 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 资产管理 
+2020-10-13 11:31:04,122 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:04,393 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 物品添加 
+2020-10-13 11:31:04,447 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnCheck 
+2020-10-13 11:31:04,874 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:05,381 - root - INFO - 输入内容，元素类型 id ,属性值 tbProductName ， 输入值自动化测试
+2020-10-13 11:31:05,507 - root - INFO - 输入内容，元素类型 id ,属性值 tbPurchasePrice ， 输入值5
+2020-10-13 11:31:05,607 - root - INFO - 输入内容，元素类型 id ,属性值 tbSalePrice ， 输入值10
+2020-10-13 11:31:06,182 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnsave 
+2020-10-13 11:31:06,219 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnCheck 
+2020-10-13 11:31:06,881 - root - INFO - 测试用例：添加课程
+2020-10-13 11:31:12,000 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 学员管理 
+2020-10-13 11:31:12,169 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 批量导入学员 
+2020-10-13 11:31:12,247 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 教学管理 
+2020-10-13 11:31:12,414 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 课程表 
+2020-10-13 11:31:12,512 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:12,651 - root - INFO - 鼠标点击，元素类型 link_text ,属性值 未签约学员导入模板 
+2020-10-13 11:31:12,762 - root - INFO - 鼠标点击，元素类型 id ,属性值 linkDown 
+2020-10-13 11:31:13,680 - root - INFO - 输入内容，元素类型 id ,属性值 FileUpload1 ， 输入值C:\Users\Administrator\Desktop\import.xls
+2020-10-13 11:31:14,124 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:15,488 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnSaveNew 
+2020-10-13 11:31:15,709 - root - INFO - 切换回主文档
+2020-10-13 11:31:15,947 - root - INFO - 切换iframe，元素类型 xpath ,属性值 /html/body/div[6]/div[2]/iframe 
+2020-10-13 11:31:16,306 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 bDiv 
+2020-10-13 11:31:16,457 - root - INFO - 切换回主文档
+2020-10-13 11:31:16,558 - root - INFO - 鼠标点击，元素类型 class_name ,属性值 close 
+2020-10-13 11:31:16,580 - root - INFO - 切换iframe，元素类型 name ,属性值 content 
+2020-10-13 11:31:16,810 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbMsg 
+2020-10-13 11:31:16,901 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWx 
+2020-10-13 11:31:16,974 - root - INFO - 鼠标点击，元素类型 id ,属性值 cbWxTeacher 
+2020-10-13 11:31:17,057 - root - INFO - 鼠标点击，元素类型 id ,属性值 btnAppSave 
