@@ -18,6 +18,7 @@ class Contract_page(BaseMethod):
         sleep(0.3)
         self.Click("link_text", '签约')
 
+
     def sign_contract(self):
         self.iframe('xpath', '/html/body/div[6]/div[2]/iframe')
         self.waitelement('class_name', 3, 'edit')
@@ -25,10 +26,7 @@ class Contract_page(BaseMethod):
         self.select_text('id', 'ddlClassHour', '托班合同')
         self.select_text('id', 'ddlPayType', '现金')
         self.Input('id', 'txtEndDate', '3000-1-1')
-        sleep(0.5)
-        self.roll()
-        self.select_text('id', 'ddlCardType', '王者')
-        self.Input('id', 'txtCardNo', self.ram())
+        self.scroll_element('id', 'btnSave')
         self.Click('id', 'btnSave')
         sleep(1)
         self.accept_alert()
@@ -63,12 +61,12 @@ class Contract_page(BaseMethod):
     def accept_alert(self):
         self.alert_accept()
 
-    def ram(self):
-        str1 = '1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'
-        import random
-        while True:
-            code = ''
-            for i in range(4):
-                num = random.randint(0, len(str1) - 1)
-                code += str1[num]
-            return code
+    # def ram(self):
+    #     str1 = '1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'
+    #     import random
+    #     while True:
+    #         code = ''
+    #         for i in range(4):
+    #             num = random.randint(0, len(str1) - 1)
+    #             code += str1[num]
+    #         return code

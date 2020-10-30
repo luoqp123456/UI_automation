@@ -72,6 +72,26 @@ class BaseMethod(object):
             el = self.driver.find_elements_by_xpath(value)[index]
         return el if el else None
 
+    def find_elements(self, loatetype, value):
+        if loatetype == 'id':
+            el = self.driver.find_elements_by_id(value)
+        elif loatetype == 'name':
+            el = self.driver.find_elements_by_name(value)
+        elif loatetype == 'class_name':
+            el = self.driver.find_elements_by_class_name(value)
+        elif loatetype == 'xpath':
+            el = self.driver.find_elements_by_xpath(value)
+        elif loatetype == 'css':
+            el = self.driver.find_elements_by_css_selector(value)
+        elif loatetype == 'tag_name':
+            el = self.driver.find_elements_by_tag_name(value)
+        return el
+
+    def get_html(self):
+        html = self.driver.execute_script("return document.documentElement.outerHTML")
+        log.info(html)
+        return html
+
     def Input(self, type, value, inputvalue):     # 输入内容方法
         if type == "xpath":
             self.driver.find_element_by_xpath(value).send_keys(inputvalue)
@@ -178,14 +198,15 @@ class BaseMethod(object):
     def scroll_element(self, type, value):     #true是到顶部，false到底部
              # 拖动滚动条至目标元素
         if type == 'xpath':
-            element = self.driver.find_elements_by_xpath(value)
+            element = self.driver.find_element_by_xpath(value)
             self.driver.execute_script("return arguments[0].scrollIntoView(false);", element)
         elif type == 'id':
             element = self.driver.find_element_by_id(value)
-            self.driver.execute_script("arguments[0].scrollIntoView(false);", element)
+            # self.driver.execute_script("return arguments[0].scrollIntoView(false);", element)
+            self.driver.execute_script("return arguments[0].scrollIntoView();", element)
 
     def scroll_down(self):       #滚动到最底部
-        self.driver.execute_script('window.scrollTo(0, document.body.scrollHeight)')
+        self.driver.execute_script('window.scrollTo(0,document.body.scrollHeight)')
 
     def scroll_up(self):       #滚动到最顶部
         self.driver.execute_script('window.scrollTo(document.body.scrollHeight,0)')
@@ -352,7 +373,7 @@ class BaseMethod(object):
         elif type == "link_text":
             self.driver.find_element_by_link_text(value).click()
 
-    def movefloat(self, type, value ):
+    def movefloat(self, type, value):
         # 定位到要悬停的元素
         if type == "id":
             move = self.driver.find_element_by_id(value)
@@ -386,7 +407,8 @@ class BaseMethod(object):
             ActionChains(self.driver).move_to_element(move).perform()
 
     def alert_accept(self):
-        self.driver.switch_to.alert.accept()     #新
+        alert = self.driver.switch_to.alert    #新
+        alert.accept()
 
     def alert_text(self):
         a = self.driver.switch_to.alert
