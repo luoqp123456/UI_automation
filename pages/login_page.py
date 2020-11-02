@@ -9,3 +9,5 @@ def loginsuccess(driver):
     driver.find_element_by_id('tbUserName').send_keys('admin')
     driver.find_element_by_id('tbPassword').send_keys('666666')
     driver.find_element_by_id('Submit1').click()
+
+

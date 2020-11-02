@@ -1,3 +1,5 @@
+from time import sleep
+
 from commen.base import BaseMethod
 
 
@@ -38,7 +40,5 @@ class mainpage(BaseMethod):
     def keybord_click(self):
         self.Click('id', 'divShowupload')
         self.keybord('C:\\Users\\Administrator\\Desktop\\timg.jpg')
-
-
 
 

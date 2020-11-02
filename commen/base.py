@@ -167,11 +167,11 @@ class BaseMethod(object):
             self.driver.switch_to.frame(frame)
             log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
         elif type == "name":
-            frame =self.driver.find_element_by_name(value)
+            frame = self.driver.find_element_by_name(value)
             self.driver.switch_to.frame(frame)
             log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
         elif type == "tag_name":
-            frame =self.driver.find_element_by_tag_name(value)
+            frame = self.driver.find_element_by_tag_name(value)
             self.driver.switch_to.frame(frame)
             log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
 
