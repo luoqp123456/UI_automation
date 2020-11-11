@@ -54,21 +54,21 @@ class BaseMethod(object):
             print(None)
 
     def locate_elements(self, loatetype, value, index):
-        if (loatetype == 'id'):
+        if loatetype == 'id':
             el = self.driver.find_elements_by_id(value)[index]
-        elif (loatetype == 'name'):
+        elif loatetype == 'name':
             el = self.driver.find_elements_by_name(value)[index]
-        elif (loatetype == 'class_name'):
+        elif loatetype == 'class_name':
             el = self.driver.find_elements_by_class_name(value)[index]
-        elif (loatetype == 'tag_name'):
+        elif loatetype == 'tag_name':
             el = self.driver.find_elements_by_tag_name(value)[index]
-        elif (loatetype == 'link'):
+        elif loatetype == 'link':
             el = self.driver.find_elements_by_link_text(value)[index]
-        elif (loatetype == 'css'):
+        elif loatetype == 'css':
             el = self.driver.find_elements_by_css_selector(value)[index]
-        elif (loatetype == 'partial_link'):
+        elif loatetype == 'partial_link':
             el = self.driver.find_elements_by_partial_link_text(value)[index]
-        elif (loatetype == 'xpath'):
+        elif loatetype == 'xpath':
             el = self.driver.find_elements_by_xpath(value)[index]
         return el if el else None
 
@@ -112,8 +112,6 @@ class BaseMethod(object):
             self.driver.find_element_by_partial_link_text(value).send_keys(inputvalue)
             log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
 
-
-        # 鼠标事件方法一
     def Click(self, type, value):
         if type == "xpath":
             self.driver.find_element_by_xpath(value).click()
@@ -137,16 +135,9 @@ class BaseMethod(object):
             self.driver.find_element_by_css_selector(value).click()
             log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
 
-
-
-    def click_css(self, value):
-        self.driver.find_element_by_css_selector(value).click()
-
     def click_css2(self, value, index):
         self.driver.find_element_by_css_selector(value)[index].click()
 
-
-        # 鼠标事件方法二
     def Clicks(self,type, value, index):
         if type == "xpath":
             self.driver.find_elements_by_xpath(value)[index].click()

@@ -27,7 +27,7 @@ class Test_staff_info:
 
     def test_click_delete02(self, browser, log_up):
         try:
-            log_up.info('测试用例：删除员工')
+            log_up.info('测试用例：请假登记')
             loginsuccess(browser)
             staff = staffinfo_page(browser)
             staff.department()

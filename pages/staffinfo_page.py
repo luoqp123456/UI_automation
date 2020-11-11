@@ -49,16 +49,18 @@ class staffinfo_page(BaseMethod):
         for j in range(sum_page):
             ele_list = self.find_elements('css', '[abbr="UserName"]')
             for i in range(1, len(ele_list)):
-                ele = self.locate_element('xpath', f'//*[@id="Test"]/tbody/tr[{i}]/td[2]')
-                ele1 = f'//*[@id="Test"]/tbody/tr[{i}]/td[2]'
-                self.scroll_element('xpath', ele1)
-                if ele.text == 'zidonghuaceshi':
-                    return ele.text
+                if i < 30:
+                    ele = self.locate_element('xpath', f'//*[@id="Test"]/tbody/tr[{i}]/td[2]')
+                    ele1 = f'//*[@id="Test"]/tbody/tr[{i}]/td[2]'
+                    self.scroll_element('xpath', ele1)
+                    if ele.text == 'zidonghuaceshi':
+                        return ele.text
+                    else:
+                        log.info(ele.text)
+                        log.info('页面没有找到数据')
                 else:
-                    log.info(ele.text)
-                    log.info('页面没有找到数据')
+                    self.Click('class_name', 'pNext')
             j += 1
-            self.Click('class_name', 'pNext')
             sleep(0.5)
 
     def page(self):

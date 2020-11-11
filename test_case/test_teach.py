@@ -16,7 +16,7 @@ class Test_teachstu:
             teacher.addcourse()
             teacher.switch_default_content()
             teacher.switch_frame()
-            teacher.switch_table_clickstu()
+            teacher.select_student()
             teacher.switch_default_content()
             teacher.close1()
             teacher.frame()
@@ -30,6 +30,17 @@ class Test_teachstu:
         except Exception as e:
             print("Exception happening :" + str(e))
             raise
+
+    # def test_teach_manage(self, browser, log_up):        #登录后点击添加学员按钮
+    #     try:
+    #         log_up.info('测试用例：添加课程')
+    #         loginsuccess(browser)
+    #         teacher = Teach_page(browser)  # 实例化登录后的页面对象（mainpage）
+    #         teacher.daily_management()
+    #
+    #     except Exception as e:
+    #         print("Exception happening :" + str(e))
+    #         raise
 
 
 if __name__ == '__main__':
