@@ -1,0 +1,355 @@
+2020-11-17 09:46:19,391 - root - INFO - 测试用例：请假登记
+2020-11-17 09:46:28,930 - root - INFO - 等待元素：link,员工管理
+2020-11-17 09:46:28,996 - root - INFO - 获取元素：link,员工管理
+2020-11-17 09:46:29,759 - root - INFO - 点击元素：link,员工管理
+2020-11-17 09:46:29,884 - root - INFO - 等待元素：link,员工信息管理
+2020-11-17 09:46:29,989 - root - INFO - 获取元素：link,员工信息管理
+2020-11-17 09:46:30,084 - root - INFO - 点击元素：link,员工信息管理
+2020-11-17 09:46:30,115 - root - INFO - 等待元素：name,content
+2020-11-17 09:46:30,127 - root - INFO - 获取元素：name,content
+2020-11-17 09:46:31,067 - root - INFO - 进入frame：name,content
+2020-11-17 09:46:31,106 - root - INFO - 等待元素：id,Test
+2020-11-17 09:46:31,119 - root - INFO - 获取元素：id,Test
+2020-11-17 09:46:31,573 - root - INFO - 指向元素id,Test
+2020-11-17 09:46:31,606 - root - INFO - 等待元素：xpath,//*[@id="form1"]/div[3]/div[6]/div[1]/div[5]/span/span[2]
+2020-11-17 09:46:31,651 - root - INFO - 获取元素：xpath,//*[@id="form1"]/div[3]/div[6]/div[1]/div[5]/span/span[2]
+2020-11-17 09:46:31,718 - root - INFO - 获取元素列表：css,[abbr="UserName"]
+2020-11-17 09:46:31,755 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:31,770 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:31,800 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:31,815 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:31,860 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:31,906 - root - INFO - admin
+2020-11-17 09:46:31,908 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:31,936 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:31,952 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:31,976 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:31,992 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:32,051 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:32,093 - root - INFO - James
+2020-11-17 09:46:32,095 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:32,117 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:32,134 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:32,154 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:32,167 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:32,212 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:32,275 - root - INFO - laoshi
+2020-11-17 09:46:32,276 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:32,317 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:32,333 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:32,353 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:32,367 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:32,400 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:32,532 - root - INFO - laoshi123
+2020-11-17 09:46:32,533 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:32,605 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:32,750 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:32,801 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:32,859 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:32,939 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:33,007 - root - INFO - 微信
+2020-11-17 09:46:33,009 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:33,081 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:33,123 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:33,157 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:33,175 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:33,233 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:33,283 - root - INFO - Eugene
+2020-11-17 09:46:33,284 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:33,318 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:33,334 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:33,387 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:33,403 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:33,450 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:33,500 - root - INFO - 003
+2020-11-17 09:46:33,501 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:33,526 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:33,541 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:33,565 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:33,589 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:33,673 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:33,873 - root - INFO - 1234568
+2020-11-17 09:46:33,874 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:33,906 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:33,940 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:33,984 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:34,002 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:34,055 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:34,191 - root - INFO - beibei
+2020-11-17 09:46:34,194 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:34,257 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:34,286 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:34,308 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:34,324 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:34,377 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:34,427 - root - INFO - guwenq1
+2020-11-17 09:46:34,428 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:34,455 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:34,479 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:34,508 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:34,539 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:34,586 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:34,634 - root - INFO - quwen2
+2020-11-17 09:46:34,635 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:34,656 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:34,676 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:34,701 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:34,717 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:34,768 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:34,821 - root - INFO - haitang
+2020-11-17 09:46:34,822 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:34,857 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:34,890 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:34,922 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:34,941 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:35,002 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:35,055 - root - INFO - 568
+2020-11-17 09:46:35,056 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:35,075 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:35,119 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:35,140 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:35,154 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:35,193 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:35,252 - root - INFO - hung
+2020-11-17 09:46:35,253 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:35,283 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:35,297 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:35,339 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:35,357 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:35,420 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:35,536 - root - INFO - date
+2020-11-17 09:46:36,047 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:36,134 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:36,239 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:36,267 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:36,281 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:36,336 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:36,399 - root - INFO - juhua
+2020-11-17 09:46:36,400 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:36,423 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:36,438 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:36,460 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:36,472 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:36,531 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:36,565 - root - INFO - 蓝莓
+2020-11-17 09:46:36,566 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:36,588 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[18]/td[2]
+2020-11-17 09:46:36,608 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[18]/td[2]
+2020-11-17 09:46:36,629 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[18]/td[2]
+2020-11-17 09:46:36,640 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[18]/td[2]
+2020-11-17 09:46:36,684 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[18]/td[2]
+2020-11-17 09:46:36,720 - root - INFO - 李芳
+2020-11-17 09:46:36,721 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:36,754 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[19]/td[2]
+2020-11-17 09:46:36,769 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[19]/td[2]
+2020-11-17 09:46:36,789 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[19]/td[2]
+2020-11-17 09:46:36,829 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[19]/td[2]
+2020-11-17 09:46:36,887 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[19]/td[2]
+2020-11-17 09:46:36,930 - root - INFO - 李老师
+2020-11-17 09:46:36,931 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:36,952 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[20]/td[2]
+2020-11-17 09:46:36,964 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[20]/td[2]
+2020-11-17 09:46:36,984 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[20]/td[2]
+2020-11-17 09:46:36,998 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[20]/td[2]
+2020-11-17 09:46:37,037 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[20]/td[2]
+2020-11-17 09:46:37,117 - root - INFO - lizi
+2020-11-17 09:46:37,118 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:37,178 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[21]/td[2]
+2020-11-17 09:46:37,190 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[21]/td[2]
+2020-11-17 09:46:37,208 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[21]/td[2]
+2020-11-17 09:46:37,221 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[21]/td[2]
+2020-11-17 09:46:37,230 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[21]/td[2]
+2020-11-17 09:46:37,265 - root - INFO - 小恒星
+2020-11-17 09:46:37,266 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:37,290 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[22]/td[2]
+2020-11-17 09:46:37,304 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[22]/td[2]
+2020-11-17 09:46:37,340 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[22]/td[2]
+2020-11-17 09:46:37,354 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[22]/td[2]
+2020-11-17 09:46:37,365 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[22]/td[2]
+2020-11-17 09:46:37,449 - root - INFO - luo123
+2020-11-17 09:46:37,450 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:37,485 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[23]/td[2]
+2020-11-17 09:46:37,554 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[23]/td[2]
+2020-11-17 09:46:37,588 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[23]/td[2]
+2020-11-17 09:46:37,615 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[23]/td[2]
+2020-11-17 09:46:37,652 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[23]/td[2]
+2020-11-17 09:46:37,707 - root - INFO - 大毛老师
+2020-11-17 09:46:37,708 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:37,740 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[24]/td[2]
+2020-11-17 09:46:37,759 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[24]/td[2]
+2020-11-17 09:46:37,787 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[24]/td[2]
+2020-11-17 09:46:37,805 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[24]/td[2]
+2020-11-17 09:46:37,819 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[24]/td[2]
+2020-11-17 09:46:37,858 - root - INFO - mihoutao
+2020-11-17 09:46:37,859 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:37,927 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[25]/td[2]
+2020-11-17 09:46:37,953 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[25]/td[2]
+2020-11-17 09:46:38,007 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[25]/td[2]
+2020-11-17 09:46:38,037 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[25]/td[2]
+2020-11-17 09:46:38,080 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[25]/td[2]
+2020-11-17 09:46:38,140 - root - INFO - qingqing
+2020-11-17 09:46:38,141 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,168 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[26]/td[2]
+2020-11-17 09:46:38,182 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[26]/td[2]
+2020-11-17 09:46:38,205 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[26]/td[2]
+2020-11-17 09:46:38,220 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[26]/td[2]
+2020-11-17 09:46:38,231 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[26]/td[2]
+2020-11-17 09:46:38,268 - root - INFO - xiaoqing
+2020-11-17 09:46:38,269 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,305 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[27]/td[2]
+2020-11-17 09:46:38,316 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[27]/td[2]
+2020-11-17 09:46:38,337 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[27]/td[2]
+2020-11-17 09:46:38,349 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[27]/td[2]
+2020-11-17 09:46:38,357 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[27]/td[2]
+2020-11-17 09:46:38,394 - root - INFO - 瑞金中心
+2020-11-17 09:46:38,395 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,414 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[28]/td[2]
+2020-11-17 09:46:38,426 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[28]/td[2]
+2020-11-17 09:46:38,444 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[28]/td[2]
+2020-11-17 09:46:38,455 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[28]/td[2]
+2020-11-17 09:46:38,465 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[28]/td[2]
+2020-11-17 09:46:38,498 - root - INFO - 体验8小时
+2020-11-17 09:46:38,499 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,520 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[29]/td[2]
+2020-11-17 09:46:38,533 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[29]/td[2]
+2020-11-17 09:46:38,556 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[29]/td[2]
+2020-11-17 09:46:38,569 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[29]/td[2]
+2020-11-17 09:46:38,578 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[29]/td[2]
+2020-11-17 09:46:38,694 - root - INFO - 13733679621
+2020-11-17 09:46:38,696 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,726 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[30]/td[2]
+2020-11-17 09:46:38,754 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[30]/td[2]
+2020-11-17 09:46:38,783 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[30]/td[2]
+2020-11-17 09:46:38,798 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[30]/td[2]
+2020-11-17 09:46:38,805 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[30]/td[2]
+2020-11-17 09:46:38,850 - root - INFO - 唐诗瑶
+2020-11-17 09:46:38,851 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:38,869 - root - INFO - 等待元素：class,pNext
+2020-11-17 09:46:38,879 - root - INFO - 获取元素：class,pNext
+2020-11-17 09:46:39,095 - root - INFO - 点击元素：class,pNext
+2020-11-17 09:46:39,633 - root - INFO - 获取元素列表：css,[abbr="UserName"]
+2020-11-17 09:46:39,654 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:39,666 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:39,684 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:39,700 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:39,732 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[1]/td[2]
+2020-11-17 09:46:39,767 - root - INFO - 体验
+2020-11-17 09:46:39,768 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:39,784 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:39,796 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:39,814 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:39,824 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:39,855 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[2]/td[2]
+2020-11-17 09:46:39,896 - root - INFO - wangjinlin
+2020-11-17 09:46:39,897 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:39,914 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:39,925 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:39,942 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:39,956 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:39,992 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[3]/td[2]
+2020-11-17 09:46:40,026 - root - INFO - wei
+2020-11-17 09:46:40,028 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,045 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:40,056 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:40,073 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:40,084 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:40,109 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[4]/td[2]
+2020-11-17 09:46:40,150 - root - INFO - wushixun
+2020-11-17 09:46:40,151 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,171 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:40,185 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:40,207 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:40,218 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:40,246 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[5]/td[2]
+2020-11-17 09:46:40,282 - root - INFO - 002
+2020-11-17 09:46:40,283 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,321 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:40,338 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:40,392 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:40,404 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:40,413 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[6]/td[2]
+2020-11-17 09:46:40,448 - root - INFO - 121
+2020-11-17 09:46:40,449 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,467 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:40,481 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:40,497 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:40,509 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:40,518 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[7]/td[2]
+2020-11-17 09:46:40,562 - root - INFO - 敏敏
+2020-11-17 09:46:40,563 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,583 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:40,597 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:40,653 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:40,679 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:40,705 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[8]/td[2]
+2020-11-17 09:46:40,775 - root - INFO - qiezi
+2020-11-17 09:46:40,777 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:40,858 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:40,899 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:40,954 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:40,989 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:41,008 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[9]/td[2]
+2020-11-17 09:46:41,108 - root - INFO - eric
+2020-11-17 09:46:41,109 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,164 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:41,191 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:41,221 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:41,239 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:41,254 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[10]/td[2]
+2020-11-17 09:46:41,335 - root - INFO - yezi测试
+2020-11-17 09:46:41,336 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,357 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:41,386 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:41,427 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:41,474 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:41,491 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[11]/td[2]
+2020-11-17 09:46:41,541 - root - INFO - 椰子
+2020-11-17 09:46:41,542 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,565 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:41,579 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:41,638 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:41,656 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:41,664 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[12]/td[2]
+2020-11-17 09:46:41,700 - root - INFO - guigui
+2020-11-17 09:46:41,701 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,721 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:41,735 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:41,757 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:41,768 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:41,776 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[13]/td[2]
+2020-11-17 09:46:41,841 - root - INFO - yuyue
+2020-11-17 09:46:41,842 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,868 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:41,884 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:41,902 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:41,918 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:41,929 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[14]/td[2]
+2020-11-17 09:46:41,967 - root - INFO - yc186226
+2020-11-17 09:46:41,968 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:41,985 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:41,997 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:42,017 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:42,029 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:42,037 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[15]/td[2]
+2020-11-17 09:46:42,069 - root - INFO - amber
+2020-11-17 09:46:42,069 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:42,088 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:42,101 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:42,119 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:42,131 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:42,138 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[16]/td[2]
+2020-11-17 09:46:42,169 - root - INFO - 526261015
+2020-11-17 09:46:42,170 - root - INFO - 页面没有找到数据
+2020-11-17 09:46:42,188 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:42,199 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:42,216 - root - INFO - 等待元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:42,226 - root - INFO - 获取元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:42,235 - root - INFO - 滚动至元素：xpath, //*[@id="Test"]/tbody/tr[17]/td[2]
+2020-11-17 09:46:42,272 - root - INFO - 等待元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[1]/div/a[3]
+2020-11-17 09:46:42,283 - root - INFO - 获取元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[1]/div/a[3]
+2020-11-17 09:46:42,407 - root - INFO - 点击元素：xpath,//*[@id="Test"]/tbody/tr[17]/td[1]/div/a[3]
+2020-11-17 09:46:42,423 - root - INFO - alert提示为：将会连同档案信息一同删除，确认要删除吗？
+2020-11-17 09:46:42,467 - root - INFO - 等待元素：class,pNext
+2020-11-17 09:46:42,484 - root - INFO - 获取元素：class,pNext
+2020-11-17 09:46:42,587 - root - INFO - 点击元素：class,pNext
+2020-11-17 09:46:43,107 - root - INFO - alert提示为：已删除！

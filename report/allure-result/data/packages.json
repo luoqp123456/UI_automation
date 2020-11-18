@@ -7,7 +7,7 @@
       "name" : "test_actioncenter",
       "children" : [ {
         "name" : "test_addaction",
-        "uid" : "60bd4ba1b4d8f5cc",
+        "uid" : "9e8ed25b3a4af0e6",
         "parentUid" : "91ee709efa3d97a8f57320f2943ee33c",
         "status" : "passed",
         "time" : {
@@ -24,7 +24,7 @@
       "name" : "test_addstu",
       "children" : [ {
         "name" : "test_add_success",
-        "uid" : "5ed6aa2d552acc12",
+        "uid" : "d6abbc09b967d440",
         "parentUid" : "4db97c65ab29b45e1c276137d73eec6e",
         "status" : "broken",
         "time" : {
@@ -41,7 +41,7 @@
       "name" : "test_contract",
       "children" : [ {
         "name" : "test_contract",
-        "uid" : "14acca18e856633e",
+        "uid" : "aa6a5b098a774c38",
         "parentUid" : "949fa338d9ec2a24adfe44efeb3913ac",
         "status" : "passed",
         "time" : {
@@ -54,7 +54,7 @@
         "parameters" : [ ]
       }, {
         "name" : "test_contract22222",
-        "uid" : "384e29bace7a084f",
+        "uid" : "f69b21f546d1e160",
         "parentUid" : "949fa338d9ec2a24adfe44efeb3913ac",
         "status" : "passed",
         "time" : {
@@ -71,7 +71,7 @@
       "name" : "test_goods",
       "children" : [ {
         "name" : "test_addgoods",
-        "uid" : "a696f1387065a9a2",
+        "uid" : "1d74057e530e8731",
         "parentUid" : "b0fb47638241cccdf8bb91d226b9073a",
         "status" : "passed",
         "time" : {
@@ -88,7 +88,7 @@
       "name" : "test_import",
       "children" : [ {
         "name" : "test_import",
-        "uid" : "e8ded3674584dda5",
+        "uid" : "cba8d2e8bc0be9a9",
         "parentUid" : "c5bd53fa0253b177e563c6d8fc92a749",
         "status" : "passed",
         "time" : {
@@ -105,7 +105,7 @@
       "name" : "test_teach",
       "children" : [ {
         "name" : "test_add_course",
-        "uid" : "92f7150422558f7f",
+        "uid" : "c89b5a4930e1037a",
         "parentUid" : "ac21dfbd519f824b32d18bb398065607",
         "status" : "broken",
         "time" : {
@@ -122,7 +122,7 @@
       "name" : "test_pr",
       "children" : [ {
         "name" : "test_pr",
-        "uid" : "9b102a664addeb14",
+        "uid" : "afcd9f4223d86475",
         "parentUid" : "a1f7abe110c18838a6ccc3a3de964b78",
         "status" : "passed",
         "time" : {
@@ -139,7 +139,7 @@
       "name" : "test_pro",
       "children" : [ {
         "name" : "test_pr",
-        "uid" : "42a983fab1a8cc46",
+        "uid" : "5626e975810b15f1",
         "parentUid" : "cc441b39f2debfbc616d859157f5c02d",
         "status" : "broken",
         "time" : {
@@ -152,6 +152,70 @@
         "parameters" : [ ]
       } ],
       "uid" : "cc441b39f2debfbc616d859157f5c02d"
+    }, {
+      "name" : "test_staffinfo",
+      "children" : [ {
+        "name" : "test_click_delete02",
+        "uid" : "7be92339f84ba893",
+        "parentUid" : "84f7f84743f9f1f861fd8009541ae63f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605577579391,
+          "stop" : 1605577603140,
+          "duration" : 23749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_click_delete01",
+        "uid" : "7734467d6baf1c15",
+        "parentUid" : "84f7f84743f9f1f861fd8009541ae63f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605577580635,
+          "stop" : 1605577609558,
+          "duration" : 28923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84f7f84743f9f1f861fd8009541ae63f"
+    }, {
+      "name" : "test_contra.test_contract",
+      "children" : [ {
+        "name" : "test_contract",
+        "uid" : "93bb74b247eea742",
+        "parentUid" : "7d2a0f408019417fd97f9e9216198efa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605577579903,
+          "stop" : 1605577614065,
+          "duration" : 34162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "test_contra.test_contract"
+    }, {
+      "name" : "test_impot.test_import",
+      "children" : [ {
+        "name" : "test_import",
+        "uid" : "417c9806697698b",
+        "parentUid" : "a7a82c78c53e89e6cc35a4880df8e59f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605577580592,
+          "stop" : 1605577603859,
+          "duration" : 23267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "test_impot.test_import"
     } ],
     "uid" : "3b2e467b921b0ea8d4803b9c79d92d0c"
   } ]

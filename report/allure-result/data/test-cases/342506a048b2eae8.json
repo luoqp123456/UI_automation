@@ -1,0 +1,151 @@
+{
+  "uid" : "342506a048b2eae8",
+  "name" : "test_contract22222",
+  "fullName" : "test_case.test_contract.Test_contract#test_contract22222",
+  "historyId" : "9dbe9610200e93e86c91a6016f514fa0",
+  "time" : {
+    "start" : 1602499428543,
+    "stop" : 1602499460735,
+    "duration" : 32192
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1602499422063,
+      "stop" : 1602499428538,
+      "duration" : 6475
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "teardown_func",
+    "time" : {
+      "start" : 1602499428539,
+      "stop" : 1602499428539,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "log_up",
+    "time" : {
+      "start" : 1602499428538,
+      "stop" : 1602499428538,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e5a678a41f13fe45",
+      "name" : "log",
+      "source" : "e5a678a41f13fe45.txt",
+      "type" : "text/plain",
+      "size" : 71802
+    }, {
+      "uid" : "e1c4cda2df35f2f",
+      "name" : "stderr",
+      "source" : "e1c4cda2df35f2f.txt",
+      "type" : "text/plain",
+      "size" : 1514
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1602499461476,
+      "stop" : 1602499464034,
+      "duration" : 2558
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "teardown_func::0",
+    "time" : {
+      "start" : 1602499460737,
+      "stop" : 1602499461473,
+      "duration" : 736
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_contract"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_contract"
+  }, {
+    "name" : "host",
+    "value" : "TX5C3S1L7D31UYD"
+  }, {
+    "name" : "thread",
+    "value" : "9196-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "342506a048b2eae8.json",
+  "parameterValues" : [ ]
+}

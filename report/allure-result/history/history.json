@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9b102a664addeb14",
+      "uid" : "afcd9f4223d86475",
       "status" : "passed",
       "time" : {
         "start" : 1603081152677,
@@ -28,7 +28,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a696f1387065a9a2",
+      "uid" : "1d74057e530e8731",
       "status" : "passed",
       "time" : {
         "start" : 1603071010051,
@@ -47,7 +47,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "92f7150422558f7f",
+      "uid" : "c89b5a4930e1037a",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[title=\"班级:韩语课程\"]\"}\n  (Session info: chrome=86.0.4240.75)",
       "time" : {
@@ -67,7 +67,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "60bd4ba1b4d8f5cc",
+      "uid" : "9e8ed25b3a4af0e6",
       "status" : "passed",
       "time" : {
         "start" : 1603070985783,
@@ -86,12 +86,50 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "384e29bace7a084f",
+      "uid" : "f69b21f546d1e160",
       "status" : "passed",
       "time" : {
         "start" : 1603070987524,
         "stop" : 1603071020105,
         "duration" : 32581
+      }
+    } ]
+  },
+  "85b6601d28b09f978fc54fc6f12b22eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7734467d6baf1c15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605577580635,
+        "stop" : 1605577609558,
+        "duration" : 28923
+      }
+    } ]
+  },
+  "a9c136c384196e49e181493295c27531" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93bb74b247eea742",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605577579903,
+        "stop" : 1605577614065,
+        "duration" : 34162
       }
     } ]
   },
@@ -105,7 +143,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "14acca18e856633e",
+      "uid" : "aa6a5b098a774c38",
       "status" : "passed",
       "time" : {
         "start" : 1603070987352,
@@ -124,13 +162,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "42a983fab1a8cc46",
+      "uid" : "5626e975810b15f1",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"app\"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div\"}\n  (Session info: chrome=86.0.4240.75)",
       "time" : {
         "start" : 1603081153387,
         "stop" : 1603081167832,
         "duration" : 14445
+      }
+    } ]
+  },
+  "a4ba67832ecc67acc14613d9a8fe8449" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "417c9806697698b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605577580592,
+        "stop" : 1605577603859,
+        "duration" : 23267
       }
     } ]
   },
@@ -144,7 +201,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e8ded3674584dda5",
+      "uid" : "cba8d2e8bc0be9a9",
       "status" : "passed",
       "time" : {
         "start" : 1603071014750,
@@ -163,13 +220,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5ed6aa2d552acc12",
+      "uid" : "d6abbc09b967d440",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"lbRealName\"]\"}\n  (Session info: chrome=86.0.4240.75)",
       "time" : {
         "start" : 1603070986220,
         "stop" : 1603071014233,
         "duration" : 28013
+      }
+    } ]
+  },
+  "8ef10044f96f37e864b58f37b2c6e2e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7be92339f84ba893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605577579391,
+        "stop" : 1605577603140,
+        "duration" : 23749
       }
     } ]
   }
