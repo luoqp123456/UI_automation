@@ -6,6 +6,7 @@ from pages.login_page import loginsuccess
 
 
 class Test_import:
+
     def test_import(self, browser, log_up):
         try:
             log_up.info('测试用例：签约合同')

@@ -16,7 +16,6 @@ class Test_contract:
             cont.click_contract()
             cont.switch_default_content()
             cont.sign_contract()
-            sleep(1)
             cont.switch_default_content()
             sleep(1)
             cont.last_alert()

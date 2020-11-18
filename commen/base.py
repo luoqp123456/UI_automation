@@ -1,8 +1,7 @@
 from time import sleep
 import pynput
-from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver import ActionChains
-from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from commen.log import Log
 from selenium.webdriver.support.select import Select
@@ -16,162 +15,249 @@ class BaseMethod(object):
     def __init__(self, driver):
         self.driver = driver
 
-    # selenium 定位方法
-    def locate_element(self, loatetype, value):
-        if loatetype == 'id':
-            el = self.driver.find_element_by_id(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'name':
-            el = self.driver.find_element_by_name(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'class_name':
-            el = self.driver.find_element_by_class_name(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'tag_name':
-            el = self.driver.find_elements_by_tag_name(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'link':
-            el = self.driver.find_element_by_link_text(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'css':
-            el = self.driver.find_element_by_css_selector(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'partial_link':
-            el = self.driver.find_element_by_partial_link_text(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
-        elif loatetype == 'xpath':
-            el = self.driver.find_element_by_xpath(value)
-            log.info(u'元素类型 %s ,属性值 %s' % (loatetype, value))
-            return el
+    def split_locator(self, locator):
+        """
+        分解定位表达式，如'css,.username',拆分后返回'css selector'和定位表达式'.username'(class为username的元素)
+        :param locator: 定位方法+定位表达式组合字符串，如'css,.username'
+        :return: locator_dict[by], value:返回定位方式和定位表达式
+        """
+        by = locator.split(',', 1)[0]
+        value = locator.split(',', 1)[1]
+        locator_dict = {
+            'id': 'id',
+            'name': 'name',
+            'class': 'class name',
+            'tag': 'tag name',
+            'link': 'link text',
+            'plink': 'partial link text',
+            'xpath': 'xpath',
+            'css': 'css selector',
+        }
+        if by not in locator_dict.keys():
+            raise NameError("wrong locator!'id','name','class','tag','link','plink','xpath','css',exp:'id,username'")
+        return locator_dict[by], value
+
+    def wait_element(self, locator, sec=10):
+        """
+        等待元素出现
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :param sec:等待秒数
+        """
+        by, value = self.split_locator(locator)
+        try:
+            WebDriverWait(self.driver, sec, 1).until(lambda x: x.find_element(by=by, value=value),
+                                                     message='element not found!!!')
+            log.info(u'等待元素：%s' % locator)
+            return True
+        except TimeoutException:
+            return False
+        except Exception as e:
+            raise e
+
+    def get_element(self, locator, sec=10):
+        """
+        获取一个元素
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :param sec:等待秒数
+        :return: 元素可找到返回element对象，否则返回False
+        """
+        if self.wait_element(locator, sec):
+            by, value = self.split_locator(locator)
+            try:
+                element = self.driver.find_element(by=by, value=value)
+                log.info(u'获取元素：%s' % locator)
+                return element
+            except Exception as e:
+                raise e
         else:
-            print(None)
+            return False
 
-    def locate_elements(self, loatetype, value, index):
-        if loatetype == 'id':
-            el = self.driver.find_elements_by_id(value)[index]
-        elif loatetype == 'name':
-            el = self.driver.find_elements_by_name(value)[index]
-        elif loatetype == 'class_name':
-            el = self.driver.find_elements_by_class_name(value)[index]
-        elif loatetype == 'tag_name':
-            el = self.driver.find_elements_by_tag_name(value)[index]
-        elif loatetype == 'link':
-            el = self.driver.find_elements_by_link_text(value)[index]
-        elif loatetype == 'css':
-            el = self.driver.find_elements_by_css_selector(value)[index]
-        elif loatetype == 'partial_link':
-            el = self.driver.find_elements_by_partial_link_text(value)[index]
-        elif loatetype == 'xpath':
-            el = self.driver.find_elements_by_xpath(value)[index]
-        return el if el else None
-
-    def find_elements(self, loatetype, value):
-        if loatetype == 'id':
-            el = self.driver.find_elements_by_id(value)
-        elif loatetype == 'name':
-            el = self.driver.find_elements_by_name(value)
-        elif loatetype == 'class_name':
-            el = self.driver.find_elements_by_class_name(value)
-        elif loatetype == 'xpath':
-            el = self.driver.find_elements_by_xpath(value)
-        elif loatetype == 'css':
-            el = self.driver.find_elements_by_css_selector(value)
-        elif loatetype == 'tag_name':
-            el = self.driver.find_elements_by_tag_name(value)
-        return el
+    def get_elements(self, locator):
+        """
+        获取一组元素
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :return: elements
+        """
+        by, value = self.split_locator(locator)
+        try:
+            elements = WebDriverWait(self.driver, 10, 1).until(lambda x: x.find_elements(by=by, value=value))
+            log.info(u'获取元素列表：%s' % locator)
+            return elements
+        except Exception as e:
+            raise e
 
     def get_html(self):
         html = self.driver.execute_script("return document.documentElement.outerHTML")
         log.info(html)
         return html
 
-    def Input(self, type, value, inputvalue):     # 输入内容方法
-        if type == "xpath":
-            self.driver.find_element_by_xpath(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
-        elif type == "class_name":
-            self.driver.find_element_by_class_name(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
-        elif type == "id":
-            self.driver.find_element_by_id(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
-        elif type == "name":
-            self.driver.find_element_by_name(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
-        elif type == "link_text":
-            self.driver.find_element_by_link_text(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
-        elif type == "partial_link_text":
-            self.driver.find_element_by_partial_link_text(value).send_keys(inputvalue)
-            log.info(u'输入内容，元素类型 %s ,属性值 %s ， 输入值%s' % (type, value, inputvalue))
+    def clear(self, locator):
+        """
+        清除元素中的内容
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        """
+        self.get_element(locator).clear()
+        log.info(u'清空内容：%s' % locator)
 
-    def Click(self, type, value):
-        if type == "xpath":
-            self.driver.find_element_by_xpath(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "class_name":
-            self.driver.find_element_by_class_name(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "id":
-            self.driver.find_element_by_id(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "name":
-            self.driver.find_element_by_name(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "link_text":
-            self.driver.find_element_by_link_text(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "partial_link_text":
-            self.driver.find_element_by_partial_link_text(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
-        else:
-            self.driver.find_element_by_css_selector(value).click()
-            log.info(u'鼠标点击，元素类型 %s ,属性值 %s ' % (type, value))
+    def type(self, locator, text):
+        """
+        在元素中输入内容
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :param text: 输入的内容
+        """
+        ele = self.get_element(locator)
+        text = ele.send_keys(text)
+        log.info(u'向元素 %s 输入文字：%s' % (locator, text))
 
-    def click_css2(self, value, index):
-        self.driver.find_element_by_css_selector(value)[index].click()
+    def type_all(self, locator, text):
+        """
+        在符合条件的所有元素中输入内容，依次循环输入text1,text2……
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :param text: 输入的内容
+        """
+        allt = self.get_elements(locator)
+        i = 1
+        log.info(u'开始执行type_all，共%s个元素' % (len(allt)))
+        for ele in allt:
+            newtext = text + str(i)
+            ele.send_keys(newtext)
+            log.info(u'向第 %s 个元素输入文字：%s' % (i, newtext))
+            i += 1
 
-    def Clicks(self,type, value, index):
-        if type == "xpath":
-            self.driver.find_elements_by_xpath(value)[index].click()
-        elif type == "class_name":
-            self.driver.find_elements_by_class_name(value)[index].click()
-        elif type == "id":
-            self.driver.find_elements_by_id(value)[index].click()
-        elif type == "name":
-            self.driver.find_elements_by_name(value)[index].click()
-        elif type == "link_text":
-            self.driver.find_elements_by_link_text(value)[index].click()
-        elif type == "partial_link_text":
-            self.driver.find_elements_by_partial_link_text(value)[index].click()
+    def click(self, locator):
+        """
+        在元素上单击
+        :param repeat: 重复次数标记，不要填写
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        """
+        try:
+            self.get_element(locator).click()
+            log.info(u'点击元素：%s' % locator)
+        except Exception as e:
+            log.info(u'点击元素：%s 出现错误%s' % (locator, e))
 
-    def iframe(self,type, value):
-        if type == "xpath":
-            frame = self.driver.find_element_by_xpath(value)
-            self.driver.switch_to.frame(frame)
-            log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "name":
-            frame = self.driver.find_element_by_name(value)
-            self.driver.switch_to.frame(frame)
-            log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "tag_name":
-            frame = self.driver.find_element_by_tag_name(value)
-            self.driver.switch_to.frame(frame)
-            log.info(u'切换iframe，元素类型 %s ,属性值 %s ' % (type, value))
+    def clicks(self, locator, index):
+        eles = self.get_elements(locator)[index]
+        eles.click()
 
-    def iframe_parent(self, value):    #切回父iframe
-        self.driver.switch_to.frame(self.driver.find_element_by_tag_name(value))
+    def sleep_time(self, time):
+        sleep(time)
 
-    def default_content(self):
-        self.driver.switch_to.default_content()       #切到frame中之后，我们便不能继续操作主文档的元素，这时如果想操作主文档内容，则需切回主文档
-        log.info('切换回主文档')
+    def click_all(self, locator):
+        allc = self.get_elements(locator)
+        i = 0
+        log.info(u'开始执行click_all，共%s个元素' % (len(allc)))
+        for ele in allc:
+            self.sleep_time(0.5)
+            ele.click()
+            i += 1
+            log.info(u'点击第 %s 个元素' % i)
+
+    def double_click(self, locator):
+        ele = self.get_element(locator)
+        ActionChains(self.driver).double_click(ele).perform()
+        log.info(u'双击 %s 元素' % locator)
+
+    def move_to_element(self, locator):
+        element = self.get_element(locator)
+        ActionChains(self.driver).move_to_element(element).perform()
+        log.info(u'指向元素%s' % locator)
+
+    def get_attribute(self, locator, attribute):
+        value = self.get_element(locator).get_attribute(attribute)
+        log.info(u'获取元素 %s 的属性值 %s 为：%s' % (locator, attribute, value))
+        return value
+
+    def get_ele_text(self, locator):
+        """
+        :return: 元素的文本
+        """
+        ele = self.get_element(locator)
+        text = ele.text
+        log.info(u'获取元素 %s 的文本为：%s' % (locator, self.get_element(locator).text))
+        return text
+
+    def switch_frame(self, locator):
+        e = self.get_element(locator)
+        self.driver.switch_to.frame(e)
+        log.info(u'进入frame：%s' % locator)
+
+    def switch_default(self):
+        """
+        退出frame返回默认文档
+        """
+        self.driver.switch_to.default_content()
+        log.info(u'退出frame返回默认文档')
+
+    def js(self, script):
+        """
+        执行JavaScript
+        :param script:js语句
+        """
+        self.driver.execute_script(script)
+        log.info(u'执行JS语句：%s' % script)
+
+    def scroll_element(self, locator):
+        """
+        拖动滚动条至目标元素
+        """
+        script = "return arguments[0].scrollIntoView();"
+        element = self.get_element(locator)
+        self.driver.execute_script(script, element)
+        log.info(u'滚动至元素：%s' % locator)
+
+    def scroll_top(self):
+        """
+        滚动至顶部
+        """
+        self.js("window.scrollTo(document.body.scrollHeight,0)")
+        log.info(u'滚动至顶部')
+
+    def scroll_bottom(self):
+        """
+        滚动至底部
+        """
+        self.js("window.scrollTo(0,document.body.scrollHeight)")
+        log.info(u'滚动至底部')
+
+    def get_element_offset(self, locator):
+        """
+        获取元素坐标
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        :return: x,y
+        """
+        element = self.get_element(locator)
+        loc = element.location
+        x = loc['x']
+        y = loc['y']
+        log.info(u'获取元素坐标：%s,%s' % (x, y))
+        return x, y
+
+    def get_element_offset_click(self, locator):
+        """
+        获取元素坐标并点击中间位置，适用于：元素A中套着元素B，元素B无法定位但元素A可以定位
+        :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
+        """
+        element = self.get_element(locator)
+        loc = element.location
+        x = loc['x']
+        y = loc['y']
+        size = element.size
+        width = size['width']
+        height = size['height']
+        x += width
+        y += height
+        self.click_offset(x, y)
+
+    def click_offset(self, x, y):
+        """
+        点击坐标
+        :param x: x坐标'
+        :param y: y坐标'
+
+        """
+        ActionChains(self.driver).move_by_offset(x, y).click().perform()
+        log.info(u'点击坐标%s,%s' % (x, y))
 
     def forward(self):      #页面向前
         self.driver.forward()
@@ -185,22 +271,6 @@ class BaseMethod(object):
     def close(self):       #关闭当前页
         self.driver.close()
         self.driver.switch_to.window(self.driver.window_handles[0])
-
-    def scroll_element(self, type, value):     #true是到顶部，false到底部
-             # 拖动滚动条至目标元素
-        if type == 'xpath':
-            element = self.driver.find_element_by_xpath(value)
-            self.driver.execute_script("return arguments[0].scrollIntoView(false);", element)
-        elif type == 'id':
-            element = self.driver.find_element_by_id(value)
-            # self.driver.execute_script("return arguments[0].scrollIntoView(false);", element)
-            self.driver.execute_script("return arguments[0].scrollIntoView();", element)
-
-    def scroll_down(self):       #滚动到最底部
-        self.driver.execute_script('window.scrollTo(0,document.body.scrollHeight)')
-
-    def scroll_up(self):       #滚动到最顶部
-        self.driver.execute_script('window.scrollTo(document.body.scrollHeight,0)')
 
     def roll(self):          #滚动条针对整个HTML
         js = "var q=document.documentElement.scrollTop=1000"
@@ -247,159 +317,28 @@ class BaseMethod(object):
         # 切换到新的handle上
         # self.driver.switch_to.window(all_handles[1])
 
-        # 验证元素是否存在
-    def Check_element(self,type, value):
-        if type == "xpath":
-            self.driver.find_element_by_xpath(value)
-            log.info(u'验证元素，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "id":
-            self.driver.find_element_by_id(value)
-            log.info(u'验证元素，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "name":
-            self.driver.find_element_by_name(value)
-            log.info(u'验证元素，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "link_text":
-            self.driver.find_element_by_link_text(value)
-            log.info(u'验证元素，元素类型 %s ,属性值 %s ' % (type, value))
-        elif type == "partial_link_text":
-            self.driver.find_element_by_partial_link_text(value)
-            log.info(u'验证元素，元素类型 %s ,属性值 %s ' % (type, value))
-
-
-        # 获取输入框的值
-    def Get_attribute(self, type, value1, value2):
-        if type == "xpath":
-            value = self.driver.find_element_by_xpath(value1).get_attribute(value2)
-            log.info(u'获取输入框值，元素类型 %s ,属性值 %s ,获取内容 %s' % (type, value1, value2))
-            return value
-        elif type == "name":
-            value = self.driver.find_element_by_name(value1).get_attribute(value2)
-            log.info(u'获取输入框值，元素类型 %s ,属性值 %s ,获取内容 %s' % (type, value1, value2))
-            return value
-        elif type == "link_text":
-            value = self.driver.find_element_by_link_text(value1).get_attribute(value2)
-            log.info(u'获取输入框值，元素类型 %s ,属性值 %s ,获取内容 %s' % (type, value1, value2))
-            return value
-        elif type == "class_name":
-            value = self.driver.find_element_by_class_name(value1).get_attribute(value2)
-            log.info(u'获取输入框值，元素类型 %s ,属性值 %s ,获取内容 %s' % (type, value1, value2))
-            return value
-        elif type == "id":
-            value = self.driver.find_element_by_id(value1).get_attribute(value2)
-            log.info(u'获取输入框值，元素类型 %s ,属性值 %s ,获取内容 %s' % (type, value1, value2))
-            return value
-
         # 获取下拉框的文本的值
 
-    def Get_text(self,type, value):
-        if type == "xpath":
-            text = self.driver.find_element_by_xpath(value).text
-            return text
-        elif type == "name":
-            text = self.driver.find_element_by_name(value).text
-            return text
-        elif type == "link_text":
-            text = self.driver.find_element_by_link_text(value).text
-            return text
-        elif type == "class_name":
-            text = self.driver.find_element_by_class_name(value).text
-            return text
-        elif type == "id":
-            text = self.driver.find_element_by_id(value).text
-            return text
+    def get_select_text(self, locator, text):
+        ele = self.get_element(locator)
+        Select(ele).select_by_visible_text(text)
+        text = ele.text
+        return text
 
-    def select_text(self, type, value1,value2):         #通过选项可见文本
-        if type == 'id':
-            m = self.driver.find_element_by_id(value1)
-            Select(m).select_by_visible_text(value2)
-        elif type == 'css':
-            m = self.driver.find_element_by_id(value1)
-            Select(m).select_by_visible_text(value2)
-
-    def select_value(self, value1, value2):      #通过value属性
-        m = self.driver.find_element_by_id(value1)
-        Select(m).select_by_value(value2)
-
-
-    # def check_text(self,Xpath, value):
-    #         WebElementtext = self.driver.findElement(By.id)
-    #         self.text.getText().contains("文字")
-    #         return
-    #         self.login("183******44", "a1234567****")
-    #         time.sleep(3)
-    #         # 断言方法1：
-    #         slef.text = self.driver.find_element_by_xpath(Xpath).text
-    #
-    #         Text = str(value)
-    #
-    #          "//*[@id='settingForHover']/div/div[1]/span[2]"
-    #         StringpageTitle = str(self.driver.title())
-    #         self.assertEqual(Text, value)
-
-        # # 鼠标移动点击机制
-    def Move_action(self, type, value):
-        if type == "xpath":
-            xm = self.driver.find_element_by_xpath(value)
-            webdriver.ActionChains(webdriver.Chrome()).click(xm).perform()
-        elif type == "id":
-            xm = self.driver.find_element_by_id(value)
-            webdriver.ActionChains(webdriver.Chrome()).click(xm).perform()
-        elif type == "name":
-            xm = self.driver.find_element_by_name(value)
-            webdriver.ActionChains(webdriver.Chrome()).click(xm).perform()
-        elif type == "link_text":
-            xm = self.driver.find_element_by_link_text(value)
-            webdriver.ActionChains(webdriver.Chrome()).click(xm).perform()
+    def get_select_value(self, locator, value):      #通过value属性
+        m = self.get_element(locator)
+        Select(m).select_by_value(value)
 
         # 校验按钮是否为选中状态
-    def Is_selected(self, type, value):
-        if type == "id":
-            self.driver.find_element_by_id(value).is_selected()
-        elif type == "xpath":
-            self.driver.find_element_by_xpath(value).is_selected()
-        elif type == "class_name":
-            self.driver.find_element_by_class_name(value).is_selected()
-        elif type == "name":
-            self.driver.find_element_by_name(value).is_selected()
-        elif type == "link_text":
-            self.driver.find_element_by_link_text(value).click()
-
-    def movefloat(self, type, value):
-        # 定位到要悬停的元素
-        if type == "id":
-            move = self.driver.find_element_by_id(value)
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-        elif type == "xpath":
-            move = self.driver.find_element_by_xpath(value)
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-        elif type == "class_name":
-            move = self.driver.find_element_by_class_name(value)
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-        elif type == "name":
-            move = self.driver.find_element_by_name(value)
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-        elif type == "link_text":
-            move = self.driver.find_element_by_link_text(value)
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-
-    def movefloat_class(self, type, value, index):
-        if type == 'class_name':
-            move = self.driver.find_elements_by_class_name(value)[index]
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
-        elif type == 'css':
-            move = self.driver.find_elements_by_css_selector(value)[index]
-            # 对定位到的元素执行悬停操作
-            ActionChains(self.driver).move_to_element(move).perform()
+    def Is_selected(self, locator):
+        self.get_element(locator).is_selected()
 
     def alert_accept(self):
-        alert = self.driver.switch_to.alert    #新
+        alert = self.driver.switch_to.alert
+        text = str(alert.text)
+        log.info(u'alert提示为：%s' % text)
         alert.accept()
+        return text
 
     def alert_text(self):
         a = self.driver.switch_to.alert
@@ -407,31 +346,16 @@ class BaseMethod(object):
         log.info(b)
 
     def alert_dimiss(self):
-        alert = self.driver.switch_to.alert  # 新
+        alert = self.driver.switch_to.alert
         alert.dimiss()
 
     def wait_alert(self, waittime):
         from selenium.webdriver.support import expected_conditions as EC
         WebDriverWait(self.driver, waittime).until(EC.alert_is_present())
-        self.driver.switch_to.alert.accept()
-
-    def waitelement(self, type, waittime, value):
-        if type == "id":
-            WebDriverWait(self.driver,waittime).until(lambda x: x.find_element_by_id(value))
-        elif type == "name":
-            WebDriverWait(self.driver, waittime).until(lambda x: x.find_element_by_name(value))
-        elif type == "class_name":
-            WebDriverWait(self.driver, waittime).until(lambda x: x.find_element_by_class_name(value))
-        elif type == "xpath":
-            WebDriverWait(self.driver, waittime).until(lambda x: x.find_element_by_xpath(value))
-        elif type == "link_text":
-            WebDriverWait(self.driver, waittime).until(lambda x: x.find_element_by_link_text(value))
-        else:
-            print('元素类型错误')
-
-    def clear(self, by, locator):               # """清理数据"""
-        element = self.locate_element(by, locator)
-        element.clear()
+        alert = self.driver.switch_to.alert
+        text = str(alert.text)
+        log.info(u'alert提示为：%s' % text)
+        alert.accept()
 
     def get_url(self):
         print(self.driver.current_url)
@@ -449,39 +373,3 @@ class BaseMethod(object):
 
 
 
-    # def split_locator(self, locator):
-    #  #分解定位表达式，如'css,.username',拆分后返回'css selector'和定位表达式'.username'(class为username的元素)
-    #  #:param locator: 定位方法+定位表达式组合字符串，如'css,.username'
-    #  #:return: locator_dict[by], value:返回定位方式和定位表达式
-    #     by = locator.split(',')[0]
-    #     value = locator.split(',')[1]
-    #     locator_dict = {
-    #     'id': 'id',
-    #     'name': 'name',
-    #     'class': 'class name',
-    #     'tag': 'tag name',
-    #     'link': 'link text',
-    #     'plink': 'partial link text',
-    #     'xpath': 'xpath',
-    #     'css': 'css selector',
-    #     }
-    #     if by not in locator_dict.keys():
-    #         raise NameError("wrong locator!'id','name','class','tag','link','plink','xpath','css',exp:'id,username'")
-    #     return locator_dict[by], value
-
-    # def get_element(self, locator, sec=60):
-    #          # 获取一个元素
-    #          # :param locator: 定位方法+定位表达式组合字符串，用逗号分隔，如'css,.username'
-    #          # :param sec:等待秒数
-    #          # :return: 元素可找到返回element对象，否则返回False
-    #     if self.wait_element(locator, sec):
-    #         by, value = self.split_locator(locator)
-    #         print(by, value)
-    #         try:
-    #             element = self.driver.find_element(by=by, value=value)
-    #             log.info(u'获取元素：%s' % locator)
-    #             return element
-    #         except Exception as e:
-    #             raise e
-    #     else:
-    #         return False

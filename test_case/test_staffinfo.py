@@ -6,6 +6,7 @@ from pages.staffinfo_page import staffinfo_page
 
 
 class Test_staff_info:
+
     def test_click_delete01(self, browser, log_up):
         try:
             log_up.info('测试用例：添加员工')
@@ -14,16 +15,15 @@ class Test_staff_info:
             staff.department()
             staff.add_staff()
             staff.add()
+            staff.accept()
             staff.content()
             staff.department()
             staff.add_department()
             staff.change_iframe()
             staff.change_table()
             staff.add_data()
-            assert staff.add_data() == 'zidonghuaceshi'
         except Exception as e:
-            print("Exception happening :" + str(e))
-            raise
+            print(u'Exception is happening:' % e)
 
     def test_click_delete02(self, browser, log_up):
         try:
@@ -35,6 +35,8 @@ class Test_staff_info:
             staff.change_iframe()
             staff.change_table()
             staff.delete_locate()
+            staff.alert_acc()
+
         except Exception as e:
             print("Exception happening :" + str(e))
             raise
